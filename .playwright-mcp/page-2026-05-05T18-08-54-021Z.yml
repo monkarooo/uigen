@@ -1,0 +1,936 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=e2] [cursor=pointer]
+      - link "Accessibility help" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en
+      - link "Accessibility feedback" [ref=e4] [cursor=pointer]
+  - generic [ref=e9]:
+    - search [ref=e10]:
+      - generic [ref=e12]:
+        - generic:
+          - generic:
+            - img
+        - link "US Teacher Appreciation Day 2026" [ref=e14] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQPQgL
+          - img "US Teacher Appreciation Day 2026" [ref=e15]
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - combobox "Search" [ref=e20]: tuxedo cat tuxedo cat
+            - generic [ref=e21]:
+              - button "Clear" [ref=e23] [cursor=pointer]:
+                - img [ref=e25]
+              - generic [ref=e28]:
+                - button "Search by voice" [ref=e29] [cursor=pointer]:
+                  - img [ref=e30]
+                - button "Search by image" [ref=e32] [cursor=pointer]:
+                  - img [ref=e33]
+          - button "Search" [ref=e35] [cursor=pointer]:
+            - img [ref=e38]
+    - generic [ref=e40]:
+      - button "Settings" [ref=e42] [cursor=pointer]:
+        - img [ref=e45]
+      - generic [ref=e48]:
+        - button "Google apps" [ref=e50] [cursor=pointer]:
+          - img [ref=e51]
+        - link "Sign in" [ref=e55] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Dtuxedo%2Bcat%26sca_esv%3D39f50cfd4d7ec138%26source%3Dhp%26ei%3DLTL6aYXANJnbptQP4_O82Qg%26iflsig%3DAFdpzrgAAAAAafpAPbA3I855rN2lhJajANtIws8uZ_zL%26ved%3D0ahUKEwjFirGB36KUAxWZrYkEHeM5L4sQ4dUDCCg%26uact%3D5%26oq%3Dtuxedo%2Bcat%26gs_lp%3DEgdnd3Mtd2l6Igp0dXhlZG8gY2F0SApQAFgAcAB4AJABAJgBAKABAKoBALgBA8gBAPgBAZgCAKACAJgDAJIHAKAHALIHALgHAMIHAMgHAIAIAQ%26sclient%3Dgws-wiz&ec=futura_srp_og_si_72236_p
+  - generic [ref=e57]:
+    - navigation [ref=e63]:
+      - generic [ref=e69]:
+        - list [ref=e70]:
+          - listitem [ref=e71]:
+            - link "AI Mode" [ref=e74] [cursor=pointer]:
+              - /url: /search?q=tuxedo+cat&sca_esv=39f50cfd4d7ec138&udm=50&source=hp&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3o6iwGk6Iv1tRbZIBNIVs-5-bUj3iBl-UxHsANYwOkWWQqZAJJdwuRaSoLHfELMHAQFneUwKM50jpvR3lgPoPKPocSAVLVIC1tmtj18NQh34sJoMKkeMLmVT0BQXR6brJvbElwncIYMxPc2e7aIP7xyAYnsJEw_6y0zcNxiTmikcViftsA&aep=1&ntc=1&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQ2J8OegQIEBAD
+              - generic [ref=e77]: AI Mode
+          - listitem [ref=e78]:
+            - link "All" [disabled] [ref=e79]:
+              - generic [ref=e81]: All
+          - listitem [ref=e82]:
+            - link "Images" [ref=e83] [cursor=pointer]:
+              - /url: /search?sca_esv=39f50cfd4d7ec138&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3o6iwGk6Iv1tRbZIBNIVs-5-bUj3iBl-UxHsANYwOkWWQqZAJJdwuRaSoLHfELMHAQFneUwKM50jpvR3lgPoPKPocSAVLVIC1tmtj18NQh34sJoMKkeMLmVT0BQXR6brJvbElwncIYMxPc2e7aIP7xyAYnsJEw_6y0zcNxiTmikcViftsA&q=tuxedo+cat&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQtKgLegQIMRAB
+              - generic [ref=e85]: Images
+          - listitem [ref=e86]:
+            - link "Shopping" [ref=e87] [cursor=pointer]:
+              - /url: /search?sca_esv=39f50cfd4d7ec138&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3o6iwGk6Iv1tRbZIBNIVs-5-bUj3iBl-UxHsANYwOkWWQqZAJJdwuRaSoLHfELMHAQFneUwKM50jpvR3lgPoPKPocSAVLVIC1tmtj18NQh34sJoMKkeMLmVT0BQXR6brJvbElwncIYMxPc2e7aIP7xyAYnsJEw_6y0zcNxiTmikcViftsA&q=tuxedo+cat&ved=1t:220175&ictx=111
+              - generic [ref=e89]: Shopping
+          - listitem [ref=e90]:
+            - link "Videos" [ref=e91] [cursor=pointer]:
+              - /url: /search?sca_esv=39f50cfd4d7ec138&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3o6iwGk6Iv1tRbZIBNIVs-5-bUj3iBl-UxHsANYwOkWWQqZAJJdwuRaSoLHfELMHAQFneUwKM50jpvR3lgPoPKPocSAVLVIC1tmtj18NQh34sJoMKkeMLmVT0BQXR6brJvbElwncIYMxPc2e7aIP7xyAYnsJEw_6y0zcNxiTmikcViftsA&q=tuxedo+cat&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQtKgLegQIKRAB
+              - generic [ref=e93]: Videos
+          - listitem [ref=e94]:
+            - link "Short videos" [ref=e95] [cursor=pointer]:
+              - /url: /search?sca_esv=39f50cfd4d7ec138&udm=39&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3o6iwGk6Iv1tRbZIBNIVs-5-bUj3iBl-UxHsANYwOkWWQqZAJJdwuRaSoLHfELMHAQFneUwKM50jpvR3lgPoPKPocSAVLVIC1tmtj18NQh34sJoMKkeMLmVT0BQXR6brJvbElwncIYMxPc2e7aIP7xyAYnsJEw_6y0zcNxiTmikcViftsA&q=tuxedo+cat&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQs6gLegQIKBAB
+              - generic [ref=e97]: Short videos
+          - listitem [ref=e98]:
+            - link "News" [ref=e99] [cursor=pointer]:
+              - /url: /search?sca_esv=39f50cfd4d7ec138&q=tuxedo+cat&tbm=nws&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3o6iwGk6Iv1tRbZIBNIVs-5-bUj3iBl-UxHsANYwOkWWQqZAJJdwuRaSoLHfELMHAQFneUwKM50jpvR3lgPoPKPocSAVLVIC1tmtj18NQh34sJoMKkeMLmVT0BQXR6brJvbElwncIYMxPc2e7aIP7xyAYnsJEw_6y0zcNxiTmikcViftsA&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQ0pQJegQIJRAB
+              - generic [ref=e101]: News
+          - listitem [ref=e102]:
+            - button "More filters" [ref=e103] [cursor=pointer]:
+              - generic "More filters" [ref=e104]:
+                - generic [ref=e105]:
+                  - generic [ref=e106]: More
+                  - img [ref=e108]
+        - button "Tools" [ref=e111] [cursor=pointer]:
+          - generic [ref=e113]:
+            - generic [ref=e114]: Tools
+            - img [ref=e116]
+    - heading "Search Results" [level=1] [ref=e118]
+    - generic [ref=e123]:
+      - generic [ref=e133]:
+        - heading "Bicolor cat" [level=2] [ref=e135]
+        - button "More options for Bicolor cat" [ref=e141] [cursor=pointer]:
+          - img "More options for Bicolor cat" [ref=e142]:
+            - img [ref=e144]
+      - complementary "Featured results" [ref=e155]:
+        - generic [ref=e157]:
+          - list [ref=e160]:
+            - listitem [ref=e161]:
+              - 'button "Image of 9 Bicolor Cat Patterns (With Info & Pictures) - Catster Source: Catster" [ref=e164] [cursor=pointer]':
+                - generic [ref=e165]:
+                  - img "Image of 9 Bicolor Cat Patterns (With Info & Pictures) - Catster" [ref=e167]
+                  - generic: "Source: Catster"
+            - listitem [ref=e168]:
+              - button "Image of Are Tuxedo Cats More Intelligent Than Other Cats? Find Out ..." [ref=e171] [cursor=pointer]:
+                - img "Image of Are Tuxedo Cats More Intelligent Than Other Cats? Find Out ..." [ref=e174]
+            - listitem [ref=e175]:
+              - 'button "Image of Tuxedo Cat: Breed Profile, Characteristics & Care" [ref=e178] [cursor=pointer]':
+                - 'img "Image of Tuxedo Cat: Breed Profile, Characteristics & Care" [ref=e181]'
+            - listitem [ref=e182]:
+              - link [ref=e186] [cursor=pointer]:
+                - /url: /search?sca_esv=39f50cfd4d7ec138&q=tuxedo+cat&udm=2&source=univ&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQnN8JegQIHxAD
+                - img [ref=e189]
+          - generic [ref=e193] [cursor=pointer]:
+            - button "9 Facts You Didn't Know About Tuxedo Cats by Cats on YouTube. Play on Google. 8:29" [ref=e195]:
+              - generic [ref=e202]:
+                - generic [ref=e203]:
+                  - img [ref=e204]
+                  - generic [ref=e206]: 8:29
+                - img [ref=e209]
+            - link "YouTube • Cats 9 Facts You Didn't Know About Tuxedo Cats Tuxedo cats aren't a breed, but a pattern. They can be any color, not just black and white, and are equally likely to be male or female. Jun 26, 2023" [ref=e212]:
+              - /url: https://www.youtube.com/watch?v=pshVbiCVIp0
+              - generic [ref=e213]:
+                - generic [ref=e216]: YouTube • Cats
+                - generic [ref=e218]: 9 Facts You Didn't Know About Tuxedo Cats
+                - generic [ref=e220]: Tuxedo cats aren't a breed, but a pattern. They can be any color, not just black and white, and are equally likely to be male or female.
+                - generic [ref=e221]: Jun 26, 2023
+          - generic [ref=e223] [cursor=pointer]:
+            - link "Facebook Black and white, bold and beautiful - tuxedo cats have so much charm, yet they can take longer to be rehomed due to the colour of their fur. This National Tuxedo Day, we're shining a spotlight on these classy ... You will discover a loyal cat, adorable and full of sympathy, capable of brightening your days and accompanying you at every moment. Tuxedo cats... Oct 10, 2025" [ref=e224]:
+              - /url: https://www.facebook.com/RSPCA/posts/black-and-white-bold-and-beautiful-tuxedo-cats-have-so-much-charm-yet-they-can-t/1376348500516533/
+            - generic [ref=e228]:
+              - generic [ref=e231]: Facebook
+              - generic [ref=e233]: Black and white, bold and beautiful - tuxedo cats have so much charm, yet they can take longer to be rehomed due to the colour of their fur. This National Tuxedo Day, we're shining a spotlight on these classy ...
+              - generic [ref=e235]: You will discover a loyal cat, adorable and full of sympathy, capable of brightening your days and accompanying you at every moment. Tuxedo cats...
+              - generic [ref=e237]: Oct 10, 2025
+          - generic [ref=e240] [cursor=pointer]:
+            - generic:
+              - button "This is by FAR the most Gorgeous Tuxedo Cat I've EVER seen by Girl With The Dogs 2 on YouTube. Play on Google. 14:30":
+                - generic [ref=e247]:
+                  - generic [ref=e248]:
+                    - img [ref=e249]
+                    - generic [ref=e251]: 14:30
+                  - img [ref=e254]
+                - generic [ref=e256]:
+                  - generic [ref=e259]: YouTube • Girl With The Dogs 2
+                  - generic [ref=e261]: Jul 13, 2025
+                  - generic [ref=e262]: This is by FAR the most Gorgeous Tuxedo Cat I've EVER seen
+      - main [ref=e267]:
+        - generic [ref=e271]:
+          - generic [ref=e272]:
+            - generic [ref=e278]:
+              - heading "Overview" [level=3] [ref=e281]
+              - generic [ref=e286]:
+                - generic [ref=e290]:
+                  - heading "Description" [level=3] [ref=e291]
+                  - generic [ref=e292]: A bicolor cat is a cat with white fur combined with fur of some other color, for example, solid black, tabby, or colorpointed. There are various patterns of a bicolor cat. Bicolor coats are found in many cat breeds and are in domestic longhair and domestic shorthair cats.
+                  - link "Wikipedia" [ref=e294] [cursor=pointer]:
+                    - /url: https://en.wikipedia.org/wiki/Bicolor_cat
+                - generic [ref=e301]:
+                  - generic [ref=e302]: Lifespan
+                  - generic [ref=e304]:
+                    - link "Turkish Angora" [ref=e305] [cursor=pointer]:
+                      - /url: /search?sca_esv=39f50cfd4d7ec138&q=Turkish+Angora&si=AL3DRZEaipurC9pse1xO2aCwuJWfKA_Njx1c7Qs8ap9rx81jmm23cqGo-MU0Dd4UjuR17Q2aMEjH1Vsh1jSVwKy5AsWHOBz6ZTq4xP81whgsPCQGm5XR38kfTK75eAiKipJoEkn1sBCvjr-fLarD0fGkg39ny-2VrkmcARV7XAVBtjYms5KmMQpuIdzS0i3GduqOQHPt7Efu&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQmxN6BAgWEAI
+                    - text: ": 12 – 18 years"
+              - button "Feedback" [ref=e308] [cursor=pointer]:
+                - generic [ref=e309]: Feedback
+            - generic [ref=e312]:
+              - generic [ref=e315]:
+                - 'link "Tuxedo Cat: Breed Profile, Characteristics & Care The Spruce Pets https://www.thesprucepets.com › about-tuxedo-cats-554..." [ref=e317] [cursor=pointer]':
+                  - /url: https://www.thesprucepets.com/about-tuxedo-cats-554695
+                  - 'heading "Tuxedo Cat: Breed Profile, Characteristics & Care" [level=3] [ref=e318]'
+                  - generic [ref=e323]:
+                    - generic [ref=e325]: The Spruce Pets
+                    - generic [ref=e327]: https://www.thesprucepets.com › about-tuxedo-cats-554...
+                - button "About this result" [ref=e328] [cursor=pointer]:
+                  - img [ref=e331]
+              - generic [ref=e334]:
+                - generic [ref=e335]: Jun 9, 2025 —
+                - generic [ref=e336]:
+                  - text: Tuxedo cats are
+                  - emphasis [ref=e337]: loving, playful, intelligent, and social
+                  - text: ", and they can get along well with people of all ages and other cats and pets."
+                - link "Read more" [ref=e338] [cursor=pointer]:
+                  - /url: https://www.thesprucepets.com/about-tuxedo-cats-554695#:~:text=Generally%2C%20though%2C%20tuxedo%20cats%20are,and%20other%20cats%20and%20pets.
+              - link "tuxedo cat from www.thesprucepets.com" [ref=e341] [cursor=pointer]:
+                - /url: https://www.thesprucepets.com/about-tuxedo-cats-554695
+                - img "tuxedo cat from www.thesprucepets.com" [ref=e343]
+          - generic [ref=e345]:
+            - generic [ref=e348]:
+              - heading "People also search for" [level=3] [ref=e350]
+              - generic [ref=e355]:
+                - list [ref=e356]:
+                  - listitem [ref=e358]:
+                    - generic [ref=e359]:
+                      - link "Calico cat":
+                        - /url: /search?sca_esv=39f50cfd4d7ec138&si=AL3DRZGDMkmBg1SB5TH8o8Xeh03tgmwpgZCgiYi5BFB_ELNOTJ9qJw-2Pg9vA0-3IGqCIfUR3XJXM0U67lurMqUa83LZBTHgyE80fg7InmZCrqEzlSeHaktmK_U98AIdpRUDH_VHcWmdN_ymlIqimf_zTikP4co3IeTpl7EERb4kV5nDdS5HLfluOYIAtl0LENO6eCEwNAqu&q=Calico+cat&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQs9oBKAB6BAgPEAY
+                      - heading [level=3] [ref=e364]:
+                        - generic [ref=e365]: Calico cat
+                  - listitem [ref=e367]:
+                    - generic [ref=e368]:
+                      - link "Tortoiseshell cat":
+                        - /url: /search?sca_esv=39f50cfd4d7ec138&si=AL3DRZHmwLjWhgnaPB3UTu10R6S5qNLXiQiKMeezfKyB1FMsRip9zlSLo2O5RjSX4YhXv3_w8yWOM_eNcrIKFxLC4C3KsjZNMmI7zfx8Xnz0HwtdYJ71R6x7i_juIH7POyLRRcUtRggcmYHszUMl_WfROpVoOXUHNr9ArEJMsVRgdQImQljad_jpEEy6oyW78ZSqAkr769WcunjJO20cg268FACudwq7-A%3D%3D&q=Tortoiseshell+cat&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQs9oBKAB6BAgPEAo
+                      - heading [level=3] [ref=e373]:
+                        - generic [ref=e374]: Tortoiseshell cat
+                  - listitem [ref=e376]:
+                    - generic [ref=e377]:
+                      - link "Cat":
+                        - /url: /search?sca_esv=39f50cfd4d7ec138&si=AL3DRZHmwLjWhgnaPB3UTu10R6S5qNLXiQiKMeezfKyB1FMsRlgBMw8_vYoDOdFB_0NpdBG9ZvOEL8jOxYvE9kJlM37yrKXKexkekEA-1X6UIK0L-iQWvtMsx_FHaJnke-qbv9JQ03i2EaQkrLzrQJhP6jDtBnY8fbKncVqs6hSA2BTassC5rC1c3H5eVPToVRgat85pJhw-&q=Cat&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQs9oBKAB6BAgPEA4
+                      - heading [level=3] [ref=e382]:
+                        - generic [ref=e383]: Cat
+                  - listitem [ref=e385]:
+                    - generic [ref=e386]:
+                      - link "Ragdoll":
+                        - /url: /search?sca_esv=39f50cfd4d7ec138&si=AL3DRZEaipurC9pse1xO2aCwuJWfKA_Njx1c7Qs8ap9rx81jmtZtnVeQSmLP8HVIagrU3hRLNJXEeJHwzk5kgJ0hagF0lsE7B5FUuojXMSY8mcHolFS2t2wR51VJtOv0CG6mwTR21VWqOqpyYN9v6raAXvHyjnid7VyBtED_BUFF1TS0MAnJNEuYCAVsJ4YaBJIxhsI_uoRb&q=Ragdoll&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQs9oBKAB6BAgPEBI
+                      - heading [level=3] [ref=e391]:
+                        - generic [ref=e392]: Ragdoll
+                - link "See more" [ref=e394] [cursor=pointer]:
+                  - /url: /search?sca_esv=39f50cfd4d7ec138&q=Bicolor+cat&stick=H4sIAAAAAAAAAONgFuLQz9U3yDAxTFOCs7QEgzNTUssTK4v9UitKgktSC4p_MYoFpOYX5KQqJOYU5ysUpyYWJWcopOUXLWLldspMzs_JL1JITiy5xSbJsFT5Nv-z0IyFsRXHnijPevd8WlOf1YpU0zwAUI2UsWwAAAA&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQzO0BKAR6BAgPEBQ
+                  - generic [ref=e395]:
+                    - generic [ref=e396]: See more
+                    - img [ref=e398]
+            - generic [ref=e402]:
+              - heading "People also ask" [level=2] [ref=e404]
+              - generic [ref=e405]:
+                - button "What is special about tuxedo cats?" [ref=e411] [cursor=pointer]:
+                  - generic [ref=e413]: What is special about tuxedo cats?
+                  - img [ref=e416]
+                - button "How do cats say goodbye?" [ref=e425] [cursor=pointer]:
+                  - generic [ref=e427]: How do cats say goodbye?
+                  - img [ref=e430]
+                - button "Are tuxedo cats the friendliest?" [ref=e439] [cursor=pointer]:
+                  - generic [ref=e441]: Are tuxedo cats the friendliest?
+                  - img [ref=e444]
+                - button "What is another name for a tuxedo cat?" [ref=e453] [cursor=pointer]:
+                  - generic [ref=e455]: What is another name for a tuxedo cat?
+                  - img [ref=e458]
+          - generic [ref=e463]:
+            - heading "Web results" [level=2] [ref=e464]
+            - generic [ref=e465]:
+              - generic [ref=e468]:
+                - link "r/TuxedoCats Reddit · r/TuxedoCats 251.5K+ followers" [ref=e470] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/TuxedoCats/
+                  - heading "r/TuxedoCats" [level=3] [ref=e471]
+                  - generic [ref=e476]:
+                    - generic [ref=e478]: Reddit · r/TuxedoCats
+                    - generic [ref=e480]: 251.5K+ followers
+                - button "About this result" [ref=e481] [cursor=pointer]:
+                  - img [ref=e484]
+              - generic [ref=e488]:
+                - text: "r/TuxedoCats:"
+                - emphasis [ref=e489]: A place to post pictures of your Tuxedo Cat
+                - text: . All kitties with a mix of black and white are welcome, and all colors of cat displaying…
+              - link "tuxedo cat from www.reddit.com" [ref=e492] [cursor=pointer]:
+                - /url: https://www.reddit.com/r/TuxedoCats/
+                - img "tuxedo cat from www.reddit.com" [ref=e494]
+          - generic [ref=e498]:
+            - generic [ref=e501]:
+              - 'link "What Breed Can A Tuxedo Cat Be?: A Deep Dive Into ... TheCatSite https://thecatsite.com › what-breed-tuxedo-cat" [ref=e503] [cursor=pointer]':
+                - /url: https://thecatsite.com/c/what-breed-tuxedo-cat/
+                - 'heading "What Breed Can A Tuxedo Cat Be?: A Deep Dive Into ..." [level=3] [ref=e504]'
+                - generic [ref=e509]:
+                  - generic [ref=e511]: TheCatSite
+                  - generic [ref=e513]: https://thecatsite.com › what-breed-tuxedo-cat
+              - button "About this result" [ref=e514] [cursor=pointer]:
+                - img [ref=e517]
+            - generic [ref=e520]:
+              - generic [ref=e521]:
+                - emphasis [ref=e522]: Tuxedo cats in and of themselves are not a specific breed
+                - text: but refer to the cat's pattern. Generally thought of and reserved for black and white cats.
+              - link "Read more" [ref=e523] [cursor=pointer]:
+                - /url: https://thecatsite.com/c/what-breed-tuxedo-cat/#:~:text=Tuxedo%20cats%20in%20and%20of,meeting%20the%20exact%20pattern%20requirements.
+            - link "tuxedo cat images from thecatsite.com" [ref=e525] [cursor=pointer]:
+              - /url: https://thecatsite.com/c/what-breed-tuxedo-cat/
+          - generic [ref=e537]:
+            - generic [ref=e539]:
+              - heading "Videos" [level=2] [ref=e540]
+              - button "About this result" [ref=e541] [cursor=pointer]:
+                - img [ref=e544]
+            - generic [ref=e547]:
+              - generic [ref=e553]:
+                - generic [ref=e554]:
+                  - generic [ref=e555]:
+                    - link "9 Facts You Didn't Know About Tuxedo Cats YouTube Cats Jun 26, 2023" [ref=e557] [cursor=pointer]:
+                      - /url: https://www.youtube.com/watch?v=pshVbiCVIp0
+                      - heading "9 Facts You Didn't Know About Tuxedo Cats YouTube Cats Jun 26, 2023" [level=3] [ref=e558]:
+                        - generic [ref=e561]: 9 Facts You Didn't Know About Tuxedo Cats
+                        - generic [ref=e563]:
+                          - generic [ref=e564]:
+                            - text: YouTube
+                            - generic [ref=e565]: · Cats
+                          - generic [ref=e566]: Jun 26, 2023
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - text: YouTube
+                              - generic: · Cats
+                        - button "About this result" [ref=e567] [cursor=pointer]:
+                          - img [ref=e570]
+                  - button "9 Facts You Didn't Know About Tuxedo Cats by Cats on YouTube. Play on Google. 8:29" [ref=e572] [cursor=pointer]:
+                    - generic [ref=e573]:
+                      - img [ref=e579]
+                      - generic [ref=e582]:
+                        - generic [ref=e584]: 8:29
+                        - img [ref=e587]
+                - button "Tuxedo cats aren't a breed, but a pattern. They can be any color, not just black and white, and are equally likely to be male or female." [ref=e590] [cursor=pointer]:
+                  - generic [ref=e594]: Tuxedo cats aren't a breed, but a pattern. They can be any color, not just black and white, and are equally likely to be male or female.
+              - generic [ref=e600]:
+                - generic [ref=e601]:
+                  - generic [ref=e602]:
+                    - link "This is by FAR the most Gorgeous Tuxedo Cat I've EVER seen YouTube Girl With The Dogs 2 Jul 13, 2025" [ref=e604] [cursor=pointer]:
+                      - /url: https://www.youtube.com/watch?v=1NP6sGFNgOM
+                      - heading "This is by FAR the most Gorgeous Tuxedo Cat I've EVER seen YouTube Girl With The Dogs 2 Jul 13, 2025" [level=3] [ref=e605]:
+                        - generic [ref=e608]: This is by FAR the most Gorgeous Tuxedo Cat I've EVER seen
+                        - generic [ref=e610]:
+                          - generic [ref=e611]:
+                            - text: YouTube
+                            - generic [ref=e612]: · Girl With The Dogs 2
+                          - generic [ref=e613]: Jul 13, 2025
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - text: YouTube
+                              - generic: · Girl With The Dogs 2
+                        - button "About this result" [ref=e614] [cursor=pointer]:
+                          - img [ref=e617]
+                  - button "This is by FAR the most Gorgeous Tuxedo Cat I've EVER seen by Girl With The Dogs 2 on YouTube. Play on Google. 14:30" [ref=e619] [cursor=pointer]:
+                    - generic [ref=e620]:
+                      - img [ref=e626]
+                      - generic [ref=e629]:
+                        - generic [ref=e631]: 14:30
+                        - img [ref=e634]
+                - button "Danny Boy is a unique tuxedo cat with marble-colored eyes, a black nose, and a panther-like muzzle." [ref=e637] [cursor=pointer]:
+                  - generic [ref=e641]: Danny Boy is a unique tuxedo cat with marble-colored eyes, a black nose, and a panther-like muzzle.
+              - generic [ref=e646]:
+                - generic [ref=e647]:
+                  - generic [ref=e648]:
+                    - 'link "Owning a Tuxedo Cat: The Good, The Bad, The Ugly YouTube The Cagdot Oct 22, 2025" [ref=e650] [cursor=pointer]':
+                      - /url: https://www.youtube.com/watch?v=YWdsqlGETug
+                      - 'heading "Owning a Tuxedo Cat: The Good, The Bad, The Ugly YouTube The Cagdot Oct 22, 2025" [level=3] [ref=e651]':
+                        - generic [ref=e654]: "Owning a Tuxedo Cat: The Good, The Bad, The Ugly"
+                        - generic [ref=e656]:
+                          - generic [ref=e657]:
+                            - text: YouTube
+                            - generic [ref=e658]: · The Cagdot
+                          - generic [ref=e659]: Oct 22, 2025
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - text: YouTube
+                              - generic: · The Cagdot
+                        - button "About this result" [ref=e660] [cursor=pointer]:
+                          - img [ref=e663]
+                  - 'button "Owning a Tuxedo Cat: The Good, The Bad, The Ugly by The Cagdot on YouTube. Play on Google. 8:29" [ref=e665] [cursor=pointer]':
+                    - generic [ref=e666]:
+                      - img [ref=e669]
+                      - generic [ref=e672]:
+                        - generic [ref=e674]: 8:29
+                        - img [ref=e677]
+                - button "Tuxedo cats are intelligent, social, and affectionate but can be mischievous, loud, and prone to health issues and demanding attention." [ref=e680] [cursor=pointer]:
+                  - generic [ref=e684]: Tuxedo cats are intelligent, social, and affectionate but can be mischievous, loud, and prone to health issues and demanding attention.
+            - link "View all videos" [ref=e687] [cursor=pointer]:
+              - /url: /search?sca_esv=39f50cfd4d7ec138&udm=7&q=tuxedo+cat&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQ8ccDKAJ6BQiAARAE
+              - separator [ref=e688]
+              - generic [ref=e689]:
+                - generic [ref=e690]: View all
+                - img [ref=e692]
+          - generic [ref=e696]:
+            - heading "Web results" [level=2] [ref=e697]
+            - generic [ref=e698]:
+              - generic [ref=e701]:
+                - link "Tuxedo Cat Facts by @olgatsvetaev on Instagram Facebook · ICanHasCheezburger? 7.3K+ reactions · 1 year ago" [ref=e703] [cursor=pointer]:
+                  - /url: https://www.facebook.com/ICanHasCheezburger/posts/tuxedo-cat-facts-by-olgatsvetaev-on-instagram/1049632920539293/
+                  - heading "Tuxedo Cat Facts by @olgatsvetaev on Instagram" [level=3] [ref=e704]
+                  - generic [ref=e709]:
+                    - generic [ref=e711]: Facebook · ICanHasCheezburger?
+                    - generic [ref=e713]: 7.3K+ reactions · 1 year ago
+                - button "About this result" [ref=e714] [cursor=pointer]:
+                  - img [ref=e717]
+              - generic [ref=e720]:
+                - text: Typically, their bellies, chests and paws are white while the rest of their body is black, orange or gray. These patterns make it look like the ...
+                - link "Read more" [ref=e721] [cursor=pointer]:
+                  - /url: https://www.facebook.com/ICanHasCheezburger/posts/tuxedo-cat-facts-by-olgatsvetaev-on-instagram/1049632920539293/#:~:text=Typically%2C%20their%20bellies%2C%20chests%20and,a%20tuxedo%2C%20hence%20the%20name.
+              - link "tuxedo cat from www.facebook.com" [ref=e724] [cursor=pointer]:
+                - /url: https://www.facebook.com/ICanHasCheezburger/posts/tuxedo-cat-facts-by-olgatsvetaev-on-instagram/1049632920539293/
+                - img "tuxedo cat from www.facebook.com" [ref=e726]
+          - generic [ref=e730]:
+            - heading "Short videos" [level=2] [ref=e732]
+            - generic [ref=e734]:
+              - list [ref=e736]:
+                - listitem [ref=e737]:
+                  - generic [ref=e741]:
+                    - generic [ref=e743]:
+                      - button "Tuxedo cat? by The Cattery Cat Shelter on YouTube. Play on Google. 1:36" [ref=e745] [cursor=pointer]:
+                        - generic [ref=e749]:
+                          - generic [ref=e750]:
+                            - img [ref=e751]
+                            - generic [ref=e753]: 1:36
+                          - img [ref=e756]
+                      - link "Tuxedo cat? YouTube · The Cattery Cat Shelter" [ref=e759] [cursor=pointer]:
+                        - /url: https://www.youtube.com/shorts/PDcXFCGHnhc
+                        - generic [ref=e760]:
+                          - heading "Tuxedo cat?" [level=3] [ref=e762]:
+                            - generic [ref=e763]: Tuxedo cat?
+                          - generic [ref=e768]: YouTube · The Cattery Cat Shelter
+                    - button "About this result" [ref=e772] [cursor=pointer]:
+                      - img [ref=e775]
+                - listitem [ref=e777]:
+                  - generic [ref=e780]:
+                    - generic [ref=e782]:
+                      - 'link "Tuxedo cats are a special kind of chaos . . . . #tuxedocat ... by Harvey the Tux on Facebook. Play on Facebook. 0:09" [ref=e784] [cursor=pointer]':
+                        - /url: https://www.facebook.com/harveytuxedocat/posts/tuxedo-cats-are-a-special-kind-of-chaos-tuxedocat-catlover-funnycat-cat/122200303358541750/
+                        - generic [ref=e789]:
+                          - img [ref=e790]
+                          - generic [ref=e792]: 0:09
+                      - 'link "Tuxedo cats are a special kind of chaos . . . . #tuxedocat ... Facebook · Harvey the Tux" [ref=e794] [cursor=pointer]':
+                        - /url: https://www.facebook.com/harveytuxedocat/posts/tuxedo-cats-are-a-special-kind-of-chaos-tuxedocat-catlover-funnycat-cat/122200303358541750/
+                        - generic [ref=e795]:
+                          - 'heading "Tuxedo cats are a special kind of chaos . . . . #tuxedocat ..." [level=3] [ref=e797]':
+                            - generic [ref=e798]: "Tuxedo cats are a special kind of chaos . . . . #tuxedocat ..."
+                          - generic [ref=e803]: Facebook · Harvey the Tux
+                    - button "About this result" [ref=e807] [cursor=pointer]:
+                      - img [ref=e810]
+                - listitem [ref=e812]:
+                  - generic [ref=e815]:
+                    - generic [ref=e817]:
+                      - link "Hi, I'm Harvey! A tuxedo cat with a big personality, a sense of ... by Kayleigh & Harvey | Adventure Cat Ireland on Instagram. Play on Instagram. 0:11" [ref=e819] [cursor=pointer]:
+                        - /url: https://www.instagram.com/reel/DVgC4llDeQt/
+                        - generic [ref=e824]:
+                          - img [ref=e825]
+                          - generic [ref=e827]: 0:11
+                      - link "Hi, I'm Harvey! A tuxedo cat with a big personality, a sense of ... Instagram · Kayleigh & Harvey | Adventure Cat Ireland" [ref=e829] [cursor=pointer]:
+                        - /url: https://www.instagram.com/reel/DVgC4llDeQt/
+                        - generic [ref=e830]:
+                          - heading "Hi, I'm Harvey! A tuxedo cat with a big personality, a sense of ..." [level=3] [ref=e832]:
+                            - generic [ref=e833]: Hi, I'm Harvey! A tuxedo cat with a big personality, a sense of ...
+                          - generic [ref=e838]: Instagram · Kayleigh & Harvey | Adventure Cat Ireland
+                    - button "About this result" [ref=e842] [cursor=pointer]:
+                      - img [ref=e845]
+                - listitem [ref=e847]:
+                  - generic [ref=e850]:
+                    - generic [ref=e852]:
+                      - 'link "Tuxedo Cats: Unique Personalities and Fun Facts by gatofather on TikTok. Play on TikTok. 1:02" [ref=e854] [cursor=pointer]':
+                        - /url: https://www.tiktok.com/@gatofather/video/7351124940952997166
+                        - generic [ref=e862]:
+                          - img [ref=e863]
+                          - generic [ref=e865]: 1:02
+                      - 'link "Tuxedo Cats: Unique Personalities and Fun Facts TikTok · gatofather" [ref=e867] [cursor=pointer]':
+                        - /url: https://www.tiktok.com/@gatofather/video/7351124940952997166
+                        - generic [ref=e868]:
+                          - 'heading "Tuxedo Cats: Unique Personalities and Fun Facts" [level=3] [ref=e870]':
+                            - generic [ref=e871]: "Tuxedo Cats: Unique Personalities and Fun Facts"
+                          - generic [ref=e876]: TikTok · gatofather
+                    - button "About this result" [ref=e880] [cursor=pointer]:
+                      - img [ref=e883]
+                - listitem [ref=e885]:
+                  - generic [ref=e888]:
+                    - generic [ref=e890]:
+                      - 'link "Do you know this about tuxedo cats? . . . . #CatFacts ... by Ask My Cats on Facebook. Play on Facebook. 0:12" [ref=e892] [cursor=pointer]':
+                        - /url: https://www.facebook.com/askmycats/posts/do-you-know-this-about-tuxedo-cats-catfacts-catbehavior-catlife-catlovers-catsof/1365014088969759/
+                        - generic [ref=e897]:
+                          - img [ref=e898]
+                          - generic [ref=e900]: 0:12
+                      - 'link "Do you know this about tuxedo cats? . . . . #CatFacts ... Facebook · Ask My Cats" [ref=e902] [cursor=pointer]':
+                        - /url: https://www.facebook.com/askmycats/posts/do-you-know-this-about-tuxedo-cats-catfacts-catbehavior-catlife-catlovers-catsof/1365014088969759/
+                        - generic [ref=e903]:
+                          - 'heading "Do you know this about tuxedo cats? . . . . #CatFacts ..." [level=3] [ref=e905]':
+                            - generic [ref=e906]: "Do you know this about tuxedo cats? . . . . #CatFacts ..."
+                          - generic [ref=e911]: Facebook · Ask My Cats
+                    - button "About this result" [ref=e915] [cursor=pointer]:
+                      - img [ref=e918]
+                - listitem [ref=e920]:
+                  - generic [ref=e924]:
+                    - generic [ref=e926]:
+                      - 'button "Is This the PERSONALITY of TUXEDO CATS? #shorts #cats by AnimalWised on YouTube. Play on Google. 1:22" [ref=e928] [cursor=pointer]':
+                        - generic [ref=e935]:
+                          - generic [ref=e936]:
+                            - img [ref=e937]
+                            - generic [ref=e939]: 1:22
+                          - img [ref=e942]
+                      - 'link "Is This the PERSONALITY of TUXEDO CATS? #shorts #cats YouTube · AnimalWised" [ref=e945] [cursor=pointer]':
+                        - /url: https://www.youtube.com/shorts/arMbiRxkUJQ
+                        - generic [ref=e946]:
+                          - 'heading "Is This the PERSONALITY of TUXEDO CATS? #shorts #cats" [level=3] [ref=e948]':
+                            - generic [ref=e949]: "Is This the PERSONALITY of TUXEDO CATS? #shorts #cats"
+                          - generic [ref=e954]: YouTube · AnimalWised
+                    - button "About this result" [ref=e958] [cursor=pointer]:
+                      - img [ref=e961]
+                - listitem [ref=e963]:
+                  - generic [ref=e966]:
+                    - generic [ref=e968]:
+                      - 'link "Someone is not so sure about the new tuxedo cat : r/cats by skeetpea on Reddit. Play on Reddit. 1:11" [ref=e970] [cursor=pointer]':
+                        - /url: https://www.reddit.com/r/cats/comments/1rr40fw/someone_is_not_so_sure_about_the_new_tuxedo_cat/
+                        - generic [ref=e975]:
+                          - img [ref=e976]
+                          - generic [ref=e978]: 1:11
+                      - 'link "Someone is not so sure about the new tuxedo cat : r/cats Reddit · skeetpea" [ref=e980] [cursor=pointer]':
+                        - /url: https://www.reddit.com/r/cats/comments/1rr40fw/someone_is_not_so_sure_about_the_new_tuxedo_cat/
+                        - generic [ref=e981]:
+                          - 'heading "Someone is not so sure about the new tuxedo cat : r/cats" [level=3] [ref=e983]':
+                            - generic [ref=e984]: "Someone is not so sure about the new tuxedo cat : r/cats"
+                          - generic [ref=e989]: Reddit · skeetpea
+                    - button "About this result" [ref=e993] [cursor=pointer]:
+                      - img [ref=e996]
+                - listitem [ref=e998]:
+                  - generic [ref=e1001]:
+                    - generic [ref=e1003]:
+                      - link "Tuxedo cats are the best! What's your tuxie's name and one ... by Webster and 🌈 Misty Cat on Instagram. Play on Instagram. 0:31" [ref=e1005] [cursor=pointer]:
+                        - /url: https://www.instagram.com/reel/DXKxcwdEs6V/
+                        - generic [ref=e1010]:
+                          - img [ref=e1011]
+                          - generic [ref=e1013]: 0:31
+                      - link "Tuxedo cats are the best! What's your tuxie's name and one ... Instagram · Webster and 🌈 Misty Cat" [ref=e1015] [cursor=pointer]:
+                        - /url: https://www.instagram.com/reel/DXKxcwdEs6V/
+                        - generic [ref=e1016]:
+                          - heading "Tuxedo cats are the best! What's your tuxie's name and one ..." [level=3] [ref=e1018]:
+                            - generic [ref=e1019]: Tuxedo cats are the best! What's your tuxie's name and one ...
+                          - generic [ref=e1024]: Instagram · Webster and 🌈 Misty Cat
+                    - button "About this result" [ref=e1028] [cursor=pointer]:
+                      - img [ref=e1031]
+                - listitem [ref=e1033]:
+                  - generic [ref=e1036]:
+                    - generic [ref=e1038]:
+                      - link "Are you now or have you ever been loved by a Tuxedo Cat ... by The Cat Crew on Facebook. Play on Facebook. 0:17" [ref=e1040] [cursor=pointer]:
+                        - /url: https://www.facebook.com/61555506565191/posts/are-you-now-or-have-you-ever-been-loved-by-a-tuxedo-cat-tuxedocat-tuxedocats-tux/122254414028183552/
+                        - generic [ref=e1048]:
+                          - img [ref=e1049]
+                          - generic [ref=e1051]: 0:17
+                      - link "Are you now or have you ever been loved by a Tuxedo Cat ... Facebook · The Cat Crew" [ref=e1053] [cursor=pointer]:
+                        - /url: https://www.facebook.com/61555506565191/posts/are-you-now-or-have-you-ever-been-loved-by-a-tuxedo-cat-tuxedocat-tuxedocats-tux/122254414028183552/
+                        - generic [ref=e1054]:
+                          - heading "Are you now or have you ever been loved by a Tuxedo Cat ..." [level=3] [ref=e1056]:
+                            - generic [ref=e1057]: Are you now or have you ever been loved by a Tuxedo Cat ...
+                          - generic [ref=e1062]: Facebook · The Cat Crew
+                    - button "About this result" [ref=e1066] [cursor=pointer]:
+                      - img [ref=e1069]
+                - listitem [ref=e1071]:
+                  - generic [ref=e1074]:
+                    - generic [ref=e1076]:
+                      - link "Tuxedo Cat Behavior! Funny Cat Videos - Funniest Cats Ever by funnycats0ftiktok on TikTok. Play on TikTok. 1:06" [ref=e1078] [cursor=pointer]:
+                        - /url: https://www.tiktok.com/@funnycats0ftiktok/video/7354754829836733738
+                        - generic [ref=e1086]:
+                          - img [ref=e1087]
+                          - generic [ref=e1089]: 1:06
+                      - link "Tuxedo Cat Behavior! Funny Cat Videos - Funniest Cats Ever TikTok · funnycats0ftiktok" [ref=e1091] [cursor=pointer]:
+                        - /url: https://www.tiktok.com/@funnycats0ftiktok/video/7354754829836733738
+                        - generic [ref=e1092]:
+                          - heading "Tuxedo Cat Behavior! Funny Cat Videos - Funniest Cats Ever" [level=3] [ref=e1094]:
+                            - generic [ref=e1095]: Tuxedo Cat Behavior! Funny Cat Videos - Funniest Cats Ever
+                          - generic [ref=e1100]: TikTok · funnycats0ftiktok
+                    - button "About this result" [ref=e1104] [cursor=pointer]:
+                      - img [ref=e1107]
+              - button [ref=e1109] [cursor=pointer]:
+                - img [ref=e1112]
+            - link "More short videos" [ref=e1115] [cursor=pointer]:
+              - /url: /search?q=tuxedo+cat&sca_esv=39f50cfd4d7ec138&udm=39&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQ3egMegQIShAS
+              - separator [ref=e1116]
+              - generic [ref=e1117]:
+                - generic [ref=e1118]: More short videos
+                - img [ref=e1120]
+          - generic [ref=e1125]:
+            - generic [ref=e1127]:
+              - heading "What people are saying" [level=2] [ref=e1128]:
+                - generic [ref=e1130]: What people are saying
+              - generic [ref=e1140]: Trending posts and discussions
+            - generic [ref=e1142]:
+              - list [ref=e1144]:
+                - generic [ref=e1145]:
+                  - listitem [ref=e1146]:
+                    - generic [ref=e1150]:
+                      - button "Tuxedo cat and her friend, the black cat, are so cute and friendly. Play on Google. 2:57" [ref=e1155] [cursor=pointer]:
+                        - generic [ref=e1158]:
+                          - generic [ref=e1159]:
+                            - img [ref=e1160]
+                            - generic [ref=e1162]: 2:57
+                          - img [ref=e1165]
+                      - link "Tuxedo cat and her friend, the black cat, are so cute and friendly 110+ views · 16 hours ago meow meow · YouTube Singer" [ref=e1167] [cursor=pointer]:
+                        - /url: https://www.youtube.com/watch?v=NV0Lj_HGYb4
+                        - generic [ref=e1168]:
+                          - heading "Tuxedo cat and her friend, the black cat, are so cute and friendly" [level=3] [ref=e1170]
+                          - generic [ref=e1172]: 110+ views · 16 hours ago
+                          - generic [ref=e1184]:
+                            - generic [ref=e1185]: meow meow · YouTube
+                            - generic [ref=e1187]: Singer
+                      - button "About this result" [ref=e1191] [cursor=pointer]:
+                        - img [ref=e1194]
+                  - listitem [ref=e1196]:
+                    - generic [ref=e1200]:
+                      - link "Is she a tuxedo? 100+ comments · 1 week ago r/TuxedoCats Reddit" [ref=e1201] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/TuxedoCats/comments/1sy05e6/is_she_a_tuxedo/
+                        - generic [ref=e1205]:
+                          - heading "Is she a tuxedo?" [level=3] [ref=e1207]
+                          - generic [ref=e1208]: 100+ comments · 1 week ago
+                          - generic [ref=e1217]:
+                            - generic [ref=e1218]: r/TuxedoCats
+                            - generic [ref=e1219]: Reddit
+                      - button "About this result" [ref=e1223] [cursor=pointer]:
+                        - img [ref=e1226]
+                  - listitem [ref=e1228]:
+                    - generic [ref=e1232]:
+                      - 'link "Some cats are cute. This one looks like she has a 9am meeting and zero patience for delays. 🐈‍⬛ That “outfit” isn’t a costume—it’s completely natural. It all comes down to how pigment cells move before birth. In tuxedo-pattern cats, those cells start near the spine and spread outward, but sometimes they don’t make it all the way across the body. The areas they don’t reach stay white—creating that perfectly placed “shirt and tie” effect. No styling. No wardrobe. Just genetics doing its thing. #cats #catsofinstagram #petsofinstagram #funny #adorable 3.6K+ likes · 3 hours ago babyanmlpics · Instagram Animal photography account" [ref=e1233] [cursor=pointer]':
+                        - /url: https://www.instagram.com/p/DX9gyzajbFT/
+                        - generic [ref=e1237]:
+                          - 'heading "Some cats are cute. This one looks like she has a 9am meeting and zero patience for delays. 🐈‍⬛ That “outfit” isn’t a costume—it’s completely natural. It all comes down to how pigment cells move before birth. In tuxedo-pattern cats, those cells start near the spine and spread outward, but sometimes they don’t make it all the way across the body. The areas they don’t reach stay white—creating that perfectly placed “shirt and tie” effect. No styling. No wardrobe. Just genetics doing its thing. #cats #catsofinstagram #petsofinstagram #funny #adorable" [level=3] [ref=e1239]'
+                          - generic [ref=e1240]: 3.6K+ likes · 3 hours ago
+                          - generic [ref=e1252]:
+                            - generic [ref=e1253]: babyanmlpics · Instagram
+                            - generic [ref=e1255]: Animal photography account
+                      - button "About this result" [ref=e1259] [cursor=pointer]:
+                        - img [ref=e1262]
+                  - listitem [ref=e1264]:
+                    - generic [ref=e1269]:
+                      - link "0:17 The Most Misunderstood Cats? Meet Tuxedos 550+ reactions · 1 day ago paulongnaspi · Facebook Cat content enthusiast" [ref=e1270] [cursor=pointer]:
+                        - /url: https://www.facebook.com/paulongnaspi/videos/the-most-misunderstood-cats-meet-tuxedos/2007447753531505/
+                        - generic [ref=e1276]:
+                          - img [ref=e1277]
+                          - generic [ref=e1279]: 0:17
+                        - generic [ref=e1280]:
+                          - heading "The Most Misunderstood Cats? Meet Tuxedos" [level=3] [ref=e1282]
+                          - generic [ref=e1284]: 550+ reactions · 1 day ago
+                          - generic [ref=e1296]:
+                            - generic [ref=e1297]: paulongnaspi · Facebook
+                            - generic [ref=e1299]: Cat content enthusiast
+                      - button "About this result" [ref=e1303] [cursor=pointer]:
+                        - img [ref=e1306]
+                  - listitem [ref=e1308]:
+                    - generic [ref=e1313]:
+                      - 'link "#🇺🇸 In the United States, tuxedo cats are a familiar sight in both busy cities and quiet homes 🐱 Their black and white coats give them a bold, high-contrast look that stands out in any setting. They adapt easily to indoor life, especially when routines are steady and environments feel safe. Playful yet independent, they enjoy attention in short moments but also value their own space. A mix of comfort, enrichment, and consistency helps them stay happy and balanced 🐾 #Cats #TuxedoCat #USA #CatLovers 5 likes · 8 hours ago meow.citos · Instagram Silly cat content creator" [ref=e1314] [cursor=pointer]':
+                        - /url: https://www.instagram.com/p/DX883nKjRR7/
+                        - generic [ref=e1318]:
+                          - 'heading "#🇺🇸 In the United States, tuxedo cats are a familiar sight in both busy cities and quiet homes 🐱 Their black and white coats give them a bold, high-contrast look that stands out in any setting. They adapt easily to indoor life, especially when routines are steady and environments feel safe. Playful yet independent, they enjoy attention in short moments but also value their own space. A mix of comfort, enrichment, and consistency helps them stay happy and balanced 🐾 #Cats #TuxedoCat #USA #CatLovers" [level=3] [ref=e1320]'
+                          - generic [ref=e1321]: 5 likes · 8 hours ago
+                          - generic [ref=e1333]:
+                            - generic [ref=e1334]: meow.citos · Instagram
+                            - generic [ref=e1336]: Silly cat content creator
+                      - button "About this result" [ref=e1340] [cursor=pointer]:
+                        - img [ref=e1343]
+                  - listitem [ref=e1345]:
+                    - generic [ref=e1350]:
+                      - link "In the world of unique feline markings, few animals have ever commanded as much immediate \"professional\" respect as Zoe, the tuxedo cat who went viral for her impeccable—and entirely natural—corporate attire. While most tuxedo cats sport a simple white patch on their chest, Zoe was born with a breathtakingly symmetrical white pattern that perfectly mimics a crisp dress shirt and a dark necktie. 20+ likes · 1 day ago kemi_reacts Threads" [ref=e1351] [cursor=pointer]:
+                        - /url: https://www.threads.com/@kemi_reacts/post/DX6h7OjFg19/in-the-world-of-unique-feline-markings-few-animals-have-ever-commanded-as-much
+                        - generic [ref=e1355]:
+                          - heading "In the world of unique feline markings, few animals have ever commanded as much immediate \"professional\" respect as Zoe, the tuxedo cat who went viral for her impeccable—and entirely natural—corporate attire. While most tuxedo cats sport a simple white patch on their chest, Zoe was born with a breathtakingly symmetrical white pattern that perfectly mimics a crisp dress shirt and a dark necktie." [level=3] [ref=e1357]
+                          - generic [ref=e1358]: 20+ likes · 1 day ago
+                          - generic [ref=e1367]:
+                            - generic [ref=e1368]: kemi_reacts
+                            - generic [ref=e1369]: Threads
+                      - button "About this result" [ref=e1373] [cursor=pointer]:
+                        - img [ref=e1376]
+                  - listitem [ref=e1378]:
+                    - generic [ref=e1383]:
+                      - 'link "1:01 my one and only 🤍 #catdistributionsystem #tuxedocat #bottlebaby #rescuecats 1.5M+ views · 5 days ago Camryn TikTok" [ref=e1384] [cursor=pointer]':
+                        - /url: https://www.tiktok.com/@camrynandcowboy/video/7634562085422140685
+                        - generic [ref=e1390]:
+                          - img [ref=e1391]
+                          - generic [ref=e1393]: 1:01
+                        - generic [ref=e1394]:
+                          - 'heading "my one and only 🤍 #catdistributionsystem #tuxedocat #bottlebaby #rescuecats" [level=3] [ref=e1396]'
+                          - generic [ref=e1398]: 1.5M+ views · 5 days ago
+                          - generic [ref=e1410]:
+                            - generic [ref=e1411]: Camryn
+                            - generic [ref=e1412]: TikTok
+                      - button "About this result" [ref=e1416] [cursor=pointer]:
+                        - img [ref=e1419]
+                  - listitem [ref=e1421]:
+                    - generic [ref=e1426]:
+                      - 'link "0:13 100% recommend adopting a tuxedo cat 🫠 . . . . #tuxedocat #naughtycats #funnycats 4K+ reactions · 2 days ago harveytuxedocat · Facebook Cat art retailer" [ref=e1427] [cursor=pointer]':
+                        - /url: https://www.facebook.com/harveytuxedocat/videos/100-recommend-adopting-a-tuxedo-cat-tuxedocat-naughtycats-funnycats/939079505554161/
+                        - generic [ref=e1433]:
+                          - img [ref=e1434]
+                          - generic [ref=e1436]: 0:13
+                        - generic [ref=e1437]:
+                          - 'heading "100% recommend adopting a tuxedo cat 🫠 . . . . #tuxedocat #naughtycats #funnycats" [level=3] [ref=e1439]'
+                          - generic [ref=e1441]: 4K+ reactions · 2 days ago
+                          - generic [ref=e1453]:
+                            - generic [ref=e1454]: harveytuxedocat · Facebook
+                            - generic [ref=e1456]: Cat art retailer
+                      - button "About this result" [ref=e1460] [cursor=pointer]:
+                        - img [ref=e1463]
+                  - listitem [ref=e1465]:
+                    - generic [ref=e1470]:
+                      - link "A cat with a naturally “formal” look is turning heads online. Her tuxedo-style pattern may resemble a tiny suit, but it is not a costume. The distinctive markings are the result of genetics and early development before birth. In tuxedo cats, pigment cells begin near the spine and spread outward as the kitten develops in the womb. When those cells do not reach certain areas, parts of the chest, belly, paws, or face remain white. The result can look like a crisp shirt and tie, but no styling is involved. Just biology creating a perfectly dressed cat. 72.8K+ likes · 2 days ago memequeen · Instagram Meme enthusiast" [ref=e1471] [cursor=pointer]:
+                        - /url: https://www.instagram.com/p/DX2Rq93AWg1/
+                        - generic [ref=e1475]:
+                          - heading "A cat with a naturally “formal” look is turning heads online. Her tuxedo-style pattern may resemble a tiny suit, but it is not a costume. The distinctive markings are the result of genetics and early development before birth. In tuxedo cats, pigment cells begin near the spine and spread outward as the kitten develops in the womb. When those cells do not reach certain areas, parts of the chest, belly, paws, or face remain white. The result can look like a crisp shirt and tie, but no styling is involved. Just biology creating a perfectly dressed cat." [level=3] [ref=e1477]
+                          - generic [ref=e1478]: 72.8K+ likes · 2 days ago
+                          - generic [ref=e1490]:
+                            - generic [ref=e1491]: memequeen · Instagram
+                            - generic [ref=e1493]: Meme enthusiast
+                      - button "About this result" [ref=e1497] [cursor=pointer]:
+                        - img [ref=e1500]
+                  - listitem [ref=e1502]:
+                    - generic [ref=e1507]:
+                      - 'link "Meet the elegant star of the cat world: the Tuxedo Cat 🖤🤍✨ With their classic black-and-white coats and larger-than-life personalities, tuxedo cats are more than just handsome faces. They’re playful, affectionate, smart, and full of charm. Whether they’re zoomin 200+ reactions · 1 week ago cats.kingdom.universe Facebook" [ref=e1508] [cursor=pointer]':
+                        - /url: https://www.facebook.com/cats.kingdom.universe/photos/meet-the-elegant-star-of-the-cat-world-the-tuxedo-cat-with-their-classic-black-a/971373835288821/
+                        - generic [ref=e1512]:
+                          - 'heading "Meet the elegant star of the cat world: the Tuxedo Cat 🖤🤍✨ With their classic black-and-white coats and larger-than-life personalities, tuxedo cats are more than just handsome faces. They’re playful, affectionate, smart, and full of charm. Whether they’re zoomin" [level=3] [ref=e1514]'
+                          - generic [ref=e1515]: 200+ reactions · 1 week ago
+                          - generic [ref=e1527]:
+                            - generic [ref=e1528]: cats.kingdom.universe
+                            - generic [ref=e1529]: Facebook
+                      - button "About this result" [ref=e1533] [cursor=pointer]:
+                        - img [ref=e1536]
+                  - listitem [ref=e1538]:
+                    - generic [ref=e1543]:
+                      - link [ref=e1544] [cursor=pointer]:
+                        - /url: https://www.instagram.com/p/DWA51BQCP3O/
+                        - generic [ref=e1548]:
+                          - 'heading "Have you ever noticed cats that look like they’re wearing a tuxedo? 😮🖤🤍 These cats are actually called “tuxedo cats” - but it’s not a breed, just a unique coat pattern ✨ Their “outfit” is the result of natural genetics: black fur combined with white areas on the chest, paws, or face creates the look of an elegant suit with a shirt 👔 Sometimes you can see a neat white patch on the chest, with darker markings that resemble a tie or even a vest. Each cat’s pattern is completely unique - like a fingerprint 🐾 💡 Important: the tuxedo pattern can appear in many different breeds, as well as in mixed-breed and street cats. It’s not rare, but it always looks striking and memorable By the way, tuxedo cats are often thought to be especially charismatic, intelligent, and a little bit “sassy” 😏 (and honestly, there might be some truth to that)" [level=3] [ref=e1550]'
+                          - generic [ref=e1551]: 999.3K+ likes · 1 month ago
+                          - generic [ref=e1563]:
+                            - generic [ref=e1564]: love_animalsgram · Instagram
+                            - generic [ref=e1566]: Animal content creator
+                      - button "About this result" [ref=e1570] [cursor=pointer]:
+                        - img [ref=e1573]
+                  - listitem [ref=e1575]:
+                    - generic [ref=e1580]:
+                      - link "Listen. I KNOW a lot of tuxedo cats accidentally look like Kitler. I know it’s overdone to post it. But LOOK at her angry eyes! 370+ comments · Mar 1, 2026 r/cats Reddit" [ref=e1581] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/cats/comments/1rhn6o7/listen_i_know_a_lot_of_tuxedo_cats_accidentally/
+                        - generic [ref=e1585]:
+                          - heading "Listen. I KNOW a lot of tuxedo cats accidentally look like Kitler. I know it’s overdone to post it. But LOOK at her angry eyes!" [level=3] [ref=e1587]
+                          - generic [ref=e1588]: 370+ comments · Mar 1, 2026
+                          - generic [ref=e1597]:
+                            - generic [ref=e1598]: r/cats
+                            - generic [ref=e1599]: Reddit
+                      - button "About this result" [ref=e1603] [cursor=pointer]:
+                        - img [ref=e1606]
+              - button [ref=e1608] [cursor=pointer]:
+                - img [ref=e1611]
+          - generic [ref=e1615]:
+            - heading "Web results" [level=2] [ref=e1616]
+            - generic [ref=e1617]:
+              - generic [ref=e1620]:
+                - link "Tuxedo Cat Features 😽 (@tuxedofeatures) Instagram · tuxedofeatures 53.6K+ followers" [ref=e1622] [cursor=pointer]:
+                  - /url: https://www.instagram.com/tuxedofeatures/
+                  - heading "Tuxedo Cat Features 😽 (@tuxedofeatures)" [level=3] [ref=e1623]
+                  - generic [ref=e1628]:
+                    - generic [ref=e1630]: Instagram · tuxedofeatures
+                    - generic [ref=e1632]: 53.6K+ followers
+                - button "About this result" [ref=e1633] [cursor=pointer]:
+                  - img [ref=e1636]
+              - generic [ref=e1639]:
+                - generic [ref=e1640]:
+                  - emphasis [ref=e1641]: Tuxedo cats
+                  - text: "- to be featured, please use #tuxedofeatures & follow us. One of our admins might message you for an interview, so keep an eye on your DMs."
+                - link "Read more" [ref=e1642] [cursor=pointer]:
+                  - /url: https://www.instagram.com/tuxedofeatures/#:~:text=Tuxedo%20cats%2D%20to%20be%20featured%2C,an%20eye%20on%20your%20DMs.
+              - link "tuxedo cat images from www.instagram.com" [ref=e1644] [cursor=pointer]:
+                - /url: https://www.instagram.com/tuxedofeatures/
+          - generic [ref=e1661]:
+            - generic [ref=e1664]:
+              - link "Bicolor cat Wikipedia https://en.wikipedia.org › wiki › Bicolor_cat" [ref=e1666] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Bicolor_cat
+                - heading "Bicolor cat" [level=3] [ref=e1667]
+                - generic [ref=e1672]:
+                  - generic [ref=e1674]: Wikipedia
+                  - generic [ref=e1676]: https://en.wikipedia.org › wiki › Bicolor_cat
+              - button "About this result" [ref=e1677] [cursor=pointer]:
+                - img [ref=e1680]
+            - generic [ref=e1683]:
+              - generic [ref=e1684]:
+                - text: Tuxedo cats
+                - emphasis [ref=e1685]: have a low-to-medium grade white spotting
+                - text: limited to the face, paws, throat, and chest of an otherwise black cat. Van-patterned cats have high-grade ...
+              - link "Read more" [ref=e1686] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Bicolor_cat#:~:text=Tuxedo%20cats%20have%20a%20low%2Dto%2Dmedium,for%20the%20Turkish%20Van%20breed.
+            - link "tuxedo cat from en.wikipedia.org" [ref=e1689] [cursor=pointer]:
+              - /url: https://en.wikipedia.org/wiki/Bicolor_cat
+              - img "tuxedo cat from en.wikipedia.org" [ref=e1691]
+          - generic [ref=e1695]:
+            - generic [ref=e1698]:
+              - 'link "Tuxedo Cats: Facts, Details, and Breed Guide - Litter-Robot Litter-Robot https://www.litter-robot.com › blog › 7-tuxedo-cat-facts" [ref=e1700] [cursor=pointer]':
+                - /url: https://www.litter-robot.com/blog/7-tuxedo-cat-facts/?srsltid=AfmBOoq7sANxjcVrmxFTO_DikAx4JCorTH1hQ2xx5pGT8i4rvn8eM081
+                - 'heading "Tuxedo Cats: Facts, Details, and Breed Guide - Litter-Robot" [level=3] [ref=e1701]'
+                - generic [ref=e1706]:
+                  - generic [ref=e1708]: Litter-Robot
+                  - generic [ref=e1710]: https://www.litter-robot.com › blog › 7-tuxedo-cat-facts
+              - button "About this result" [ref=e1711] [cursor=pointer]:
+                - img [ref=e1714]
+            - generic [ref=e1717]:
+              - generic [ref=e1718]: Nov 25, 2025 —
+              - generic [ref=e1719]:
+                - emphasis [ref=e1720]: Tuxedo cats
+                - text: typically display a solid black coat with white patches on their chest, belly, paws, and sometimes the chin.
+              - link "Read more" [ref=e1721] [cursor=pointer]:
+                - /url: https://www.litter-robot.com/blog/7-tuxedo-cat-facts/?srsltid=AfmBOoq7sANxjcVrmxFTO_DikAx4JCorTH1hQ2xx5pGT8i4rvn8eM081#:~:text=Tuxedo%20cats%20typically%20display%20a,paws%2C%20and%20sometimes%20the%20chin.
+            - link "tuxedo cat from www.litter-robot.com" [ref=e1724] [cursor=pointer]:
+              - /url: https://www.litter-robot.com/blog/7-tuxedo-cat-facts/?srsltid=AfmBOoq7sANxjcVrmxFTO_DikAx4JCorTH1hQ2xx5pGT8i4rvn8eM081
+              - img "tuxedo cat from www.litter-robot.com" [ref=e1726]
+            - list [ref=e1728]:
+              - listitem [ref=e1729]:
+                - link "Bicolor Cats Aren't Limited..." [ref=e1730] [cursor=pointer]:
+                  - /url: https://www.litter-robot.com/blog/7-tuxedo-cat-facts/#:~:text=Bicolor%20cats%20aren%27t%20limited%20to%20black%20and%20white
+                  - generic [ref=e1732]: Bicolor Cats Aren't Limited...
+              - listitem [ref=e1733]:
+                - link "Tuxedo Cats In Pop Culture" [ref=e1734] [cursor=pointer]:
+                  - /url: https://www.litter-robot.com/blog/7-tuxedo-cat-facts/#:~:text=Tuxedo%20cats%20in%20pop%20culture
+                  - generic [ref=e1736]: Tuxedo Cats In Pop Culture
+              - listitem [ref=e1737]:
+                - link "Tuxedo Cats Are Famous" [ref=e1738] [cursor=pointer]:
+                  - /url: https://www.litter-robot.com/blog/7-tuxedo-cat-facts/#:~:text=Tuxedo%20cats%20are%20famous
+                  - generic [ref=e1740]: Tuxedo Cats Are Famous
+          - generic [ref=e1744]:
+            - generic [ref=e1747]:
+              - 'link "Should I get a tuxedo cat? : r/TuxedoCats Reddit · r/TuxedoCats 80+ comments · 1 year ago" [ref=e1749] [cursor=pointer]':
+                - /url: https://www.reddit.com/r/TuxedoCats/comments/1hsh5ab/should_i_get_a_tuxedo_cat/
+                - 'heading "Should I get a tuxedo cat? : r/TuxedoCats" [level=3] [ref=e1750]'
+                - generic [ref=e1755]:
+                  - generic [ref=e1757]: Reddit · r/TuxedoCats
+                  - generic [ref=e1759]: 80+ comments · 1 year ago
+              - button "About this result" [ref=e1760] [cursor=pointer]:
+                - img [ref=e1763]
+            - generic [ref=e1766]: I’ve heard some good things about them like for example that they’re cuddly calm and you can play with them since they’re also playful and I haven’t ...
+            - generic [ref=e1771]:
+              - link "87 answers" [ref=e1772] [cursor=pointer]:
+                - /url: https://www.reddit.com/r/TuxedoCats/comments/1hsh5ab/should_i_get_a_tuxedo_cat/m55fo9r/
+              - generic [ref=e1773]: ·
+              - generic [ref=e1774]: "Top answer:"
+              - generic [ref=e1775]: The great thing about cats is that they’re all such individuals. Although we like to joke ...
+            - generic [ref=e1778]:
+              - generic [ref=e1779]:
+                - link "Are black and white cats called tuxedos, or are they ..." [ref=e1782] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/CatAdvice/comments/1dz2l31/are_black_and_white_cats_called_tuxedos_or_are/
+                  - generic [ref=e1783]:
+                    - text: Are black and white
+                    - emphasis [ref=e1784]: cats
+                    - text: called tuxedos, or are they ...
+                - generic [ref=e1786]: 8 answers
+                - generic [ref=e1788]: Jul 9, 2024
+              - generic [ref=e1789]:
+                - 'link "What is the definition of a tuxedo cat? : r/TuxedoCats" [ref=e1792] [cursor=pointer]':
+                  - /url: https://www.reddit.com/r/TuxedoCats/comments/1ntu41o/what_is_the_definition_of_a_tuxedo_cat/
+                  - generic [ref=e1793]:
+                    - text: What is the definition of a
+                    - emphasis [ref=e1794]: tuxedo cat
+                    - text: "? : r/TuxedoCats"
+                - generic [ref=e1796]: 136 answers
+                - generic [ref=e1798]: Sep 29, 2025
+              - link "More results from www.reddit.com" [ref=e1802] [cursor=pointer]:
+                - /url: /search?q=tuxedo+cat+site:www.reddit.com&sca_esv=39f50cfd4d7ec138&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQrQIoAnoECEAQAw
+        - generic [ref=e1804]:
+          - generic [ref=e1809]:
+            - heading "People also search for" [level=2] [ref=e1811]
+            - generic [ref=e1813]:
+              - generic [ref=e1814]:
+                - link "Tuxedo cat price" [ref=e1818] [cursor=pointer]:
+                  - /url: /search?sca_esv=39f50cfd4d7ec138&q=Tuxedo+cat+price&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQ1QJ6BAhdEAE
+                  - generic [ref=e1819]:
+                    - generic [ref=e1824]: Tuxedo cat price
+                    - img [ref=e1828]
+                - link "Tuxedo cat LEGO" [ref=e1833] [cursor=pointer]:
+                  - /url: /search?sca_esv=39f50cfd4d7ec138&q=Tuxedo+cat+LEGO&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQ1QJ6BAhuEAE
+                  - generic [ref=e1834]:
+                    - generic [ref=e1839]: Tuxedo cat LEGO
+                    - img [ref=e1843]
+                - link "Tuxedo cat personality" [ref=e1848] [cursor=pointer]:
+                  - /url: /search?sca_esv=39f50cfd4d7ec138&q=Tuxedo+cat+personality&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQ1QJ6BAhtEAE
+                  - generic [ref=e1849]:
+                    - generic [ref=e1854]: Tuxedo cat personality
+                    - img [ref=e1858]
+                - link "Tuxedo cat breed" [ref=e1863] [cursor=pointer]:
+                  - /url: /search?sca_esv=39f50cfd4d7ec138&q=Tuxedo+cat+breed&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQ1QJ6BAhqEAE
+                  - generic [ref=e1864]:
+                    - generic [ref=e1869]: Tuxedo cat breed
+                    - img [ref=e1873]
+              - generic [ref=e1875]:
+                - link "White tuxedo cat" [ref=e1879] [cursor=pointer]:
+                  - /url: /search?sca_esv=39f50cfd4d7ec138&q=White+tuxedo+cat&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQ1QJ6BAhmEAE
+                  - generic [ref=e1880]:
+                    - generic [ref=e1885]: White tuxedo cat
+                    - img [ref=e1889]
+                - link "Tuxedo cat Meme" [ref=e1894] [cursor=pointer]:
+                  - /url: /search?sca_esv=39f50cfd4d7ec138&q=Tuxedo+cat+Meme&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQ1QJ6BAhiEAE
+                  - generic [ref=e1895]:
+                    - generic [ref=e1900]: Tuxedo cat Meme
+                    - img [ref=e1904]
+                - link "Tuxedo cat lifespan" [ref=e1909] [cursor=pointer]:
+                  - /url: /search?sca_esv=39f50cfd4d7ec138&q=Tuxedo+cat+lifespan&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQ1QJ6BAhhEAE
+                  - generic [ref=e1910]:
+                    - generic [ref=e1915]: Tuxedo cat lifespan
+                    - img [ref=e1919]
+                - link "Tuxedo cat names" [ref=e1924] [cursor=pointer]:
+                  - /url: /search?sca_esv=39f50cfd4d7ec138&q=Tuxedo+cat+names&sa=X&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQ1QJ6BAhgEAE
+                  - generic [ref=e1925]:
+                    - generic [ref=e1930]: Tuxedo cat names
+                    - img [ref=e1934]
+          - navigation [ref=e1936]:
+            - heading "Page Navigation" [level=1] [ref=e1937]
+            - text: "1"
+            - link "Page 2" [ref=e1940] [cursor=pointer]:
+              - /url: /search?q=tuxedo+cat&sca_esv=39f50cfd4d7ec138&ei=MDL6adKDOOOIptQPpq2m4Q4&start=10&sa=N&sstk=Af77f_cdu-_xx_v6YuH3TdKsQEymUCK4Q6CMnzfCIyjO8vP77WyC2sOGLCr3kNnC9AhWt2TT40E82ElxJNUkwujNXHMPYyU_1cpmdw&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQ8tMDegUIgQEQBA
+              - text: "2"
+            - link "Page 3" [ref=e1942] [cursor=pointer]:
+              - /url: /search?q=tuxedo+cat&sca_esv=39f50cfd4d7ec138&ei=MDL6adKDOOOIptQPpq2m4Q4&start=20&sa=N&sstk=Af77f_cdu-_xx_v6YuH3TdKsQEymUCK4Q6CMnzfCIyjO8vP77WyC2sOGLCr3kNnC9AhWt2TT40E82ElxJNUkwujNXHMPYyU_1cpmdw&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQ8tMDegUIgQEQBg
+              - text: "3"
+            - link "Page 4" [ref=e1944] [cursor=pointer]:
+              - /url: /search?q=tuxedo+cat&sca_esv=39f50cfd4d7ec138&ei=MDL6adKDOOOIptQPpq2m4Q4&start=30&sa=N&sstk=Af77f_cdu-_xx_v6YuH3TdKsQEymUCK4Q6CMnzfCIyjO8vP77WyC2sOGLCr3kNnC9AhWt2TT40E82ElxJNUkwujNXHMPYyU_1cpmdw&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQ8tMDegUIgQEQCA
+              - text: "4"
+            - link "Page 5" [ref=e1946] [cursor=pointer]:
+              - /url: /search?q=tuxedo+cat&sca_esv=39f50cfd4d7ec138&ei=MDL6adKDOOOIptQPpq2m4Q4&start=40&sa=N&sstk=Af77f_cdu-_xx_v6YuH3TdKsQEymUCK4Q6CMnzfCIyjO8vP77WyC2sOGLCr3kNnC9AhWt2TT40E82ElxJNUkwujNXHMPYyU_1cpmdw&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQ8tMDegUIgQEQCg
+              - text: "5"
+            - link "Page 6" [ref=e1948] [cursor=pointer]:
+              - /url: /search?q=tuxedo+cat&sca_esv=39f50cfd4d7ec138&ei=MDL6adKDOOOIptQPpq2m4Q4&start=50&sa=N&sstk=Af77f_cdu-_xx_v6YuH3TdKsQEymUCK4Q6CMnzfCIyjO8vP77WyC2sOGLCr3kNnC9AhWt2TT40E82ElxJNUkwujNXHMPYyU_1cpmdw&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQ8tMDegUIgQEQDA
+              - text: "6"
+            - link "Page 7" [ref=e1950] [cursor=pointer]:
+              - /url: /search?q=tuxedo+cat&sca_esv=39f50cfd4d7ec138&ei=MDL6adKDOOOIptQPpq2m4Q4&start=60&sa=N&sstk=Af77f_cdu-_xx_v6YuH3TdKsQEymUCK4Q6CMnzfCIyjO8vP77WyC2sOGLCr3kNnC9AhWt2TT40E82ElxJNUkwujNXHMPYyU_1cpmdw&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQ8tMDegUIgQEQDg
+              - text: "7"
+            - link "Page 8" [ref=e1952] [cursor=pointer]:
+              - /url: /search?q=tuxedo+cat&sca_esv=39f50cfd4d7ec138&ei=MDL6adKDOOOIptQPpq2m4Q4&start=70&sa=N&sstk=Af77f_cdu-_xx_v6YuH3TdKsQEymUCK4Q6CMnzfCIyjO8vP77WyC2sOGLCr3kNnC9AhWt2TT40E82ElxJNUkwujNXHMPYyU_1cpmdw&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQ8tMDegUIgQEQEA
+              - text: "8"
+            - link "Page 9" [ref=e1954] [cursor=pointer]:
+              - /url: /search?q=tuxedo+cat&sca_esv=39f50cfd4d7ec138&ei=MDL6adKDOOOIptQPpq2m4Q4&start=80&sa=N&sstk=Af77f_cdu-_xx_v6YuH3TdKsQEymUCK4Q6CMnzfCIyjO8vP77WyC2sOGLCr3kNnC9AhWt2TT40E82ElxJNUkwujNXHMPYyU_1cpmdw&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQ8tMDegUIgQEQEg
+              - text: "9"
+            - link "Page 10" [ref=e1956] [cursor=pointer]:
+              - /url: /search?q=tuxedo+cat&sca_esv=39f50cfd4d7ec138&ei=MDL6adKDOOOIptQPpq2m4Q4&start=90&sa=N&sstk=Af77f_cdu-_xx_v6YuH3TdKsQEymUCK4Q6CMnzfCIyjO8vP77WyC2sOGLCr3kNnC9AhWt2TT40E82ElxJNUkwujNXHMPYyU_1cpmdw&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQ8tMDegUIgQEQFA
+              - text: "10"
+            - heading "Next" [level=2] [ref=e1958]:
+              - link "Next" [ref=e1959] [cursor=pointer]:
+                - /url: /search?q=tuxedo+cat&sca_esv=39f50cfd4d7ec138&ei=MDL6adKDOOOIptQPpq2m4Q4&start=10&sa=N&sstk=Af77f_cdu-_xx_v6YuH3TdKsQEymUCK4Q6CMnzfCIyjO8vP77WyC2sOGLCr3kNnC9AhWt2TT40E82ElxJNUkwujNXHMPYyU_1cpmdw&ved=2ahUKEwjS2-uC36KUAxVjhIkEHaaWKewQ8NMDegUIgQEQFg
+                - generic [ref=e1961]: Next
+        - navigation
+    - contentinfo [ref=e1964]:
+      - heading "Footer Links" [level=1] [ref=e1965]
+      - generic [ref=e1969]:
+        - generic [ref=e1973]:
+          - button "Constantia, New York - From your IP address" [ref=e1975] [cursor=pointer]:
+            - generic [ref=e1976]: Constantia, New York
+            - generic [ref=e1978]:
+              - text: "-"
+              - generic [ref=e1979]: From your IP address
+          - text: "-"
+          - button "Update location" [ref=e1981] [cursor=pointer]: Update location
+        - generic [ref=e1984]:
+          - link "Help" [ref=e1985] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1
+          - link "Send feedback" [ref=e1986] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=e1987] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en&fg=1
+          - link "Terms" [ref=e1988] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en&fg=1

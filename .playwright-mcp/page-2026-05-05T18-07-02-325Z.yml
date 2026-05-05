@@ -1,0 +1,1653 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=e2] [cursor=pointer]
+      - link "Accessibility help" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en
+      - link "Accessibility feedback" [ref=e4] [cursor=pointer]
+  - generic [ref=e9]:
+    - search [ref=e10]:
+      - generic [ref=e12]:
+        - generic:
+          - generic:
+            - img
+        - link "US Teacher Appreciation Day 2026" [ref=e14] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQPQgL
+          - img "US Teacher Appreciation Day 2026" [ref=e15]
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - combobox "Search" [ref=e20]: blue shoes blue shoes
+            - generic [ref=e21]:
+              - button "Clear" [ref=e23] [cursor=pointer]:
+                - img [ref=e25]
+              - generic [ref=e28]:
+                - button "Search by voice" [ref=e29] [cursor=pointer]:
+                  - img [ref=e30]
+                - button "Search by image" [ref=e32] [cursor=pointer]:
+                  - img [ref=e33]
+          - button "Search" [ref=e35] [cursor=pointer]:
+            - img [ref=e38]
+    - generic [ref=e40]:
+      - button "Settings" [ref=e42] [cursor=pointer]:
+        - img [ref=e45]
+      - generic [ref=e48]:
+        - button "Google apps" [ref=e50] [cursor=pointer]:
+          - img [ref=e51]
+        - link "Sign in" [ref=e55] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Dblue%2Bshoes%26sei%3DvzH6afDXHIrx1sQP14qz6QM&ec=futura_srp_og_si_72236_p
+  - generic [ref=e57]:
+    - navigation [ref=e63]:
+      - generic [ref=e69]:
+        - list [ref=e70]:
+          - listitem [ref=e71]:
+            - link "AI Mode" [ref=e74] [cursor=pointer]:
+              - /url: /search?q=blue+shoes&sca_esv=39f50cfd4d7ec138&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwmdSduEdP1lcK-3UDyorIbYrYypmw2ykxY_-AvoMYwpWQvfCGsfTeASDCilOcxNlhUtUK32q2_Zq0ebiRzax6hfaA3Y6mqTbp5yoyrK8YMN_h43PAJWAM8W4jpi6BSwpTYpdopjSWCX6P1Jrocjwh8rrRxBXg&aep=1&ntc=1&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ2J8OegQIDRAD
+              - generic [ref=e77]: AI Mode
+          - listitem [ref=e78]:
+            - link "All" [disabled] [ref=e79]:
+              - generic [ref=e81]: All
+          - listitem [ref=e82]:
+            - link "Shopping" [ref=e83] [cursor=pointer]:
+              - /url: /search?sca_esv=39f50cfd4d7ec138&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwmdSduEdP1lcK-3UDyorIbYrYypmw2ykxY_-AvoMYwpWQvfCGsfTeASDCilOcxNlhUtUK32q2_Zq0ebiRzax6hfaA3Y6mqTbp5yoyrK8YMN_h43PAJWAM8W4jpi6BSwpTYpdopjSWCX6P1Jrocjwh8rrRxBXg&q=blue+shoes&ved=1t:220175&ictx=111
+              - generic [ref=e85]: Shopping
+          - listitem [ref=e86]:
+            - link "Images" [ref=e87] [cursor=pointer]:
+              - /url: /search?sca_esv=39f50cfd4d7ec138&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwmdSduEdP1lcK-3UDyorIbYrYypmw2ykxY_-AvoMYwpWQvfCGsfTeASDCilOcxNlhUtUK32q2_Zq0ebiRzax6hfaA3Y6mqTbp5yoyrK8YMN_h43PAJWAM8W4jpi6BSwpTYpdopjSWCX6P1Jrocjwh8rrRxBXg&q=blue+shoes&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQtKgLegQIEhAB
+              - generic [ref=e89]: Images
+          - listitem [ref=e90]:
+            - link "Videos" [ref=e91] [cursor=pointer]:
+              - /url: /search?sca_esv=39f50cfd4d7ec138&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwmdSduEdP1lcK-3UDyorIbYrYypmw2ykxY_-AvoMYwpWQvfCGsfTeASDCilOcxNlhUtUK32q2_Zq0ebiRzax6hfaA3Y6mqTbp5yoyrK8YMN_h43PAJWAM8W4jpi6BSwpTYpdopjSWCX6P1Jrocjwh8rrRxBXg&q=blue+shoes&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQtKgLegQIEBAB
+              - generic [ref=e93]: Videos
+          - listitem [ref=e94]:
+            - link "Short videos" [ref=e95] [cursor=pointer]:
+              - /url: /search?sca_esv=39f50cfd4d7ec138&udm=39&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwmdSduEdP1lcK-3UDyorIbYrYypmw2ykxY_-AvoMYwpWQvfCGsfTeASDCilOcxNlhUtUK32q2_Zq0ebiRzax6hfaA3Y6mqTbp5yoyrK8YMN_h43PAJWAM8W4jpi6BSwpTYpdopjSWCX6P1Jrocjwh8rrRxBXg&q=blue+shoes&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQs6gLegQIERAB
+              - generic [ref=e97]: Short videos
+          - listitem [ref=e98]:
+            - link "News" [ref=e99] [cursor=pointer]:
+              - /url: /search?sca_esv=39f50cfd4d7ec138&q=blue+shoes&tbm=nws&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwmdSduEdP1lcK-3UDyorIbYrYypmw2ykxY_-AvoMYwpWQvfCGsfTeASDCilOcxNlhUtUK32q2_Zq0ebiRzax6hfaA3Y6mqTbp5yoyrK8YMN_h43PAJWAM8W4jpi6BSwpTYpdopjSWCX6P1Jrocjwh8rrRxBXg&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ0pQJegQIExAB
+              - generic [ref=e101]: News
+          - listitem [ref=e102]:
+            - button "More filters" [ref=e103] [cursor=pointer]:
+              - generic "More filters" [ref=e104]:
+                - generic [ref=e105]:
+                  - generic [ref=e106]: More
+                  - img [ref=e108]
+        - button "Tools" [ref=e111] [cursor=pointer]:
+          - generic [ref=e113]:
+            - generic [ref=e114]: Tools
+            - img [ref=e116]
+    - heading "Search Results" [level=1] [ref=e118]
+    - generic [ref=e123]:
+      - navigation [ref=e124]:
+        - generic [ref=e125]:
+          - heading "Refine results" [level=2] [ref=e126]
+          - list [ref=e129]:
+            - listitem [ref=e130]:
+              - generic [ref=e132]:
+                - button "Department" [expanded] [ref=e134] [cursor=pointer]:
+                  - generic [ref=e137]: Department
+                  - img [ref=e140]
+                - generic [ref=e143]:
+                  - list [ref=e144]:
+                    - listitem [ref=e145]:
+                      - link "Women's filter. Not selected." [ref=e146] [cursor=pointer]:
+                        - /url: /search?q=women's+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIXCAESB1dvbWVuJ3M6CgiAoz4QgqM-MAVY5qcgYAI&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ268JKAB6BAglEAY
+                        - generic "Women's filter. Not selected." [ref=e150]: Women's
+                    - listitem [ref=e151]:
+                      - link "Men's filter. Not selected." [ref=e152] [cursor=pointer]:
+                        - /url: /search?q=men's+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIVCAESBU1lbidzOgoIgKM-EIGjPjAFWOanIGAC&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ268JKAF6BAglEAc
+                        - generic "Men's filter. Not selected." [ref=e156]: Men's
+                    - listitem [ref=e157]:
+                      - link "Kids' filter. Not selected." [ref=e158] [cursor=pointer]:
+                        - /url: /search?q=kids'+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIVCAESBUtpZHMnOgoIgKM-EISjPjAFWOanIGAC&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ268JKAJ6BAglEAg
+                        - generic "Kids' filter. Not selected." [ref=e162]: Kids'
+                    - listitem [ref=e163]:
+                      - link "Boys' filter. Not selected." [ref=e164] [cursor=pointer]:
+                        - /url: /search?q=boys'+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIVCAESBUJveXMnOgoIgKM-EIWjPjAFWOanIGAC&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ268JKAN6BAglEAk
+                        - generic "Boys' filter. Not selected." [ref=e168]: Boys'
+                  - button "See more" [ref=e169] [cursor=pointer]
+            - listitem [ref=e170]:
+              - generic [ref=e172]:
+                - button "Color" [expanded] [ref=e174] [cursor=pointer]:
+                  - generic [ref=e177]: Color
+                  - img [ref=e180]
+                - list [ref=e184]:
+                  - listitem [ref=e185]:
+                    - link "Navy Blue filter. Not selected." [ref=e186] [cursor=pointer]:
+                      - /url: /search?q=navy+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIbCAESCU5hdnkgQmx1ZToMCNiM9QEQh4z1ATALWOanIGAC&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ268JKAB6BAglEA8
+                      - generic "Navy Blue filter. Not selected." [ref=e190]: Navy Blue
+                  - listitem [ref=e191]:
+                    - link "White filter. Not selected." [ref=e192] [cursor=pointer]:
+                      - /url: /search?q=white+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIXCAESBVdoaXRlOgwI2Iz1ARChi_UBMAtY5qcgYAI&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ268JKAF6BAglEBA
+                      - generic "White filter. Not selected." [ref=e196]: White
+                  - listitem [ref=e197]:
+                    - link "Black filter. Not selected." [ref=e198] [cursor=pointer]:
+                      - /url: /search?q=black+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIXCAESBUJsYWNrOgwI2Iz1ARDlivUBMAtY5qcgYAI&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ268JKAJ6BAglEBE
+                      - generic "Black filter. Not selected." [ref=e202]: Black
+                  - listitem [ref=e203]:
+                    - link "Gray filter. Not selected." [ref=e204] [cursor=pointer]:
+                      - /url: /search?q=gray+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIWCAESBEdyYXk6DAjYjPUBEOqK9QEwC1jmpyBgAg&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ268JKAN6BAglEBI
+                      - generic "Gray filter. Not selected." [ref=e208]: Gray
+                  - listitem [ref=e209]:
+                    - link "Silver filter. Not selected." [ref=e210] [cursor=pointer]:
+                      - /url: /search?q=silver+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIYCAESBlNpbHZlcjoMCNiM9QEQiujZAzALWOanIGAC&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ268JKAR6BAglEBM
+                      - generic "Silver filter. Not selected." [ref=e214]: Silver
+            - listitem [ref=e215]:
+              - generic [ref=e217]:
+                - button "Athletic Style" [expanded] [ref=e219] [cursor=pointer]:
+                  - generic [ref=e222]: Athletic Style
+                  - img [ref=e225]
+                - list [ref=e229]:
+                  - listitem [ref=e230]:
+                    - link "Basketball filter. Not selected." [ref=e231] [cursor=pointer]:
+                      - /url: /search?q=basketball+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIcCAESCkJhc2tldGJhbGw6DAjUm4kCENabiQIwAljmpyBgAg&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ268JKAB6BAglEBc
+                      - generic "Basketball filter. Not selected." [ref=e235]: Basketball
+                  - listitem [ref=e236]:
+                    - link "Running filter. Not selected." [ref=e237] [cursor=pointer]:
+                      - /url: /search?q=running+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIZCAESB1J1bm5pbmc6DAjUm4kCEOKbiQIwAljmpyBgAg&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ268JKAF6BAglEBg
+                      - generic "Running filter. Not selected." [ref=e241]: Running
+                  - listitem [ref=e242]:
+                    - link "Cross Training filter. Not selected." [ref=e243] [cursor=pointer]:
+                      - /url: /search?q=cross+training+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIgCAESDkNyb3NzIFRyYWluaW5nOgwI1JuJAhDbm4kCMAJY5qcgYAI&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ268JKAJ6BAglEBk
+                      - generic "Cross Training filter. Not selected." [ref=e247]: Cross Training
+                  - listitem [ref=e248]:
+                    - link "Skateboarding filter. Not selected." [ref=e249] [cursor=pointer]:
+                      - /url: /search?q=skateboarding+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIfCAESDVNrYXRlYm9hcmRpbmc6DAjUm4kCEOObiQIwAljmpyBgAg&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ268JKAN6BAglEBo
+                      - generic "Skateboarding filter. Not selected." [ref=e253]: Skateboarding
+            - listitem [ref=e254]:
+              - button "Type" [ref=e258] [cursor=pointer]:
+                - generic [ref=e261]: Type
+                - img [ref=e264]
+            - listitem [ref=e266]:
+              - button "Brand" [ref=e270] [cursor=pointer]:
+                - generic [ref=e273]: Brand
+                - img [ref=e276]
+            - listitem [ref=e278]:
+              - button "Features" [ref=e282] [cursor=pointer]:
+                - generic [ref=e285]: Features
+                - img [ref=e288]
+            - listitem [ref=e290]:
+              - button "Product Rating" [ref=e294] [cursor=pointer]:
+                - generic [ref=e297]: Product Rating
+                - img [ref=e300]
+            - listitem [ref=e302]:
+              - button "Heel Height" [ref=e306] [cursor=pointer]:
+                - generic [ref=e309]: Heel Height
+                - img [ref=e312]
+            - listitem [ref=e314]:
+              - button "Price" [ref=e318] [cursor=pointer]:
+                - generic [ref=e321]: Price
+                - img [ref=e324]
+            - listitem [ref=e326]:
+              - button "Sort by" [ref=e330] [cursor=pointer]:
+                - generic [ref=e333]: Sort by
+                - img [ref=e336]
+            - listitem [ref=e338]:
+              - button "Women's Size" [ref=e342] [cursor=pointer]:
+                - generic [ref=e345]: Women's Size
+                - img [ref=e348]
+            - listitem [ref=e350]:
+              - button "Style" [ref=e354] [cursor=pointer]:
+                - generic [ref=e357]: Style
+                - img [ref=e360]
+            - listitem [ref=e362]:
+              - button "Support Type" [ref=e366] [cursor=pointer]:
+                - generic [ref=e369]: Support Type
+                - img [ref=e372]
+            - listitem [ref=e374]:
+              - button "Material" [ref=e378] [cursor=pointer]:
+                - generic [ref=e381]: Material
+                - img [ref=e384]
+            - listitem [ref=e386]:
+              - button "Heel Style" [ref=e390] [cursor=pointer]:
+                - generic [ref=e393]: Heel Style
+                - img [ref=e396]
+            - listitem [ref=e398]:
+              - button "Stores" [ref=e402] [cursor=pointer]:
+                - generic [ref=e405]: Stores
+                - img [ref=e408]
+            - listitem [ref=e410]:
+              - button "Season" [ref=e414] [cursor=pointer]:
+                - generic [ref=e417]: Season
+                - img [ref=e420]
+            - listitem [ref=e422]:
+              - button "Closure Style" [ref=e426] [cursor=pointer]:
+                - generic [ref=e429]: Closure Style
+                - img [ref=e432]
+            - listitem [ref=e434]:
+              - button "Embellishment Style" [ref=e438] [cursor=pointer]:
+                - generic [ref=e441]: Embellishment Style
+                - img [ref=e444]
+      - navigation "Refinement" [ref=e448]:
+        - generic [ref=e450]:
+          - list [ref=e453]:
+            - button "All filters." [pressed] [ref=e454] [cursor=pointer]:
+              - img [ref=e456]
+            - listitem [ref=e458] [cursor=pointer]:
+              - link "Women's filter. Not selected." [ref=e459]:
+                - /url: /search?q=women's+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIXCAESB1dvbWVuJ3M6CgiAoz4QgqM-MAVY5qcgYAE&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKAF6BQglEJAB
+                - generic [ref=e461]: Women's
+            - listitem [ref=e462] [cursor=pointer]:
+              - link "Men's filter. Not selected." [ref=e463]:
+                - /url: /search?q=men's+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIVCAESBU1lbidzOgoIgKM-EIGjPjAFWOanIGAB&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKAJ6BQglEJEB
+                - generic [ref=e465]: Men's
+            - listitem [ref=e466] [cursor=pointer]:
+              - link "Kids' filter. Not selected." [ref=e467]:
+                - /url: /search?q=kids'+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIVCAESBUtpZHMnOgoIgKM-EISjPjAFWOanIGAB&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKAN6BQglEJIB
+                - generic [ref=e469]: Kids'
+            - listitem [ref=e470] [cursor=pointer]:
+              - link "Boys' filter. Not selected." [ref=e471]:
+                - /url: /search?q=boys'+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIVCAESBUJveXMnOgoIgKM-EIWjPjAFWOanIGAB&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKAR6BQglEJMB
+                - generic [ref=e473]: Boys'
+            - listitem [ref=e474] [cursor=pointer]:
+              - link "Navy Blue filter. Not selected." [ref=e475]:
+                - /url: /search?q=navy+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIbCAESCU5hdnkgQmx1ZToMCNiM9QEQh4z1ATALWOanIGAB&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKAV6BQglEJQB
+                - generic [ref=e480]: Navy Blue
+            - listitem [ref=e481] [cursor=pointer]:
+              - link "Girls' filter. Not selected." [ref=e482]:
+                - /url: /search?q=girls'+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIWCAESBkdpcmxzJzoKCICjPhCGoz4wBVjmpyBgAQ&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKAZ6BQglEJUB
+                - generic [ref=e484]: Girls'
+            - listitem [ref=e485] [cursor=pointer]:
+              - link "On sale filter. Not selected." [ref=e486]:
+                - /url: /search?q=blue+shoes+sale&shoprs=CAESBEoCGAEYBioKYmx1ZSBzaG9lczITCAYSB09uIHNhbGUYAiIESgIYAVjmpyBgAQ&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKAd6BQglEJYB
+                - generic [ref=e488]: On sale
+            - listitem [ref=e489] [cursor=pointer]:
+              - link "Get it tomorrow filter. Not selected." [ref=e490]:
+                - /url: /search?q=blue+shoes&shoprs=CAESDZoBCgoIEAE4AUADSAEYFCoKYmx1ZSBzaG9lczIoCBQSD0dldCBpdCB0b21vcnJvdyINmgEKCggQATgBQANIASoEEAEYAWAB&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKAh6BQglEJcB
+                - generic [ref=e492]: Get it tomorrow
+            - listitem [ref=e493] [cursor=pointer]:
+              - link "Basketball filter. Not selected." [ref=e494]:
+                - /url: /search?q=basketball+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIcCAESCkJhc2tldGJhbGw6DAjUm4kCENabiQIwAljmpyBgAQ&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKAl6BQglEJgB
+                - generic [ref=e496]: Basketball
+            - listitem [ref=e497] [cursor=pointer]:
+              - link "Dress filter. Not selected." [ref=e498]:
+                - /url: /search?q=dress+blue+shoes&shoprs=CAEYEioKYmx1ZSBzaG9lczIJCBISBURyZXNzYAE&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKAp6BQglEJkB
+                - generic [ref=e500]: Dress
+            - listitem [ref=e501] [cursor=pointer]:
+              - link "Sneakers filter. Not selected." [ref=e502]:
+                - /url: /search?q=sneakers+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIaCAESCFNuZWFrZXJzOgwItL62AhDEvrYCMAJY5qcgYAE&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKAt6BQglEJoB
+                - generic [ref=e504]: Sneakers
+            - listitem [ref=e505] [cursor=pointer]:
+              - link "White filter. Not selected." [ref=e506]:
+                - /url: /search?q=white+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIXCAESBVdoaXRlOgwI2Iz1ARChi_UBMAtY5qcgYAE&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKAx6BQglEJsB
+                - generic [ref=e511]: White
+            - listitem [ref=e512] [cursor=pointer]:
+              - link "High-top filter. Not selected." [ref=e513]:
+                - /url: /search?q=high-top+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIaCAESCEhpZ2gtdG9wOgwIv5CKAhDAkIoCMANY5qcgYAE&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKA56BQglEJ0B
+                - generic [ref=e515]: High-top
+            - listitem [ref=e516] [cursor=pointer]:
+              - link "Black filter. Not selected." [ref=e517]:
+                - /url: /search?q=black+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIXCAESBUJsYWNrOgwI2Iz1ARDlivUBMAtY5qcgYAE&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKA96BQglEJ4B
+                - generic [ref=e522]: Black
+            - listitem [ref=e523] [cursor=pointer]:
+              - link "Slip-on filter. Not selected." [ref=e524]:
+                - /url: /search?q=slip-on+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIZCAESB1NsaXAtb246DAiS19wDEOXZ3AMwA1jmpyBgAQ&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKBB6BQglEJ8B
+                - generic [ref=e526]: Slip-on
+            - listitem [ref=e527] [cursor=pointer]:
+              - link "Fashion Sneaker filter. Not selected." [ref=e528]:
+                - /url: /search?q=fashion+sneaker+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIhCAESD0Zhc2hpb24gU25lYWtlcjoMCPCbiQIQ8ZuJAjADWOanIGAB&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKBF6BQglEKAB
+                - generic [ref=e530]: Fashion Sneaker
+            - listitem [ref=e531] [cursor=pointer]:
+              - link "For Athletics filter. Not selected." [ref=e532]:
+                - /url: /search?q=blue+shoes+for+athletics&shoprs=CAEYASoKYmx1ZSBzaG9lczIhCAESDUZvciBBdGhsZXRpY3MYAjoMCJG-tgIQkr62AjADWOanIGAB&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKBJ6BQglEKEB
+                - generic [ref=e534]: For Athletics
+            - listitem [ref=e535] [cursor=pointer]:
+              - link "Rubber Outsole filter. Not selected." [ref=e536]:
+                - /url: /search?q=rubber+outsole+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIgCAESDlJ1YmJlciBPdXRzb2xlOgwIhvqcAxCe95wDMABY5qcgYAE&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKBN6BQglEKIB
+                - generic [ref=e538]: Rubber Outsole
+            - listitem [ref=e539] [cursor=pointer]:
+              - link "High Heel filter. Not selected." [ref=e540]:
+                - /url: /search?q=high+heel+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIbCAESCUhpZ2ggSGVlbDoMCOqWogEQ7JaiATAAWOanIGAB&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKBR6BQglEKMB
+                - generic [ref=e542]: High Heel
+            - listitem [ref=e543] [cursor=pointer]:
+              - link "Under $60 filter. Not selected." [ref=e544]:
+                - /url: /search?q=blue+shoes+under+$60&shoprs=CAESDRILEQAAAAA4nIxBGAEYBSoKYmx1ZSBzaG9lczIiCAUSCVVuZGVyICQ2MBgCIg0SCxEAAAAAOJyMQRgBKgIYAVjmpyBgAQ&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKBV6BQglEKQB
+                - generic [ref=e546]: Under $60
+            - listitem [ref=e547] [cursor=pointer]:
+              - link "Brand filter. Not selected." [ref=e548]:
+                - /url: /search?q=brand+blue+shoes&shoprs=CAEYEioKYmx1ZSBzaG9lczIJCBISBUJyYW5kYAE&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKBZ6BQglEKUB
+                - generic [ref=e550]: Brand
+            - listitem [ref=e551] [cursor=pointer]:
+              - link "Low Heel filter. Not selected." [ref=e552]:
+                - /url: /search?q=low+heel+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIaCAESCExvdyBIZWVsOgwI6paiARDtlqIBMABY5qcgYAE&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKBd6BQglEKYB
+                - generic [ref=e554]: Low Heel
+            - listitem [ref=e555] [cursor=pointer]:
+              - link "Formal filter. Not selected." [ref=e556]:
+                - /url: /search?q=formal+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIYCAESBkZvcm1hbDoMCIW-tgIQh762AjAAWOanIGAB&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKBh6BQglEKcB
+                - generic [ref=e558]: Formal
+            - listitem [ref=e559] [cursor=pointer]:
+              - link "Cushioning filter. Not selected." [ref=e560]:
+                - /url: /search?q=cushioning+blue+shoes&shoprs=CAEYASoKYmx1ZSBzaG9lczIcCAESCkN1c2hpb25pbmc6DAij85wDEKD1nAMwAFjmpyBgAQ&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKBl6BQglEKgB
+                - generic [ref=e562]: Cushioning
+            - listitem [ref=e563] [cursor=pointer]:
+              - link "Sandals filter. Not selected." [ref=e564]:
+                - /url: /search?q=sandals+blue+shoes&shoprs=CAEYCSoKYmx1ZSBzaG9lczILCAkSB1NhbmRhbHNgAQ&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQip4GKBp6BQglEKkB
+                - generic [ref=e566]: Sandals
+          - button [ref=e567] [cursor=pointer]
+    - generic [ref=e577]:
+      - heading "Constantia, NY" [level=2] [ref=e578]:
+        - img [ref=e581]:
+          - img [ref=e582]
+        - generic [ref=e585]: Constantia, NY
+      - generic [ref=e587]:
+        - text: ∙
+        - button "Choose area" [ref=e588] [cursor=pointer]
+      - button "How location is used" [ref=e591] [cursor=pointer]:
+        - img [ref=e593]
+    - generic [ref=e603]:
+      - heading "Sponsored products" [level=3] [ref=e605]:
+        - generic [ref=e606]: Sponsored products
+      - button "Why this ad?" [ref=e612] [cursor=pointer]:
+        - img [ref=e614]
+      - generic [ref=e619]:
+        - generic [ref=e623]:
+          - generic [ref=e624]:
+            - link "for from LightInTheBox":
+              - link "for from LightInTheBox" [ref=e625] [cursor=pointer]:
+                - /url: https://www.lightinthebox.com/p/women-s-sparkly-yellow-jelly-pumps-breathable-hollow-out-lattice-low-block-heels-with-glitter-for-beach-vacations-summer-weddings-seaside-resort-wear_p16216665.html?currency=USD&litb_from=paid_adwords_shopping&sku=1_45%7C2_805559&country_code=US&pv2=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJjIjoiVVNEIiwiZXhwIjoxNzc4MDA4MDE2LCJtIjoiMTQwMTc3NzEiLCJvIjoiMTYyMTY2NjVfMDAwMDlfVVNfZW4iLCJwIjoyMy45OH0.gNzu_0WCjkYXkqiMaQs8fko2AlL8wLlYdj885H6G00AvhC8piF6QEh9Eybyc0wD_U5k8czvOYEYxQ_nDbjJ8aQ
+            - generic [ref=e632]: Sale
+            - generic [ref=e635]:
+              - heading "Women's Sparkly Yellow Jelly Pumps - Breathable Hollow-Out Lattice Low Block Heels with Glitter for Beach Vacations, Summer Weddings & Seaside Resort" [level=3] [ref=e636]:
+                - generic [ref=e637]: Women's Sparkly Yellow Jelly Pumps - Breathable Hollow-Out Lattice Low Block Heels with Glitter for Beach Vacations, Summer Weddings & Seaside Resort
+              - generic [ref=e638]:
+                - generic [ref=e639]: $23.98
+                - generic [ref=e640]: $33
+              - generic "From LightInTheBox" [ref=e642]: LightInTheBox
+          - generic [ref=e645]:
+            - link "for from Shein":
+              - link "for from Shein" [ref=e646] [cursor=pointer]:
+                - /url: https://onelink.shein.com/0/googlefeed_us?goods_id=303005229&lang=en&currency=USD&skucode=I5dbw2m9hho6&ismg=c01f22e6d639d161bbdf03880aedc6c11da9094dc91a0e584c55641a392e5497_01_1777979905
+            - generic [ref=e651]:
+              - heading "Autumn/Winter Wedding & Casual Fashion High Heel Mary Jane T-Strap Shoes, Chunky Heel Shoes, Velvet Formal Work Pumps, Blue Office Lady Outdoor Shoes" [level=3] [ref=e652]:
+                - generic [ref=e653]: Autumn/Winter Wedding & Casual Fashion High Heel Mary Jane T-Strap Shoes, Chunky Heel Shoes, Velvet Formal Work Pumps, Blue Office Lady Outdoor Shoes
+              - generic [ref=e655]: $19.64
+              - generic "From Shein" [ref=e657]: Shein
+              - generic [ref=e661]:
+                - img [ref=e663]
+                - generic [ref=e665]: By 5/21
+          - generic [ref=e666]:
+            - link "for from Temu":
+              - link "for from Temu" [ref=e667] [cursor=pointer]:
+                - /url: https://www.temu.com/kuiper/un9/shopping-gmc-a-psurl.html?_bg_fs=1&_p_jump_id=962&_x_vst_scene=adg&goods_id=601099575422228&sku_id=17592447239755&adg_ctx=a-86f07e72~c-6f8e44b7&_x_ads_sub_channel=shopping&_p_rfs=1&_x_ns_prz_type=-1&locale_override=211~en~USD&_x_ns_sku_id=17592447239755&_x_ns_gid=601099575422228&mrk_rec=1&_x_ads_channel=google&_x_gmc_account=647900107&_x_login_type=Google
+            - generic [ref=e672]:
+              - heading "Royal blue shoes for women, Navy blue shoes for women, Women's Fashion High Heels with Chunky Heels, Blue heels for women, Elegant Blue Peep-Toe" [level=3] [ref=e673]:
+                - generic [ref=e674]: Royal blue shoes for women, Navy blue shoes for women, Women's Fashion High Heels with Chunky Heels, Blue heels for women, Elegant Blue Peep-Toe
+              - generic [ref=e676]: $41.31
+              - generic "From Temu" [ref=e678]: Temu
+              - generic [ref=e682]:
+                - img [ref=e684]
+                - generic [ref=e686]: Free by 5/20
+          - generic [ref=e687]:
+            - link "for from Roaman's":
+              - link "for from Roaman's" [ref=e688] [cursor=pointer]:
+                - /url: https://www.roamans.com/products/the-sage-suede-like-shootie-pump/302744657.html?TargetedOffer_ID=0516-20716-0614&utm_ad=CQO&glCountry=US&glCurrency=USD&affiliate_id=049&affiliate_location_id=40&utm_medium=ps_pla&utm_source=google
+            - generic [ref=e693]:
+              - heading "Extra Wide Width Women's The Sage Suede-Like Shootie Pump by Comfortview in Dark Sapphire (Size 9 WW)" [level=3] [ref=e694]:
+                - generic [ref=e695]: Extra Wide Width Women's The Sage Suede-Like Shootie Pump by Comfortview in Dark Sapphire (Size 9 WW)
+              - generic [ref=e697]: $29.99
+              - generic "From Roaman's" [ref=e699]: Roaman's
+              - img "Rated 4.2 out of 5, (196) user reviews" [ref=e704]:
+                - img [ref=e705]
+                - text: (196)
+          - generic [ref=e708]:
+            - link "for from Catherines":
+              - link "for from Catherines" [ref=e709] [cursor=pointer]:
+                - /url: https://www.catherines.com/products/the-vida-leather-like-slip-on-pump/301232733.html?TargetedOffer_ID=2616-10284-0531&utm_ad=CQO&glCountry=US&glCurrency=USD&affiliate_id=049&affiliate_location_id=40&utm_medium=ps_pla&utm_source=google
+            - generic [ref=e714]:
+              - heading "Women's The Vida Leather-Like Slip On Pump by Comfortview in Navy (Size 9 M)" [level=3] [ref=e715]:
+                - generic [ref=e716]: Women's The Vida Leather-Like Slip On Pump by Comfortview in Navy (Size 9 M)
+              - generic [ref=e718]: $16.99
+              - generic "From Catherines" [ref=e720]: Catherines
+              - img "Rated 4.2 out of 5, (267) user reviews" [ref=e725]:
+                - img [ref=e726]
+                - text: (267)
+          - generic [ref=e729]:
+            - link "for from Inspire Uplift":
+              - link "for from Inspire Uplift" [ref=e730] [cursor=pointer]:
+                - /url: https://www.inspireuplift.com/comfort-walking-shoes-for-seniors-with-soft-cushion-sole/iu/21670579?variant=474452350
+            - generic [ref=e735]:
+              - heading "Comfort Walking Shoes For Seniors With Soft Cushion Sole, Breathable SlipOn Flats For Daily Wear - Sky Blue 7 | FusionFolio" [level=3] [ref=e736]:
+                - generic [ref=e737]: Comfort Walking Shoes For Seniors With Soft Cushion Sole, Breathable SlipOn Flats For Daily Wear - Sky Blue 7 | FusionFolio
+              - generic [ref=e739]: $44.97
+              - generic "From Inspire Uplift" [ref=e741]: Inspire Uplift
+              - img "Rated 4.7 out of 5, (28) user reviews" [ref=e746]:
+                - img [ref=e747]
+                - text: (28)
+          - generic [ref=e750]:
+            - link "for from The Hills Nashville":
+              - link "for from The Hills Nashville" [ref=e751] [cursor=pointer]:
+                - /url: https://thehillsnashville.com/products/vayda?currency=USD&country=US&variant=53035237441878&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=ea8e4856765f
+            - generic [ref=e756]:
+              - heading "Vayda | Orthopedic Heels - Blue / 5 US | 36 EU - Women's Fashion - The Hills Nashville" [level=3] [ref=e757]:
+                - generic [ref=e758]: Vayda | Orthopedic Heels - Blue / 5 US | 36 EU - Women's Fashion - The Hills Nashville
+              - generic [ref=e760]: $29.95
+              - generic "From The Hills Nashville" [ref=e762]: The Hills Nashville
+              - generic [ref=e766]:
+                - img [ref=e768]
+                - generic [ref=e770]: Free by 5/6
+          - generic [ref=e771]:
+            - link "for from DSW":
+              - link "for from DSW" [ref=e772] [cursor=pointer]:
+                - /url: https://www.dsw.com/product/lifestride-giovanna-2-pump/447468?activeColor=401&size=9&width=Medium&cm_mmc=CSE-_-SAG
+            - generic [ref=e777]:
+              - heading "LifeStride Giovanna 2 Pump | Women's | Navy Fabric | Size 9 | Heels | Pumps" [level=3] [ref=e778]:
+                - generic [ref=e779]: LifeStride Giovanna 2 Pump | Women's | Navy Fabric | Size 9 | Heels | Pumps
+              - generic [ref=e781]: $59.99
+              - generic "From DSW" [ref=e783]: DSW
+              - generic [ref=e788] [cursor=pointer]: $75+ ships free
+          - generic [ref=e789]:
+            - link "for from Belro":
+              - link "for from Belro" [ref=e790] [cursor=pointer]:
+                - /url: https://belroshop.com/products/orthopedic-women-shoes-soft-leather-slip-on-walking-loafers-shoes?currency=USD&country=US&variant=42956028444742&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=247f16242035
+            - generic [ref=e795]:
+              - heading "Women shoes Soft Leather Slip on Walking Loafers Shoes, Blue / 8" [level=3] [ref=e796]:
+                - generic [ref=e797]: Women shoes Soft Leather Slip on Walking Loafers Shoes, Blue / 8
+              - generic [ref=e799]: $34.99
+              - generic "From Belro" [ref=e801]: Belro
+              - generic [ref=e805]:
+                - img [ref=e807]
+                - generic [ref=e809]: Free by 5/13
+          - generic [ref=e810]:
+            - link "for from Mayberry":
+              - link "for from Mayberry" [ref=e811] [cursor=pointer]:
+                - /url: https://www.bymayberry.com/products/sabine-women-s-adjustable-ankle-strap-sandals?currency=USD&variant=52785632641360&stkn=c32a3229fabc
+            - generic [ref=e816]:
+              - heading "Sabine | Women's Adjustable Ankle Strap Sandals, Blue / 9" [level=3] [ref=e817]:
+                - generic [ref=e818]: Sabine | Women's Adjustable Ankle Strap Sandals, Blue / 9
+              - generic [ref=e820]: $62.95
+              - generic "From Mayberry" [ref=e822]: Mayberry
+              - generic [ref=e826]:
+                - img [ref=e828]
+                - generic [ref=e830]: Free
+          - generic [ref=e831]:
+            - link "for from Shein":
+              - link "for from Shein" [ref=e832] [cursor=pointer]:
+                - /url: https://onelink.shein.com/0/googlefeed_us?goods_id=21984795&lang=en&currency=USD&skucode=I11msk7e1x8b&ismg=d3de4afc68bc56d1dea162a2e3ab95d9a04cf4eb917723447968ce8c44d097f8_01_1777980127
+            - generic [ref=e837]:
+              - heading "Chunky Heel Pumps Valentines,CN36" [level=3] [ref=e838]:
+                - generic [ref=e839]: Chunky Heel Pumps Valentines,CN36
+              - generic [ref=e841]: $19.05
+              - generic "From Shein" [ref=e843]: Shein
+              - generic [ref=e847]:
+                - img [ref=e849]
+                - generic [ref=e851]: By 5/21
+          - generic [ref=e852]:
+            - link "for from Shein":
+              - link "for from Shein" [ref=e853] [cursor=pointer]:
+                - /url: https://onelink.shein.com/0/googlefeed_us?goods_id=97766743&lang=en&currency=USD&skucode=I89ed72sw8ki&ismg=d6c65486ff593823c32b0f81695d46c4ea493ad7a14cf90ca31e4be7cfff9602_01_1777980055
+            - generic [ref=e858]:
+              - heading "Women's Square Toe Chunky Heel Strap High Heel Sandals, Fashion Outdoor Minimalist Versatile Mid-Heel Chunky Heel Shoes,CN38" [level=3] [ref=e859]:
+                - generic [ref=e860]: Women's Square Toe Chunky Heel Strap High Heel Sandals, Fashion Outdoor Minimalist Versatile Mid-Heel Chunky Heel Shoes,CN38
+              - generic [ref=e862]: $17.82
+              - generic "From Shein" [ref=e864]: Shein
+              - generic [ref=e868]:
+                - img [ref=e870]
+                - generic [ref=e872]: By 5/21
+          - generic [ref=e873]:
+            - link "for from Jennifer & John Charleston":
+              - link "for from Jennifer & John Charleston" [ref=e874] [cursor=pointer]:
+                - /url: https://jenniferjohn-charleston.com/products/maricela?currency=USD&country=US&variant=56421023416703&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=30a9c8faba87
+            - generic [ref=e879]:
+              - heading "Maricela | Orthopedic Loafers - Light Blue / 8 - Women's Fashion - Jennifer & John Charleston" [level=3] [ref=e880]:
+                - generic [ref=e881]: Maricela | Orthopedic Loafers - Light Blue / 8 - Women's Fashion - Jennifer & John Charleston
+              - generic [ref=e883]: $49.95
+              - generic "From Jennifer & John Charleston" [ref=e885]: Jennifer & John Charleston
+              - generic [ref=e889]:
+                - img [ref=e891]
+                - generic [ref=e893]: Free by 5/22
+          - generic [ref=e894]:
+            - link "for from Temu":
+              - link "for from Temu" [ref=e895] [cursor=pointer]:
+                - /url: https://www.temu.com/kuiper/un9/shopping-gmc-a-psurl.html?_bg_fs=1&_p_jump_id=962&_x_vst_scene=adg&goods_id=601099565041184&sku_id=17592412572494&adg_ctx=a-9110b923~c-2e7f39e5&_x_ads_sub_channel=shopping&_p_rfs=1&_x_ns_prz_type=-1&locale_override=211~en~USD&_x_ns_sku_id=17592874394389&_x_ns_gid=601099691348898&mrk_rec=1&_x_ads_channel=google&_x_gmc_account=647900107&_x_login_type=Google
+            - generic [ref=e900]:
+              - heading "Church shoes women, Ladies shoes, Women's Elegant Flat Shoes with Sparkling Rhinestones, Red shoes for women clearance sale, Women Shoes, Women flat" [level=3] [ref=e901]:
+                - generic [ref=e902]: Church shoes women, Ladies shoes, Women's Elegant Flat Shoes with Sparkling Rhinestones, Red shoes for women clearance sale, Women Shoes, Women flat
+              - generic [ref=e904]: $11.00
+              - generic "From Temu" [ref=e906]: Temu
+              - img "Rated 4.8 out of 5, (104) user reviews" [ref=e911]:
+                - img [ref=e912]
+                - text: (104)
+          - generic [ref=e915]:
+            - link "for from Shein":
+              - link "for from Shein" [ref=e916] [cursor=pointer]:
+                - /url: https://onelink.shein.com/0/googlefeed_us?goods_id=12192012&lang=en&currency=USD&skucode=I46t0vt2bnet&ismg=3d8cd10a655a31ee7c802364d32742518ba9df008618cc80d0a9531fbbc6ab21_01_1777981753
+            - generic [ref=e921]:
+              - heading "Women's Low Heel Court Pumps Solid Color Elegant Bridal Wedding Shoes,US8.5" [level=3] [ref=e922]:
+                - generic [ref=e923]: Women's Low Heel Court Pumps Solid Color Elegant Bridal Wedding Shoes,US8.5
+              - generic [ref=e925]: $18.62
+              - generic "From Shein" [ref=e927]: Shein
+              - generic [ref=e931]:
+                - img [ref=e933]
+                - generic [ref=e935]: By 5/9
+          - generic [ref=e936]:
+            - link "for from Orthofeet":
+              - link "for from Orthofeet" [ref=e937] [cursor=pointer]:
+                - /url: https://www.orthofeet.com/products/coral-stretch-knit-blue?currency=USD&country=US&variant=39805045375047&stkn=e27b4697b002
+            - generic [ref=e942]:
+              - heading "#1 Comfortable Sneakers, Customized Arch Support, New Balance Alternative, Women's Sneakers | OrthoFeet Orthotic Footwear, Coral, 10.5 / Wide / Blue" [level=3] [ref=e943]:
+                - generic [ref=e944]: "#1 Comfortable Sneakers, Customized Arch Support, New Balance Alternative, Women's Sneakers | OrthoFeet Orthotic Footwear, Coral, 10.5 / Wide / Blue"
+              - generic [ref=e946]: $115.00
+              - generic "From Orthofeet" [ref=e948]: Orthofeet
+              - img "Rated 4.3 out of 5, (9k+) user reviews" [ref=e953]:
+                - img [ref=e954]
+                - text: (9k+)
+          - generic [ref=e957]:
+            - link "for from Vivaia Official":
+              - link "for from Vivaia Official" [ref=e958] [cursor=pointer]:
+                - /url: https://www.vivaia.com/item/aria-5-p_10027639.html?gid=10027639&currency=USD&shipping_country_code=US&select_size=1&ccode=US
+            - generic [ref=e963]:
+              - heading "VIVAIA Pointed-Toe Ballet Flats (Aria 5°)|Denim blue botanical|US5" [level=3] [ref=e964]:
+                - generic [ref=e965]: VIVAIA Pointed-Toe Ballet Flats (Aria 5°)|Denim blue botanical|US5
+              - generic [ref=e967]: $69.00
+              - generic "From Vivaia Official" [ref=e969]: Vivaia Official
+              - img "Rated 4.7 out of 5, (35) user reviews" [ref=e974]:
+                - img [ref=e975]
+                - text: (35)
+          - generic [ref=e978]:
+            - link "for from Woman Within":
+              - link "for from Woman Within" [ref=e979] [cursor=pointer]:
+                - /url: https://www.womanwithin.com/products/the-vida-leather-like-slip-on-pump/301218556.html?TargetedOffer_ID=0016-10284-0531&utm_ad=CQO&glCountry=US&glCurrency=USD&affiliate_id=049&affiliate_location_id=40&utm_medium=ps_pla&utm_source=google
+            - generic [ref=e984]:
+              - heading "Wide Width Women's The Vida Leather-Like Slip On Pump by Comfortview in Navy (Size 9 W)" [level=3] [ref=e985]:
+                - generic [ref=e986]: Wide Width Women's The Vida Leather-Like Slip On Pump by Comfortview in Navy (Size 9 W)
+              - generic [ref=e988]: $19.99
+              - generic "From Woman Within" [ref=e990]: Woman Within
+              - img "Rated 4.2 out of 5, (267) user reviews" [ref=e995]:
+                - img [ref=e996]
+                - text: (267)
+          - generic [ref=e999]:
+            - link "for from DSW":
+              - link "for from DSW" [ref=e1000] [cursor=pointer]:
+                - /url: https://www.dsw.com/product/nine-west-yazza-pump/593487?activeColor=400&size=8.5&width=Medium&cm_mmc=CSE-_-SAG
+            - generic [ref=e1005]:
+              - heading "Nine West Yazza Pump | Women's | Blue/Black Floral Print | Size 8.5 | Pumps | Slingback" [level=3] [ref=e1006]:
+                - generic [ref=e1007]: Nine West Yazza Pump | Women's | Blue/Black Floral Print | Size 8.5 | Pumps | Slingback
+              - generic [ref=e1009]: $49.98
+              - generic "From DSW" [ref=e1011]: DSW
+              - generic [ref=e1016] [cursor=pointer]: $75+ ships free
+          - generic [ref=e1017]:
+            - link "for from Temu":
+              - link "for from Temu" [ref=e1018] [cursor=pointer]:
+                - /url: https://www.temu.com/kuiper/un9/shopping-gmc-a-psurl.html?_bg_fs=1&_p_jump_id=962&_x_vst_scene=adg&goods_id=601100667734311&sku_id=17596769543516&adg_ctx=a-bec7aa89~c-a833540d&_x_ads_sub_channel=shopping&_p_rfs=1&_x_ns_prz_type=-1&locale_override=211~en~USD&_x_ns_sku_id=17596769543516&_x_ns_gid=601100667734311&mrk_rec=1&_x_ads_channel=google&_x_gmc_account=647900107&_x_login_type=Google
+            - generic [ref=e1025]: Sale
+            - generic [ref=e1028]:
+              - heading "Church shoes women, Dress shoes for women, Women's Royal Blue Pointed Toe Flats with Elegant Bow & Adjustable Ankle Strap, Women dress shoes, Black" [level=3] [ref=e1029]:
+                - generic [ref=e1030]: Church shoes women, Dress shoes for women, Women's Royal Blue Pointed Toe Flats with Elegant Bow & Adjustable Ankle Strap, Women dress shoes, Black
+              - generic [ref=e1031]:
+                - generic [ref=e1032]: $8.58
+                - generic [ref=e1033]: $11
+              - generic "From Temu" [ref=e1035]: Temu
+              - img "Rated 5.0 out of 5, (11) user reviews" [ref=e1040]:
+                - img [ref=e1041]
+                - text: (11)
+          - link "View all" [ref=e1046] [cursor=pointer]:
+            - /url: /search?q=blue+shoes&sca_esv=39f50cfd4d7ec138&source=univ&udm=28&ved=1t:6869&ictx=111
+            - generic [ref=e1048]:
+              - img [ref=e1051]
+              - generic [ref=e1053]: View all
+        - button [ref=e1054] [cursor=pointer]:
+          - img [ref=e1057]
+    - main [ref=e1062]:
+      - generic [ref=e1066]:
+        - generic [ref=e1070]:
+          - heading "Web results" [level=2] [ref=e1071]
+          - generic [ref=e1072]:
+            - generic [ref=e1075]:
+              - link "Blue Shoes Foot Locker https://www.footlocker.com › category › color › shoes" [ref=e1077] [cursor=pointer]:
+                - /url: https://www.footlocker.com/category/color/blue/shoes.html?srsltid=AfmBOoriNzXYb-JVR_FyZC23ZG_T4zD-KPO5KwH7aJKLOO_AVEcmifvo
+                - heading "Blue Shoes" [level=3] [ref=e1078]
+                - generic [ref=e1083]:
+                  - generic [ref=e1085]: Foot Locker
+                  - generic [ref=e1087]: https://www.footlocker.com › category › color › shoes
+              - button "About this result" [ref=e1088] [cursor=pointer]:
+                - img [ref=e1091]
+            - generic [ref=e1095]:
+              - text: Shop the latest selection of
+              - emphasis [ref=e1096]: Blue Shoes at Foot Locker
+              - text: . Find the hottest sneaker drops from brands like shoes, Jordan, Nike, Under Armour, ...
+            - link "blue shoes from www.footlocker.com" [ref=e1099] [cursor=pointer]:
+              - /url: https://www.footlocker.com/category/color/blue/shoes.html?srsltid=AfmBOoriNzXYb-JVR_FyZC23ZG_T4zD-KPO5KwH7aJKLOO_AVEcmifvo
+              - img "blue shoes from www.footlocker.com" [ref=e1101]
+            - generic [ref=e1103]:
+              - generic [ref=e1105]:
+                - img "Rated 4.4 out of 5," [ref=e1107]:
+                  - text: "4.4"
+                  - img [ref=e1108]
+                - generic [ref=e1111]:
+                  - text: store rating (
+                  - link "193 user reviews" [ref=e1112] [cursor=pointer]:
+                    - /url: https://www.google.com/m/storepages?q=footlocker.com&c=US&hl=en-US
+                    - text: "193"
+                  - text: )
+              - text: ·
+              - generic [ref=e1113]: $20 to $190
+              - text: ·
+              - generic [ref=e1115]:
+                - generic [ref=e1116]: Store nearby (
+                - button "15.3 mi" [ref=e1119]:
+                  - generic [ref=e1120]: 15.3 mi
+                - generic [ref=e1121]: )
+              - text: ·
+              - generic [ref=e1122]: $8.99 delivery
+              - text: ·
+              - generic [ref=e1123]: Free in-store returns
+        - generic [ref=e1128]:
+          - generic [ref=e1131]:
+            - link "Mens Blue Shoes(188) Nike https://www.nike.com › mens-blue-shoes-8hfx3znik1zy..." [ref=e1133] [cursor=pointer]:
+              - /url: https://www.nike.com/w/mens-blue-shoes-8hfx3znik1zy7ok
+              - heading "Mens Blue Shoes(188)" [level=3] [ref=e1134]
+              - generic [ref=e1139]:
+                - generic [ref=e1141]: Nike
+                - generic [ref=e1143]: https://www.nike.com › mens-blue-shoes-8hfx3znik1zy...
+            - button "About this result" [ref=e1144] [cursor=pointer]:
+              - img [ref=e1147]
+          - generic [ref=e1150]:
+            - generic [ref=e1151]:
+              - text: Mens
+              - emphasis [ref=e1152]: Blue Shoes
+              - text: (188) ; Nike Vomero 18 · Nike Vomero 18 Men's Road Running Shoes ; Nike Daybreak SP · Nike Daybreak SP Men's Shoe ; Nike Air Max Bia · Nike Air Max ...
+            - link "Read more" [ref=e1153] [cursor=pointer]:
+              - /url: https://www.nike.com/w/mens-blue-shoes-8hfx3znik1zy7ok#:~:text=Mens%20Blue%20Shoes(188)&text=Nike%20Vomero%2018&text=Just%20In&text=Nike%20Air%20Max%20Bia
+          - link "blue shoes from www.nike.com" [ref=e1156] [cursor=pointer]:
+            - /url: https://www.nike.com/w/mens-blue-shoes-8hfx3znik1zy7ok
+            - img "blue shoes from www.nike.com" [ref=e1158]
+          - generic [ref=e1160]:
+            - generic [ref=e1162]:
+              - img "Rated 4.7 out of 5," [ref=e1164]:
+                - text: "4.7"
+                - img [ref=e1165]
+              - generic [ref=e1168]:
+                - text: store rating (
+                - link "6.9K user reviews" [ref=e1169] [cursor=pointer]:
+                  - /url: https://www.google.com/m/storepages?q=nike.com&c=US&hl=en-US
+                  - text: 6.9K
+                - text: )
+            - text: ·
+            - generic [ref=e1170]: $62 to $210
+            - text: ·
+            - generic [ref=e1171]: Free delivery over $50
+            - text: ·
+            - generic [ref=e1172]: Free 60-day returns
+        - generic [ref=e1177]:
+          - generic [ref=e1180]:
+            - link "Blue Shoes Amazon.com https://www.amazon.com › blue-shoes › k=blue+shoes" [ref=e1182] [cursor=pointer]:
+              - /url: https://www.amazon.com/blue-shoes/s?k=blue+shoes
+              - heading "Blue Shoes" [level=3] [ref=e1183]
+              - generic [ref=e1188]:
+                - generic [ref=e1190]: Amazon.com
+                - generic [ref=e1192]: https://www.amazon.com › blue-shoes › k=blue+shoes
+            - button "About this result" [ref=e1193] [cursor=pointer]:
+              - img [ref=e1196]
+          - generic [ref=e1199]:
+            - generic [ref=e1200]:
+              - emphasis [ref=e1201]: Women's Comfortable Fashion Elastic Ankle Straps Flats Shoes
+              - text: ... Project Cloud Platform Sneakers for Women - Lightweight Memory Foam Insole Womens Sneakers - Non-.
+            - link "Read more" [ref=e1202] [cursor=pointer]:
+              - /url: https://www.amazon.com/blue-shoes/s?k=blue+shoes#:~:text=Women's%20Comfortable%20Fashion%20Elastic%20Ankle,Straps%20Flats%20Shoes&text=Project%20Cloud
+          - generic [ref=e1204]:
+            - generic [ref=e1206]:
+              - img "Rated 4.5 out of 5," [ref=e1208]:
+                - text: "4.5"
+                - img [ref=e1209]
+              - generic [ref=e1212]:
+                - text: store rating (
+                - link "11K user reviews" [ref=e1213] [cursor=pointer]:
+                  - /url: https://www.google.com/m/storepages?q=amazon.com&c=US&hl=en-US
+                  - text: 11K
+                - text: )
+            - text: ·
+            - generic [ref=e1214]: 30-day returns
+        - generic [ref=e1220]:
+          - generic [ref=e1222]:
+            - heading "Popular products" [level=2] [ref=e1223]
+            - button "About this result" [ref=e1224] [cursor=pointer]:
+              - img [ref=e1227]
+          - list "Shopping Unit Products Navigation. Navigate through the view to get individual prices and links to merchant websites." [ref=e1237]:
+            - listitem [ref=e1238]:
+              - generic "35% OFF. Go to product viewer for this item." [ref=e1239]:
+                - 'button "35% OFF. An interactive autorotating 360 image showing the item from different angles. Adidas Women''s Grand Court Alpha 00s Sneakers showing in all directions. Use Alt or Option + right or left arrow key to rotate Adidas Women''s Grand Court Alpha 00s Sneakers Current Price: $51.99. Was $80. Famous Footwear & more Rated 4.8 out of 5. 875 reviews. Adidas Women''s Grand Court Alpha 00s Sneakers. 35% OFF. Current Price: $51.99. Was $80. Famous Footwear & more. Rated 4.8 out of 5. 875 reviews." [ref=e1241]':
+                  - generic [ref=e1242]:
+                    - generic [ref=e1248]:
+                      - generic [ref=e1250]:
+                        - img "35% OFF." [ref=e1252]:
+                          - generic [ref=e1254]: 35% OFF
+                        - button "An interactive autorotating 360 image showing the item from different angles. Adidas Women's Grand Court Alpha 00s Sneakers showing in all directions. Use Alt or Option + right or left arrow key to rotate" [ref=e1255]:
+                          - img
+                      - generic [ref=e1256]: Adidas Women's Grand Court Alpha 00s Sneakers
+                      - 'group "Current Price: $51.99. Was $80." [ref=e1257]':
+                        - generic [ref=e1259]:
+                          - generic [ref=e1260]: $51.99
+                          - generic [ref=e1261]: $80
+                      - generic [ref=e1262]:
+                        - generic [ref=e1266]: Famous Footwear
+                        - generic [ref=e1267]: "& more"
+                      - img "Rated 4.8 out of 5. 875 reviews." [ref=e1268]:
+                        - img "Rated 4.8 out of 5, 875 user reviews" [ref=e1269]:
+                          - text: "4.8"
+                          - img [ref=e1270]
+                          - text: (875)
+                    - 'button "Adidas Women''s Grand Court Alpha 00s Sneakers. 35% OFF. Current Price: $51.99. Was $80. Famous Footwear & more. Rated 4.8 out of 5. 875 reviews." [ref=e1273] [cursor=pointer]'
+            - listitem [ref=e1274]:
+              - generic "27% OFF. Go to product viewer for this item." [ref=e1275]:
+                - 'button "27% OFF. Men''s Jordan Spizike Low. 27% OFF. Nearby, 15 mi Men''s Jordan Spizike Low Current Price: $119.99. Was $165. Champs Sports & more Free delivery Rated 4.6 out of 5. 1.6K reviews. Men''s Jordan Spizike Low. 27% OFF. Nearby, 15 mi. Current Price: $119.99. Was $165. Champs Sports. Free delivery. Rated 4.6 out of 5. 1.6K reviews. Three and more color options available." [ref=e1277]':
+                  - generic [ref=e1278]:
+                    - generic [ref=e1284]:
+                      - generic [ref=e1285]:
+                        - generic [ref=e1286]:
+                          - img "27% OFF." [ref=e1288]:
+                            - generic [ref=e1290]: 27% OFF
+                          - img "Men's Jordan Spizike Low. 27% OFF." [ref=e1293]
+                        - generic [ref=e1297]:
+                          - img [ref=e1299]
+                          - text: Nearby, 15 mi
+                      - generic [ref=e1302]: Men's Jordan Spizike Low
+                      - 'group "Current Price: $119.99. Was $165." [ref=e1303]':
+                        - generic [ref=e1305]:
+                          - generic [ref=e1306]: $119.99
+                          - generic [ref=e1307]: $165
+                      - generic [ref=e1308]:
+                        - generic [ref=e1312]: Champs Sports
+                        - generic [ref=e1313]: "& more"
+                      - generic [ref=e1315]: Free delivery
+                      - img "Rated 4.6 out of 5. 1.6K reviews." [ref=e1316]:
+                        - img "Rated 4.6 out of 5, 1.6K user reviews" [ref=e1317]:
+                          - text: "4.6"
+                          - img [ref=e1318]
+                          - text: (1.6K)
+                    - 'button "Men''s Jordan Spizike Low. 27% OFF. Nearby, 15 mi. Current Price: $119.99. Was $165. Champs Sports. Free delivery. Rated 4.6 out of 5. 1.6K reviews. Three and more color options available." [ref=e1321] [cursor=pointer]'
+            - listitem [ref=e1322]:
+              - generic "20% OFF. Go to product viewer for this item." [ref=e1323]:
+                - 'button "20% OFF. An interactive autorotating 360 image showing the item from different angles. adidas Men''s Handball Spezial showing in all directions. Use Alt or Option + right or left arrow key to rotate adidas Men''s Handball Spezial Current Price: $87.95. Was $110. Tactics Rated 4.8 out of 5. 15K reviews. adidas Men''s Handball Spezial. 20% OFF. Current Price: $87.95. Was $110. Tactics. Rated 4.8 out of 5. 15K reviews. Three and more color options available." [ref=e1325]':
+                  - generic [ref=e1326]:
+                    - generic [ref=e1332]:
+                      - generic [ref=e1334]:
+                        - img "20% OFF." [ref=e1336]:
+                          - generic [ref=e1338]: 20% OFF
+                        - button "An interactive autorotating 360 image showing the item from different angles. adidas Men's Handball Spezial showing in all directions. Use Alt or Option + right or left arrow key to rotate" [ref=e1339]:
+                          - img
+                      - generic [ref=e1340]: adidas Men's Handball Spezial
+                      - 'group "Current Price: $87.95. Was $110." [ref=e1341]':
+                        - generic [ref=e1343]:
+                          - generic [ref=e1344]: $87.95
+                          - generic [ref=e1345]: $110
+                      - generic [ref=e1350]: Tactics
+                      - img "Rated 4.8 out of 5. 15K reviews." [ref=e1351]:
+                        - img "Rated 4.8 out of 5, 15K user reviews" [ref=e1352]:
+                          - text: "4.8"
+                          - img [ref=e1353]
+                          - text: (15K)
+                    - 'button "adidas Men''s Handball Spezial. 20% OFF. Current Price: $87.95. Was $110. Tactics. Rated 4.8 out of 5. 15K reviews. Three and more color options available." [ref=e1356] [cursor=pointer]'
+            - listitem [ref=e1357]:
+              - generic "360. Go to product viewer for this item." [ref=e1358]:
+                - 'button "360. An interactive autorotating 360 image showing the item from different angles. New Balance Men''s 574 showing in all directions. Use Alt or Option + right or left arrow key to rotate New Balance Men''s 574 Current Price: $99.99. New Balance & more Rated 4.5 out of 5. 9.5K reviews. New Balance Men''s 574. 360. Current Price: $99.99. New Balance & more. Rated 4.5 out of 5. 9.5K reviews." [ref=e1360]':
+                  - generic [ref=e1361]:
+                    - generic [ref=e1367]:
+                      - generic [ref=e1369]:
+                        - img "360." [ref=e1371]:
+                          - generic [ref=e1372]:
+                            - img [ref=e1374]
+                            - generic [ref=e1376]: "360"
+                        - button "An interactive autorotating 360 image showing the item from different angles. New Balance Men's 574 showing in all directions. Use Alt or Option + right or left arrow key to rotate" [ref=e1377]:
+                          - img
+                      - generic [ref=e1378]: New Balance Men's 574
+                      - 'group "Current Price: $99.99." [ref=e1379]':
+                        - generic [ref=e1382]: $99.99
+                      - generic [ref=e1383]:
+                        - generic [ref=e1387]: New Balance
+                        - generic [ref=e1388]: "& more"
+                      - img "Rated 4.5 out of 5. 9.5K reviews." [ref=e1389]:
+                        - img "Rated 4.5 out of 5, 9.5K user reviews" [ref=e1390]:
+                          - text: "4.5"
+                          - img [ref=e1391]
+                          - text: (9.5K)
+                    - 'button "New Balance Men''s 574. 360. Current Price: $99.99. New Balance & more. Rated 4.5 out of 5. 9.5K reviews." [ref=e1394] [cursor=pointer]'
+            - listitem [ref=e1395]:
+              - generic "Go to product viewer for this item." [ref=e1396]:
+                - 'button "New Balance Men''s 740 Running Shoes. New Balance Men''s 740 Running Shoes Current Price: $123.00. GOAT & more Rated 4.3 out of 5. 708 reviews. New Balance Men''s 740 Running Shoes. Current Price: $123.00. GOAT. Rated 4.3 out of 5. 708 reviews. Three and more color options available." [ref=e1398]':
+                  - generic [ref=e1399]:
+                    - generic [ref=e1405]:
+                      - img "New Balance Men's 740 Running Shoes." [ref=e1410]
+                      - generic [ref=e1411]: New Balance Men's 740 Running Shoes
+                      - 'group "Current Price: $123.00." [ref=e1412]':
+                        - generic [ref=e1415]: $123.00
+                      - generic [ref=e1416]:
+                        - generic [ref=e1420]: GOAT
+                        - generic [ref=e1421]: "& more"
+                      - img "Rated 4.3 out of 5. 708 reviews." [ref=e1422]:
+                        - img "Rated 4.3 out of 5, 708 user reviews" [ref=e1423]:
+                          - text: "4.3"
+                          - img [ref=e1424]
+                          - text: (708)
+                    - 'button "New Balance Men''s 740 Running Shoes. Current Price: $123.00. GOAT. Rated 4.3 out of 5. 708 reviews. Three and more color options available." [ref=e1427] [cursor=pointer]'
+            - listitem [ref=e1429]:
+              - generic "360. Go to product viewer for this item." [ref=e1430]:
+                - 'button "360. An interactive autorotating 360 image showing the item from different angles. Nike Men''s Dunk Low Retro showing in all directions. Use Alt or Option + right or left arrow key to rotate Nike Men''s Dunk Low Retro Current Price: $120.00. Al''s Sporting Goods & more Free delivery Rated 4.6 out of 5. 4.2K reviews. Nike Men''s Dunk Low Retro. 360. Current Price: $120.00. Al''s Sporting Goods & more. Free delivery. Rated 4.6 out of 5. 4.2K reviews. Three and more color options available." [ref=e1432]':
+                  - generic [ref=e1433]:
+                    - generic [ref=e1439]:
+                      - generic [ref=e1441]:
+                        - img "360." [ref=e1443]:
+                          - generic [ref=e1444]:
+                            - img [ref=e1446]
+                            - generic [ref=e1448]: "360"
+                        - button "An interactive autorotating 360 image showing the item from different angles. Nike Men's Dunk Low Retro showing in all directions. Use Alt or Option + right or left arrow key to rotate" [ref=e1449]:
+                          - img
+                      - generic [ref=e1450]: Nike Men's Dunk Low Retro
+                      - 'group "Current Price: $120.00." [ref=e1451]':
+                        - generic [ref=e1454]: $120.00
+                      - generic [ref=e1455]:
+                        - generic [ref=e1459]: Al's Sporting Goods
+                        - generic [ref=e1460]: "& more"
+                      - generic [ref=e1462]: Free delivery
+                      - img "Rated 4.6 out of 5. 4.2K reviews." [ref=e1463]:
+                        - img "Rated 4.6 out of 5, 4.2K user reviews" [ref=e1464]:
+                          - text: "4.6"
+                          - img [ref=e1465]
+                          - text: (4.2K)
+                    - 'button "Nike Men''s Dunk Low Retro. 360. Current Price: $120.00. Al''s Sporting Goods & more. Free delivery. Rated 4.6 out of 5. 4.2K reviews. Three and more color options available." [ref=e1468] [cursor=pointer]'
+            - listitem [ref=e1469]:
+              - generic "20% OFF. Go to product viewer for this item." [ref=e1470]:
+                - 'button "20% OFF. Vans Knu Skool. 20% OFF. Vans Knu Skool Current Price: $68.00. Was $85. PacSun & more Free delivery by Mon Rated 4.7 out of 5. 5.8K reviews. Vans Knu Skool. 20% OFF. Current Price: $68.00. Was $85. PacSun & more. Free delivery by Mon. Rated 4.7 out of 5. 5.8K reviews." [ref=e1472]':
+                  - generic [ref=e1473]:
+                    - generic [ref=e1479]:
+                      - generic [ref=e1481]:
+                        - img "20% OFF." [ref=e1483]:
+                          - generic [ref=e1485]: 20% OFF
+                        - img "Vans Knu Skool. 20% OFF." [ref=e1488]
+                      - generic [ref=e1489]: Vans Knu Skool
+                      - 'group "Current Price: $68.00. Was $85." [ref=e1490]':
+                        - generic [ref=e1492]:
+                          - generic [ref=e1493]: $68.00
+                          - generic [ref=e1494]: $85
+                      - generic [ref=e1495]:
+                        - generic [ref=e1499]: PacSun
+                        - generic [ref=e1500]: "& more"
+                      - generic [ref=e1502]: Free delivery by Mon
+                      - img "Rated 4.7 out of 5. 5.8K reviews." [ref=e1503]:
+                        - img "Rated 4.7 out of 5, 5.8K user reviews" [ref=e1504]:
+                          - text: "4.7"
+                          - img [ref=e1505]
+                          - text: (5.8K)
+                    - 'button "Vans Knu Skool. 20% OFF. Current Price: $68.00. Was $85. PacSun & more. Free delivery by Mon. Rated 4.7 out of 5. 5.8K reviews." [ref=e1508] [cursor=pointer]'
+            - listitem [ref=e1509]:
+              - generic "Go to product viewer for this item." [ref=e1510]:
+                - 'button "adidas Originals Handball Spezial Navy & Sky Shoes. adidas Originals Handball Spezial Navy & Sky Shoes Current Price: $109.95. Zumiez Free delivery Rated 4.8 out of 5. 15K reviews. adidas Originals Handball Spezial Navy & Sky Shoes. Current Price: $109.95. Zumiez. Free delivery. Rated 4.8 out of 5. 15K reviews." [ref=e1512]':
+                  - generic [ref=e1513]:
+                    - generic [ref=e1519]:
+                      - img "adidas Originals Handball Spezial Navy & Sky Shoes." [ref=e1524]
+                      - generic [ref=e1525]: adidas Originals Handball Spezial Navy & Sky Shoes
+                      - 'group "Current Price: $109.95." [ref=e1526]':
+                        - generic [ref=e1529]: $109.95
+                      - generic [ref=e1534]: Zumiez
+                      - generic [ref=e1536]: Free delivery
+                      - img "Rated 4.8 out of 5. 15K reviews." [ref=e1537]:
+                        - img "Rated 4.8 out of 5, 15K user reviews" [ref=e1538]:
+                          - text: "4.8"
+                          - img [ref=e1539]
+                          - text: (15K)
+                    - 'button "adidas Originals Handball Spezial Navy & Sky Shoes. Current Price: $109.95. Zumiez. Free delivery. Rated 4.8 out of 5. 15K reviews." [ref=e1542] [cursor=pointer]'
+            - listitem [ref=e1543]:
+              - generic "60% OFF. Go to product viewer for this item." [ref=e1544]:
+                - 'button "60% OFF. Old Navy Women''s Lace-Up Sneakers. 60% OFF. Old Navy Women''s Lace-Up Sneakers Current Price: $17.99. Was $45. Old Navy Rated 4.7 out of 5. 34 reviews. Old Navy Women''s Lace-Up Sneakers. 60% OFF. Current Price: $17.99. Was $45. Old Navy. Rated 4.7 out of 5. 34 reviews. Three and more color options available." [ref=e1546]':
+                  - generic [ref=e1547]:
+                    - generic [ref=e1553]:
+                      - generic [ref=e1555]:
+                        - img "60% OFF." [ref=e1557]:
+                          - generic [ref=e1559]: 60% OFF
+                        - img "Old Navy Women's Lace-Up Sneakers. 60% OFF." [ref=e1562]
+                      - generic [ref=e1563]: Old Navy Women's Lace-Up Sneakers
+                      - 'group "Current Price: $17.99. Was $45." [ref=e1564]':
+                        - generic [ref=e1566]:
+                          - generic [ref=e1567]: $17.99
+                          - generic [ref=e1568]: $45
+                      - generic [ref=e1573]: Old Navy
+                      - img "Rated 4.7 out of 5. 34 reviews." [ref=e1574]:
+                        - img "Rated 4.7 out of 5, 34 user reviews" [ref=e1575]:
+                          - text: "4.7"
+                          - img [ref=e1576]
+                          - text: (34)
+                    - 'button "Old Navy Women''s Lace-Up Sneakers. 60% OFF. Current Price: $17.99. Was $45. Old Navy. Rated 4.7 out of 5. 34 reviews. Three and more color options available." [ref=e1579] [cursor=pointer]'
+            - listitem [ref=e1580]:
+              - generic "Go to product viewer for this item." [ref=e1581]:
+                - 'button "Thursday Boot Company Men''s Leather Premier Low Top. Thursday Boot Company Men''s Leather Premier Low Top Current Price: $135.00. Thursday Boot Company & more Free delivery Rated 4.2 out of 5. 3.6K reviews. Thursday Boot Company Men''s Leather Premier Low Top. Current Price: $135.00. Thursday Boot Company. Free delivery. Rated 4.2 out of 5. 3.6K reviews. Three and more color options available." [ref=e1583]':
+                  - generic [ref=e1584]:
+                    - generic [ref=e1590]:
+                      - img "Thursday Boot Company Men's Leather Premier Low Top." [ref=e1595]
+                      - generic [ref=e1596]: Thursday Boot Company Men's Leather Premier Low Top
+                      - 'group "Current Price: $135.00." [ref=e1597]':
+                        - generic [ref=e1600]: $135.00
+                      - generic [ref=e1601]:
+                        - generic [ref=e1605]: Thursday Boot Company
+                        - generic [ref=e1606]: "& more"
+                      - generic [ref=e1608]: Free delivery
+                      - img "Rated 4.2 out of 5. 3.6K reviews." [ref=e1609]:
+                        - img "Rated 4.2 out of 5, 3.6K user reviews" [ref=e1610]:
+                          - text: "4.2"
+                          - img [ref=e1611]
+                          - text: (3.6K)
+                    - 'button "Thursday Boot Company Men''s Leather Premier Low Top. Current Price: $135.00. Thursday Boot Company. Free delivery. Rated 4.2 out of 5. 3.6K reviews. Three and more color options available." [ref=e1614] [cursor=pointer]'
+        - generic [ref=e1621]:
+          - heading "Things to know" [level=2] [ref=e1624]
+          - generic [ref=e1626]:
+            - heading "Popular Brands" [level=3] [ref=e1632]:
+              - button "Popular Brands" [ref=e1633] [cursor=pointer]:
+                - generic [ref=e1635]: Popular Brands
+                - img [ref=e1638]
+            - heading "Where to Buy" [level=3] [ref=e1646]:
+              - button "Where to Buy" [ref=e1647] [cursor=pointer]:
+                - generic [ref=e1649]: Where to Buy
+                - img [ref=e1652]
+            - heading "Styles" [level=3] [ref=e1660]:
+              - button "Styles" [ref=e1661] [cursor=pointer]:
+                - generic [ref=e1663]: Styles
+                - img [ref=e1666]
+            - heading "Styling" [level=3] [ref=e1674]:
+              - button "Styling" [ref=e1675] [cursor=pointer]:
+                - generic [ref=e1677]: Styling
+                - img [ref=e1680]
+            - heading "History" [level=3] [ref=e1688]:
+              - button "History" [ref=e1689] [cursor=pointer]:
+                - generic [ref=e1691]: History
+                - img [ref=e1694]
+        - generic [ref=e1700]:
+          - heading "Web results" [level=2] [ref=e1701]
+          - generic [ref=e1702]:
+            - generic [ref=e1705]:
+              - link "Blue by Betsey Johnson | Sneakers, Sandals, Heels ... Betsey Johnson https://betseyjohnson.com › collections › shoes-betsey-blue" [ref=e1707] [cursor=pointer]:
+                - /url: https://betseyjohnson.com/collections/shoes-betsey-blue?srsltid=AfmBOoojxo6YX6CoONKTdz6M-rl3ifkBnS5shpD6DSXUN9MBj7QOyaV3
+                - heading "Blue by Betsey Johnson | Sneakers, Sandals, Heels ..." [level=3] [ref=e1708]
+                - generic [ref=e1713]:
+                  - generic [ref=e1715]: Betsey Johnson
+                  - generic [ref=e1717]: https://betseyjohnson.com › collections › shoes-betsey-blue
+              - button "About this result" [ref=e1718] [cursor=pointer]:
+                - img [ref=e1721]
+            - link "blue shoes images from betseyjohnson.com" [ref=e1725] [cursor=pointer]:
+              - /url: https://betseyjohnson.com/collections/shoes-betsey-blue?srsltid=AfmBOoojxo6YX6CoONKTdz6M-rl3ifkBnS5shpD6DSXUN9MBj7QOyaV3
+            - generic [ref=e1741]:
+              - text: Explore the Blue by Betsey Johnson collection of
+              - emphasis [ref=e1742]: sparkly wedding shoes, lacy stilettos and glittery special occasion shoes
+              - text: . Shop at Betsey Johnson today!
+            - generic [ref=e1744]:
+              - generic [ref=e1746]:
+                - img "Rated 4.7 out of 5," [ref=e1748]:
+                  - text: "4.7"
+                  - img [ref=e1749]
+                - generic [ref=e1752]:
+                  - text: store rating (
+                  - link "18 user reviews" [ref=e1753] [cursor=pointer]:
+                    - /url: https://www.google.com/m/storepages?q=betseyjohnson.com&c=US&hl=en-US
+                    - text: "18"
+                  - text: )
+              - text: ·
+              - generic [ref=e1754]: $71 to $139
+              - text: ·
+              - generic [ref=e1755]: Free delivery over $100
+              - text: ·
+              - generic [ref=e1756]: 30-day returns
+        - generic [ref=e1761]:
+          - generic [ref=e1764]:
+            - link "Women's Blue Shoes Nordstrom https://www.nordstrom.com › Women › Shoes" [ref=e1766] [cursor=pointer]:
+              - /url: https://www.nordstrom.com/browse/women/shoes?filterByColor=blue&srsltid=AfmBOoodKSr6e2eFjo4-P5wCJtfpHi2azfCLie2d4kRLQlLKDFS1nxx7
+              - heading "Women's Blue Shoes" [level=3] [ref=e1767]
+              - generic [ref=e1772]:
+                - generic [ref=e1774]: Nordstrom
+                - generic [ref=e1776]: https://www.nordstrom.com › Women › Shoes
+            - button "About this result" [ref=e1777] [cursor=pointer]:
+              - img [ref=e1780]
+          - link "blue shoes images from www.nordstrom.com" [ref=e1784] [cursor=pointer]:
+            - /url: https://www.nordstrom.com/browse/women/shoes?filterByColor=blue&srsltid=AfmBOoodKSr6e2eFjo4-P5wCJtfpHi2azfCLie2d4kRLQlLKDFS1nxx7
+          - generic [ref=e1800]:
+            - text: Find a great selection of Women's Blue Shoes at Nordstrom.com. Shop top
+            - emphasis [ref=e1801]: women's shoe brands like Converse, Steve Madden, UGG and more
+            - text: .
+          - generic [ref=e1803]:
+            - generic [ref=e1805]:
+              - img "Rated 4.7 out of 5," [ref=e1807]:
+                - text: "4.7"
+                - img [ref=e1808]
+              - generic [ref=e1811]:
+                - text: store rating (
+                - link "782 user reviews" [ref=e1812] [cursor=pointer]:
+                  - /url: https://www.google.com/m/storepages?q=nordstrom.com&c=US&hl=en-US
+                  - text: "782"
+                - text: )
+            - text: ·
+            - generic [ref=e1813]: $60 to $300
+            - text: ·
+            - generic [ref=e1814]: Free delivery
+            - text: ·
+            - generic [ref=e1815]: Free lifetime returns
+        - generic [ref=e1829]:
+          - heading "In stores nearby" [level=2] [ref=e1832]
+          - generic [ref=e1836]:
+            - generic [ref=e1839]:
+              - list "In stores nearby" [ref=e1840]:
+                - listitem [ref=e1841]:
+                  - 'button "Men''s Jordan Spizike Low. 27% OFF. Nearby, 15 mi. Current Price: $119.99. Was $165. Champs Sports. Free delivery. Rated 4.6 out of 5. 1.6K reviews. Three and more color options available." [ref=e1845]':
+                    - generic [ref=e1855] [cursor=pointer]:
+                      - generic [ref=e1856]:
+                        - generic [ref=e1857]:
+                          - img "27% OFF." [ref=e1858]:
+                            - generic [ref=e1860]: 27% OFF
+                          - img [ref=e1863]
+                        - generic [ref=e1867]:
+                          - img [ref=e1869]
+                          - text: Nearby, 15 mi
+                      - generic [ref=e1872]: Men's Jordan Spizike Low
+                      - 'group "Current Price: $119.99. Was $165." [ref=e1873]':
+                        - generic [ref=e1875]:
+                          - generic [ref=e1876]: $119.99
+                          - generic [ref=e1877]: $165
+                      - generic [ref=e1878]:
+                        - generic [ref=e1882]: Champs Sports
+                        - generic [ref=e1883]: "& more"
+                      - generic [ref=e1885]: Free delivery
+                      - img "Rated 4.6 out of 5. 1.6K reviews." [ref=e1886]:
+                        - img "Rated 4.6 out of 5, 1.6K user reviews" [ref=e1887]:
+                          - text: "4.6"
+                          - img [ref=e1888]
+                          - text: (1.6K)
+                - listitem [ref=e1891]:
+                  - 'button "Kelly & Katie Women''s Tajah Mary Jane Flat. Nearby, 15 mi. Current Price: $49.99. DSW & more. Rated 4.8 out of 5. 93 reviews." [ref=e1895]':
+                    - generic [ref=e1905] [cursor=pointer]:
+                      - generic [ref=e1906]:
+                        - img [ref=e1910]
+                        - generic [ref=e1914]:
+                          - img [ref=e1916]
+                          - text: Nearby, 15 mi
+                      - generic [ref=e1919]: Kelly & Katie Women's Tajah Mary Jane Flat
+                      - 'group "Current Price: $49.99." [ref=e1920]':
+                        - generic [ref=e1923]: $49.99
+                      - generic [ref=e1924]:
+                        - generic [ref=e1928]: DSW
+                        - generic [ref=e1929]: "& more"
+                      - img "Rated 4.8 out of 5. 93 reviews." [ref=e1930]:
+                        - img "Rated 4.8 out of 5, 93 user reviews" [ref=e1931]:
+                          - text: "4.8"
+                          - img [ref=e1932]
+                          - text: (93)
+                - listitem [ref=e1935]:
+                  - 'button "Converse All Star Chuck Taylor. Nearby, 15 mi. Current Price: $59.99. Journeys & more. Rated 4.7 out of 5. 57K reviews." [ref=e1939]':
+                    - generic [ref=e1949] [cursor=pointer]:
+                      - generic [ref=e1950]:
+                        - img [ref=e1954]
+                        - generic [ref=e1958]:
+                          - img [ref=e1960]
+                          - text: Nearby, 15 mi
+                      - generic [ref=e1963]: Converse All Star Chuck Taylor
+                      - 'group "Current Price: $59.99." [ref=e1964]':
+                        - generic [ref=e1967]: $59.99
+                      - generic [ref=e1968]:
+                        - generic [ref=e1972]: Journeys
+                        - generic [ref=e1973]: "& more"
+                      - img "Rated 4.7 out of 5. 57K reviews." [ref=e1974]:
+                        - img "Rated 4.7 out of 5, 57K user reviews" [ref=e1975]:
+                          - text: "4.7"
+                          - img [ref=e1976]
+                          - text: (57K)
+                - listitem [ref=e1979]:
+                  - 'button "Old Skool Vans. Nearby, 15 mi. Current Price: $75.00. Vans & more. Rated 4.7 out of 5. 27K reviews." [ref=e1983]':
+                    - generic [ref=e1993] [cursor=pointer]:
+                      - generic [ref=e1994]:
+                        - img [ref=e1998]
+                        - generic [ref=e2002]:
+                          - img [ref=e2004]
+                          - text: Nearby, 15 mi
+                      - generic [ref=e2007]: Old Skool Vans
+                      - 'group "Current Price: $75.00." [ref=e2008]':
+                        - generic [ref=e2011]: $75.00
+                      - generic [ref=e2012]:
+                        - generic [ref=e2016]: Vans
+                        - generic [ref=e2017]: "& more"
+                      - img "Rated 4.7 out of 5. 27K reviews." [ref=e2018]:
+                        - img "Rated 4.7 out of 5, 27K user reviews" [ref=e2019]:
+                          - text: "4.7"
+                          - img [ref=e2020]
+                          - text: (27K)
+                - listitem [ref=e2023]:
+                  - 'button "Nike Women''s Revolution 8 Running Shoes. 34% OFF. Nearby, 18 mi. Current Price: $48.99. Was $75. Famous Footwear & more. Rated 4.4 out of 5. 2.1K reviews. Three and more color options available." [ref=e2027]':
+                    - generic [ref=e2037] [cursor=pointer]:
+                      - generic [ref=e2038]:
+                        - generic [ref=e2039]:
+                          - img "34% OFF." [ref=e2040]:
+                            - generic [ref=e2042]: 34% OFF
+                          - button "An interactive autorotating 360 image showing the item from different angles. Use Alt or Option + right or left arrow key to rotate":
+                            - img
+                        - generic [ref=e2047]:
+                          - img [ref=e2049]
+                          - text: Nearby, 18 mi
+                      - generic [ref=e2052]: Nike Women's Revolution 8 Running Shoes
+                      - 'group "Current Price: $48.99. Was $75." [ref=e2053]':
+                        - generic [ref=e2055]:
+                          - generic [ref=e2056]: $48.99
+                          - generic [ref=e2057]: $75
+                      - generic [ref=e2058]:
+                        - generic [ref=e2062]: Famous Footwear
+                        - generic [ref=e2063]: "& more"
+                      - img "Rated 4.4 out of 5. 2.1K reviews." [ref=e2064]:
+                        - img "Rated 4.4 out of 5, 2.1K user reviews" [ref=e2065]:
+                          - text: "4.4"
+                          - img [ref=e2066]
+                          - text: (2.1K)
+              - link "See more" [ref=e2070] [cursor=pointer]:
+                - /url: /search?sca_esv=39f50cfd4d7ec138&q=blue+shoes&udm=28&shoprs=CAESBaoBAggBGAMqCmJsdWUgc2hvZXMyDQgDIgWqAQIIASoCEAFQAGADgAEB&source=prstnp&ved=1t:236998&ictx=111
+                - generic [ref=e2072]:
+                  - img [ref=e2075]
+                  - generic [ref=e2077]: See more
+            - button [ref=e2078] [cursor=pointer]:
+              - img [ref=e2081]
+        - generic [ref=e2087]:
+          - heading "Web results" [level=2] [ref=e2088]
+          - generic [ref=e2089]:
+            - generic [ref=e2092]:
+              - link "Blue Shoes & Sneakers Adidas https://www.adidas.com › Home › Blue" [ref=e2094] [cursor=pointer]:
+                - /url: https://www.adidas.com/us/blue-shoes
+                - heading "Blue Shoes & Sneakers" [level=3] [ref=e2095]
+                - generic [ref=e2100]:
+                  - generic [ref=e2102]: Adidas
+                  - generic [ref=e2104]: https://www.adidas.com › Home › Blue
+              - button "About this result" [ref=e2105] [cursor=pointer]:
+                - img [ref=e2108]
+            - link "blue shoes images from www.adidas.com" [ref=e2112] [cursor=pointer]:
+              - /url: https://www.adidas.com/us/blue-shoes
+            - generic [ref=e2128]:
+              - text: Shop
+              - emphasis [ref=e2129]: blue shoes at adidas for every occasion
+              - text: . From bold contemporary styles to versatile classics, find the perfect pair to elevate your look.
+            - generic [ref=e2131]:
+              - generic [ref=e2133]:
+                - img "Rated 4.4 out of 5," [ref=e2135]:
+                  - text: "4.4"
+                  - img [ref=e2136]
+                - generic [ref=e2139]:
+                  - text: store rating (
+                  - link "391 user reviews" [ref=e2140] [cursor=pointer]:
+                    - /url: https://www.google.com/m/storepages?q=adidas.com&c=US&hl=en-US
+                    - text: "391"
+                  - text: )
+              - text: ·
+              - generic [ref=e2141]: $40 to $260
+              - text: ·
+              - generic [ref=e2142]: $6.99 delivery
+              - text: ·
+              - generic [ref=e2143]: Free 60-day returns
+        - generic [ref=e2148]:
+          - generic [ref=e2151]:
+            - link "Blue Women's Shoes Talbots https://www.talbots.com › shoes › blue" [ref=e2153] [cursor=pointer]:
+              - /url: https://www.talbots.com/shoes/blue?srsltid=AfmBOopG1bCOV9Ix8HUzf0dP1oD-tlWvZzfEhgKfZ6McZyQSgZVEKEdk
+              - heading "Blue Women's Shoes" [level=3] [ref=e2154]
+              - generic [ref=e2159]:
+                - generic [ref=e2161]: Talbots
+                - generic [ref=e2163]: https://www.talbots.com › shoes › blue
+            - button "About this result" [ref=e2164] [cursor=pointer]:
+              - img [ref=e2167]
+          - link "blue shoes images from www.talbots.com" [ref=e2171] [cursor=pointer]:
+            - /url: https://www.talbots.com/shoes/blue?srsltid=AfmBOopG1bCOV9Ix8HUzf0dP1oD-tlWvZzfEhgKfZ6McZyQSgZVEKEdk
+          - generic [ref=e2187]:
+            - text: Find your perfect pair of
+            - emphasis [ref=e2188]: modern, classic, Women's Blue Shoes at Talbots
+            - text: . Shop our collection of flats, heels, sandals, and more.
+          - generic [ref=e2190]:
+            - generic [ref=e2192]:
+              - img "Rated 4.5 out of 5," [ref=e2194]:
+                - text: "4.5"
+                - img [ref=e2195]
+              - generic [ref=e2198]:
+                - text: store rating (
+                - link "32K user reviews" [ref=e2199] [cursor=pointer]:
+                  - /url: https://www.google.com/m/storepages?q=talbots.com&c=US&hl=en-US
+                  - text: 32K
+                - text: )
+            - text: ·
+            - generic [ref=e2200]: $70 to $149
+            - text: ·
+            - generic [ref=e2202]:
+              - generic [ref=e2203]: Store nearby (
+              - button "15.4 mi" [ref=e2206]:
+                - generic [ref=e2207]: 15.4 mi
+              - generic [ref=e2208]: )
+            - text: ·
+            - generic [ref=e2209]: 4–8 day delivery
+            - text: ·
+            - generic [ref=e2210]: Free in-store returns
+        - generic [ref=e2216]:
+          - generic [ref=e2218]:
+            - heading "More products" [level=2] [ref=e2219]
+            - button "About this result" [ref=e2220] [cursor=pointer]:
+              - img [ref=e2223]
+          - list "Shopping Unit Products Navigation. Navigate through the view to get individual prices and links to merchant websites." [ref=e2233]:
+            - listitem [ref=e2234]:
+              - generic "Go to product viewer for this item." [ref=e2235]:
+                - 'button "Kelly & Katie Women''s Tajah Mary Jane Flat. Kelly & Katie Women''s Tajah Mary Jane Flat Current Price: $49.99. DSW & more Rated 4.8 out of 5. 93 reviews. Kelly & Katie Women''s Tajah Mary Jane Flat. Current Price: $49.99. DSW & more. Rated 4.8 out of 5. 93 reviews. Two color options available." [ref=e2237]':
+                  - generic [ref=e2238]:
+                    - generic [ref=e2244]:
+                      - img "Kelly & Katie Women's Tajah Mary Jane Flat." [ref=e2249]
+                      - generic [ref=e2250]: Kelly & Katie Women's Tajah Mary Jane Flat
+                      - 'group "Current Price: $49.99." [ref=e2251]':
+                        - generic [ref=e2254]: $49.99
+                      - generic [ref=e2255]:
+                        - generic [ref=e2259]: DSW
+                        - generic [ref=e2260]: "& more"
+                      - img "Rated 4.8 out of 5. 93 reviews." [ref=e2261]:
+                        - img "Rated 4.8 out of 5, 93 user reviews" [ref=e2262]:
+                          - text: "4.8"
+                          - img [ref=e2263]
+                          - text: (93)
+                    - 'button "Kelly & Katie Women''s Tajah Mary Jane Flat. Current Price: $49.99. DSW & more. Rated 4.8 out of 5. 93 reviews. Two color options available." [ref=e2266] [cursor=pointer]'
+            - listitem [ref=e2267]:
+              - generic "16% OFF. Go to product viewer for this item." [ref=e2268]:
+                - 'button "16% OFF. Nike Men''s Air Force 1 ''07 LV8 Basketball Shoes. 16% OFF. Nike Men''s Air Force 1 ''07 LV8 Basketball Shoes Current Price: $99.99. Was $120. Foot Locker & more Free delivery Rated 4.9 out of 5. 67 reviews. Nike Men''s Air Force 1 ''07 LV8 Basketball Shoes. 16% OFF. Current Price: $99.99. Was $120. Foot Locker & more. Free delivery. Rated 4.9 out of 5. 67 reviews." [ref=e2270]':
+                  - generic [ref=e2271]:
+                    - generic [ref=e2277]:
+                      - generic [ref=e2279]:
+                        - img "16% OFF." [ref=e2281]:
+                          - generic [ref=e2283]: 16% OFF
+                        - img "Nike Men's Air Force 1 '07 LV8 Basketball Shoes. 16% OFF." [ref=e2286]
+                      - generic [ref=e2287]: Nike Men's Air Force 1 '07 LV8 Basketball Shoes
+                      - 'group "Current Price: $99.99. Was $120." [ref=e2288]':
+                        - generic [ref=e2290]:
+                          - generic [ref=e2291]: $99.99
+                          - generic [ref=e2292]: $120
+                      - generic [ref=e2293]:
+                        - generic [ref=e2297]: Foot Locker
+                        - generic [ref=e2298]: "& more"
+                      - generic [ref=e2300]: Free delivery
+                      - img "Rated 4.9 out of 5. 67 reviews." [ref=e2301]:
+                        - img "Rated 4.9 out of 5, 67 user reviews" [ref=e2302]:
+                          - text: "4.9"
+                          - img [ref=e2303]
+                          - text: (67)
+                    - 'button "Nike Men''s Air Force 1 ''07 LV8 Basketball Shoes. 16% OFF. Current Price: $99.99. Was $120. Foot Locker & more. Free delivery. Rated 4.9 out of 5. 67 reviews." [ref=e2306] [cursor=pointer]'
+            - listitem [ref=e2307]:
+              - generic "360. Go to product viewer for this item." [ref=e2308]:
+                - 'button "360. An interactive autorotating 360 image showing the item from different angles. Converse All Star Chuck Taylor showing in all directions. Use Alt or Option + right or left arrow key to rotate Converse All Star Chuck Taylor Current Price: $59.99. Journeys & more Rated 4.7 out of 5. 57K reviews. Converse All Star Chuck Taylor. 360. Current Price: $59.99. Journeys & more. Rated 4.7 out of 5. 57K reviews." [ref=e2310]':
+                  - generic [ref=e2311]:
+                    - generic [ref=e2317]:
+                      - generic [ref=e2319]:
+                        - img "360." [ref=e2321]:
+                          - generic [ref=e2322]:
+                            - img [ref=e2324]
+                            - generic [ref=e2326]: "360"
+                        - button "An interactive autorotating 360 image showing the item from different angles. Converse All Star Chuck Taylor showing in all directions. Use Alt or Option + right or left arrow key to rotate" [ref=e2327]:
+                          - img
+                      - generic [ref=e2328]: Converse All Star Chuck Taylor
+                      - 'group "Current Price: $59.99." [ref=e2329]':
+                        - generic [ref=e2332]: $59.99
+                      - generic [ref=e2333]:
+                        - generic [ref=e2337]: Journeys
+                        - generic [ref=e2338]: "& more"
+                      - img "Rated 4.7 out of 5. 57K reviews." [ref=e2339]:
+                        - img "Rated 4.7 out of 5, 57K user reviews" [ref=e2340]:
+                          - text: "4.7"
+                          - img [ref=e2341]
+                          - text: (57K)
+                    - 'button "Converse All Star Chuck Taylor. 360. Current Price: $59.99. Journeys & more. Rated 4.7 out of 5. 57K reviews." [ref=e2344] [cursor=pointer]'
+            - listitem [ref=e2345]:
+              - generic "55% OFF. Go to product viewer for this item." [ref=e2346]:
+                - 'button "55% OFF. Nine West Ezra Pointy Toe Pumps. 55% OFF. Nine West Ezra Pointy Toe Pumps Current Price: $47.25. Was $105. Nine West & more Free delivery on $75+ Rated 4.8 out of 5. 429 reviews. Nine West Ezra Pointy Toe Pumps. 55% OFF. Current Price: $47.25. Was $105. Nine West & more. Free delivery on $75+. Rated 4.8 out of 5. 429 reviews. Three and more color options available." [ref=e2348]':
+                  - generic [ref=e2349]:
+                    - generic [ref=e2355]:
+                      - generic [ref=e2357]:
+                        - img "55% OFF." [ref=e2359]:
+                          - generic [ref=e2361]: 55% OFF
+                        - img "Nine West Ezra Pointy Toe Pumps. 55% OFF." [ref=e2364]
+                      - generic [ref=e2365]: Nine West Ezra Pointy Toe Pumps
+                      - 'group "Current Price: $47.25. Was $105." [ref=e2366]':
+                        - generic [ref=e2368]:
+                          - generic [ref=e2369]: $47.25
+                          - generic [ref=e2370]: $105
+                      - generic [ref=e2371]:
+                        - generic [ref=e2375]: Nine West
+                        - generic [ref=e2376]: "& more"
+                      - generic [ref=e2378]: Free delivery on $75+
+                      - img "Rated 4.8 out of 5. 429 reviews." [ref=e2379]:
+                        - img "Rated 4.8 out of 5, 429 user reviews" [ref=e2380]:
+                          - text: "4.8"
+                          - img [ref=e2381]
+                          - text: (429)
+                    - 'button "Nine West Ezra Pointy Toe Pumps. 55% OFF. Current Price: $47.25. Was $105. Nine West & more. Free delivery on $75+. Rated 4.8 out of 5. 429 reviews. Three and more color options available." [ref=e2384] [cursor=pointer]'
+            - listitem [ref=e2385]:
+              - generic "33% OFF. Go to product viewer for this item." [ref=e2386]:
+                - 'button "33% OFF. An interactive autorotating 360 image showing the item from different angles. Calvin Klein Women''s Gayle Pump showing in all directions. Use Alt or Option + right or left arrow key to rotate Calvin Klein Women''s Gayle Pump Current Price: $79.72. Was $119. Nordstrom & more Free delivery Rated 4.2 out of 5. 744 reviews. Calvin Klein Women''s Gayle Pump. 33% OFF. Current Price: $79.72. Was $119. Nordstrom & more. Free delivery. Rated 4.2 out of 5. 744 reviews." [ref=e2388]':
+                  - generic [ref=e2389]:
+                    - generic [ref=e2395]:
+                      - generic [ref=e2397]:
+                        - img "33% OFF." [ref=e2399]:
+                          - generic [ref=e2401]: 33% OFF
+                        - button "An interactive autorotating 360 image showing the item from different angles. Calvin Klein Women's Gayle Pump showing in all directions. Use Alt or Option + right or left arrow key to rotate" [ref=e2402]:
+                          - img
+                      - generic [ref=e2403]: Calvin Klein Women's Gayle Pump
+                      - 'group "Current Price: $79.72. Was $119." [ref=e2404]':
+                        - generic [ref=e2406]:
+                          - generic [ref=e2407]: $79.72
+                          - generic [ref=e2408]: $119
+                      - generic [ref=e2409]:
+                        - generic [ref=e2413]: Nordstrom
+                        - generic [ref=e2414]: "& more"
+                      - generic [ref=e2416]: Free delivery
+                      - img "Rated 4.2 out of 5. 744 reviews." [ref=e2417]:
+                        - img "Rated 4.2 out of 5, 744 user reviews" [ref=e2418]:
+                          - text: "4.2"
+                          - img [ref=e2419]
+                          - text: (744)
+                    - 'button "Calvin Klein Women''s Gayle Pump. 33% OFF. Current Price: $79.72. Was $119. Nordstrom & more. Free delivery. Rated 4.2 out of 5. 744 reviews." [ref=e2422] [cursor=pointer]'
+            - listitem [ref=e2424]:
+              - generic "360. Go to product viewer for this item." [ref=e2425]:
+                - 'button "360. An interactive autorotating 360 image showing the item from different angles. Old Skool Vans showing in all directions. Use Alt or Option + right or left arrow key to rotate Old Skool Vans Current Price: $75.00. Vans & more Rated 4.7 out of 5. 27K reviews. Old Skool Vans. 360. Current Price: $75.00. Vans & more. Rated 4.7 out of 5. 27K reviews." [ref=e2427]':
+                  - generic [ref=e2428]:
+                    - generic [ref=e2434]:
+                      - generic [ref=e2436]:
+                        - img "360." [ref=e2438]:
+                          - generic [ref=e2439]:
+                            - img [ref=e2441]
+                            - generic [ref=e2443]: "360"
+                        - button "An interactive autorotating 360 image showing the item from different angles. Old Skool Vans showing in all directions. Use Alt or Option + right or left arrow key to rotate" [ref=e2444]:
+                          - img
+                      - generic [ref=e2445]: Old Skool Vans
+                      - 'group "Current Price: $75.00." [ref=e2446]':
+                        - generic [ref=e2449]: $75.00
+                      - generic [ref=e2450]:
+                        - generic [ref=e2454]: Vans
+                        - generic [ref=e2455]: "& more"
+                      - img "Rated 4.7 out of 5. 27K reviews." [ref=e2456]:
+                        - img "Rated 4.7 out of 5, 27K user reviews" [ref=e2457]:
+                          - text: "4.7"
+                          - img [ref=e2458]
+                          - text: (27K)
+                    - 'button "Old Skool Vans. 360. Current Price: $75.00. Vans & more. Rated 4.7 out of 5. 27K reviews." [ref=e2461] [cursor=pointer]'
+            - listitem [ref=e2462]:
+              - generic "Go to product viewer for this item." [ref=e2463]:
+                - 'button "Steve Madden Women''s Pointed Toe Synthetic Heels. Steve Madden Women''s Pointed Toe Synthetic Heels Current Price: $109.95. Steve Madden Free delivery Rated 5.0 out of 5. 5 reviews. Steve Madden Women''s Pointed Toe Synthetic Heels. Current Price: $109.95. Steve Madden. Free delivery. Rated 5.0 out of 5. 5 reviews." [ref=e2465]':
+                  - generic [ref=e2466]:
+                    - generic [ref=e2472]:
+                      - img "Steve Madden Women's Pointed Toe Synthetic Heels." [ref=e2477]
+                      - generic [ref=e2478]: Steve Madden Women's Pointed Toe Synthetic Heels
+                      - 'group "Current Price: $109.95." [ref=e2479]':
+                        - generic [ref=e2482]: $109.95
+                      - generic [ref=e2487]: Steve Madden
+                      - generic [ref=e2489]: Free delivery
+                      - img "Rated 5.0 out of 5. 5 reviews." [ref=e2490]:
+                        - img "Rated 5.0 out of 5, 5 user reviews" [ref=e2491]:
+                          - text: "5.0"
+                          - img [ref=e2492]
+                          - text: (5)
+                    - 'button "Steve Madden Women''s Pointed Toe Synthetic Heels. Current Price: $109.95. Steve Madden. Free delivery. Rated 5.0 out of 5. 5 reviews." [ref=e2495] [cursor=pointer]'
+            - listitem [ref=e2496]:
+              - generic "360. Go to product viewer for this item." [ref=e2497]:
+                - 'button "360. An interactive autorotating 360 image showing the item from different angles. Journee Collection Women''s Larna Dress Sandals showing in all directions. Use Alt or Option + right or left arrow key to rotate Journee Collection Women''s Larna Dress Sandals Current Price: $59.99. Journee Collection Rated 4.2 out of 5. 122 reviews. Journee Collection Women''s Larna Dress Sandals. 360. Current Price: $59.99. Journee Collection. Rated 4.2 out of 5. 122 reviews. Three and more color options available." [ref=e2499]':
+                  - generic [ref=e2500]:
+                    - generic [ref=e2506]:
+                      - generic [ref=e2508]:
+                        - img "360." [ref=e2510]:
+                          - generic [ref=e2511]:
+                            - img [ref=e2513]
+                            - generic [ref=e2515]: "360"
+                        - button "An interactive autorotating 360 image showing the item from different angles. Journee Collection Women's Larna Dress Sandals showing in all directions. Use Alt or Option + right or left arrow key to rotate" [ref=e2516]:
+                          - img
+                      - generic [ref=e2517]: Journee Collection Women's Larna Dress Sandals
+                      - 'group "Current Price: $59.99." [ref=e2518]':
+                        - generic [ref=e2521]: $59.99
+                      - generic [ref=e2526]: Journee Collection
+                      - img "Rated 4.2 out of 5. 122 reviews." [ref=e2527]:
+                        - img "Rated 4.2 out of 5, 122 user reviews" [ref=e2528]:
+                          - text: "4.2"
+                          - img [ref=e2529]
+                          - text: (122)
+                    - 'button "Journee Collection Women''s Larna Dress Sandals. 360. Current Price: $59.99. Journee Collection. Rated 4.2 out of 5. 122 reviews. Three and more color options available." [ref=e2532] [cursor=pointer]'
+            - listitem [ref=e2533]:
+              - generic "34% OFF. Go to product viewer for this item." [ref=e2534]:
+                - 'button "34% OFF. An interactive autorotating 360 image showing the item from different angles. Nike Women''s Revolution 8 Running Shoes showing in all directions. Use Alt or Option + right or left arrow key to rotate Nearby, 18 mi Nike Women''s Revolution 8 Running Shoes Current Price: $48.99. Was $75. Famous Footwear & more Rated 4.4 out of 5. 2.1K reviews. Nike Women''s Revolution 8 Running Shoes. 34% OFF. Nearby, 18 mi. Current Price: $48.99. Was $75. Famous Footwear & more. Rated 4.4 out of 5. 2.1K reviews. Three and more color options available." [ref=e2536]':
+                  - generic [ref=e2537]:
+                    - generic [ref=e2543]:
+                      - generic [ref=e2544]:
+                        - generic [ref=e2545]:
+                          - img "34% OFF." [ref=e2547]:
+                            - generic [ref=e2549]: 34% OFF
+                          - button "An interactive autorotating 360 image showing the item from different angles. Nike Women's Revolution 8 Running Shoes showing in all directions. Use Alt or Option + right or left arrow key to rotate" [ref=e2550]:
+                            - img
+                        - generic [ref=e2554]:
+                          - img [ref=e2556]
+                          - text: Nearby, 18 mi
+                      - generic [ref=e2559]: Nike Women's Revolution 8 Running Shoes
+                      - 'group "Current Price: $48.99. Was $75." [ref=e2560]':
+                        - generic [ref=e2562]:
+                          - generic [ref=e2563]: $48.99
+                          - generic [ref=e2564]: $75
+                      - generic [ref=e2565]:
+                        - generic [ref=e2569]: Famous Footwear
+                        - generic [ref=e2570]: "& more"
+                      - img "Rated 4.4 out of 5. 2.1K reviews." [ref=e2571]:
+                        - img "Rated 4.4 out of 5, 2.1K user reviews" [ref=e2572]:
+                          - text: "4.4"
+                          - img [ref=e2573]
+                          - text: (2.1K)
+                    - 'button "Nike Women''s Revolution 8 Running Shoes. 34% OFF. Nearby, 18 mi. Current Price: $48.99. Was $75. Famous Footwear & more. Rated 4.4 out of 5. 2.1K reviews. Three and more color options available." [ref=e2576] [cursor=pointer]'
+            - listitem [ref=e2577]:
+              - generic "Go to product viewer for this item." [ref=e2578]:
+                - 'button "H&M Ladies Sneakers. H&M Ladies Sneakers Current Price: $49.99. H&M & more Free delivery on $75+ Rated 4.4 out of 5. 508 reviews. H&M Ladies Sneakers. Current Price: $49.99. H&M & more. Free delivery on $75+. Rated 4.4 out of 5. 508 reviews. Three and more color options available." [ref=e2580]':
+                  - generic [ref=e2581]:
+                    - generic [ref=e2587]:
+                      - img "H&M Ladies Sneakers." [ref=e2592]
+                      - generic [ref=e2593]: H&M Ladies Sneakers
+                      - 'group "Current Price: $49.99." [ref=e2594]':
+                        - generic [ref=e2597]: $49.99
+                      - generic [ref=e2598]:
+                        - generic [ref=e2602]: H&M
+                        - generic [ref=e2603]: "& more"
+                      - generic [ref=e2605]: Free delivery on $75+
+                      - img "Rated 4.4 out of 5. 508 reviews." [ref=e2606]:
+                        - img "Rated 4.4 out of 5, 508 user reviews" [ref=e2607]:
+                          - text: "4.4"
+                          - img [ref=e2608]
+                          - text: (508)
+                    - 'button "H&M Ladies Sneakers. Current Price: $49.99. H&M & more. Free delivery on $75+. Rated 4.4 out of 5. 508 reviews. Three and more color options available." [ref=e2611] [cursor=pointer]'
+        - generic [ref=e2616]:
+          - heading "Web results" [level=2] [ref=e2617]
+          - generic [ref=e2618]:
+            - generic [ref=e2621]:
+              - link "Blue Shoes Champs Sports https://www.champssports.com › category › shoes › blue" [ref=e2623] [cursor=pointer]:
+                - /url: https://www.champssports.com/category/shoes/blue.html?srsltid=AfmBOootjhWKrcYpeEQa3xTTbM_7cNDvHlIAq74I8poWdAChVGrmZRuV
+                - heading "Blue Shoes" [level=3] [ref=e2624]
+                - generic [ref=e2629]:
+                  - generic [ref=e2631]: Champs Sports
+                  - generic [ref=e2633]: https://www.champssports.com › category › shoes › blue
+              - button "About this result" [ref=e2634] [cursor=pointer]:
+                - img [ref=e2637]
+            - link "blue shoes images from www.champssports.com" [ref=e2641] [cursor=pointer]:
+              - /url: https://www.champssports.com/category/shoes/blue.html?srsltid=AfmBOootjhWKrcYpeEQa3xTTbM_7cNDvHlIAq74I8poWdAChVGrmZRuV
+            - generic [ref=e2657]:
+              - text: Shop the latest selection of
+              - emphasis [ref=e2658]: Blue Shoes at Foot Locker
+              - text: . Find the hottest sneaker drops from brands like blue, Jordan, Nike, Under Armour, ...
+            - generic [ref=e2660]:
+              - generic [ref=e2662]:
+                - img "Rated 4.4 out of 5," [ref=e2664]:
+                  - text: "4.4"
+                  - img [ref=e2665]
+                - generic [ref=e2668]:
+                  - text: store rating (
+                  - link "14 user reviews" [ref=e2669] [cursor=pointer]:
+                    - /url: https://www.google.com/m/storepages?q=champssports.com&c=US&hl=en-US
+                    - text: "14"
+                  - text: )
+              - text: ·
+              - generic [ref=e2670]: $15 to $195
+              - text: ·
+              - generic [ref=e2672]:
+                - generic [ref=e2673]: Store nearby (
+                - button "15.2 mi" [ref=e2676]:
+                  - generic [ref=e2677]: 15.2 mi
+                - generic [ref=e2678]: )
+              - text: ·
+              - generic [ref=e2679]: $8.99 delivery
+              - text: ·
+              - generic [ref=e2680]: Free in-store returns
+        - generic [ref=e2685]:
+          - generic [ref=e2688]:
+            - link "Blue Shoes Reebok https://www.reebok.com › blue-shoes-0adz01d" [ref=e2690] [cursor=pointer]:
+              - /url: https://www.reebok.com/collections/blue-shoes-0adz01d?srsltid=AfmBOoo28IlFIDtwhLzsLKn-RG7sSuJynvAn6y89WrXS-_nFk2oHTHdt
+              - heading "Blue Shoes" [level=3] [ref=e2691]
+              - generic [ref=e2696]:
+                - generic [ref=e2698]: Reebok
+                - generic [ref=e2700]: https://www.reebok.com › blue-shoes-0adz01d
+            - button "About this result" [ref=e2701] [cursor=pointer]:
+              - img [ref=e2704]
+          - generic [ref=e2708]:
+            - emphasis [ref=e2709]: Explore Reebok's collection of blue shoes
+            - text: ", designed for comfort and style. Find the perfect pair to elevate your look and enhance your performance."
+          - link "blue shoes from www.reebok.com" [ref=e2712] [cursor=pointer]:
+            - /url: https://www.reebok.com/collections/blue-shoes-0adz01d?srsltid=AfmBOoo28IlFIDtwhLzsLKn-RG7sSuJynvAn6y89WrXS-_nFk2oHTHdt
+            - img "blue shoes from www.reebok.com" [ref=e2714]
+          - generic [ref=e2716]:
+            - generic [ref=e2718]:
+              - img "Rated 4.7 out of 5," [ref=e2720]:
+                - text: "4.7"
+                - img [ref=e2721]
+              - generic [ref=e2724]:
+                - text: store rating (
+                - link "3K user reviews" [ref=e2725] [cursor=pointer]:
+                  - /url: https://www.google.com/m/storepages?q=reebok.com&c=US&hl=en-US
+                  - text: 3K
+                - text: )
+            - text: ·
+            - generic [ref=e2726]: $30 to $108
+            - text: ·
+            - generic [ref=e2727]: $9.95 delivery
+            - text: ·
+            - generic [ref=e2728]: 30-day returns
+        - generic [ref=e2733]:
+          - generic [ref=e2736]:
+            - link "Shop All Women's Blue Shoes Macy’s https://www.macys.com › ... › Shoes" [ref=e2738] [cursor=pointer]:
+              - /url: https://www.macys.com/shop/womens/shoes/Color_normal/Blue?id=56233
+              - heading "Shop All Women's Blue Shoes" [level=3] [ref=e2739]
+              - generic [ref=e2744]:
+                - generic [ref=e2746]: Macy’s
+                - generic [ref=e2748]: https://www.macys.com › ... › Shoes
+            - button "About this result" [ref=e2749] [cursor=pointer]:
+              - img [ref=e2752]
+          - link "blue shoes images from www.macys.com" [ref=e2756] [cursor=pointer]:
+            - /url: https://www.macys.com/shop/womens/shoes/Color_normal/Blue?id=56233
+          - generic [ref=e2772]:
+            - emphasis [ref=e2773]: Explore all Women's Shoes available at Macy's
+            - text: . Shop a wide range of styles & sizes. Find your perfect pair now! Free shipping available!
+          - generic [ref=e2775]:
+            - generic [ref=e2777]:
+              - img "Rated 4.5 out of 5," [ref=e2779]:
+                - text: "4.5"
+                - img [ref=e2780]
+              - generic [ref=e2783]:
+                - text: store rating (
+                - link "1.2K user reviews" [ref=e2784] [cursor=pointer]:
+                  - /url: https://www.google.com/m/storepages?q=macys.com&c=US&hl=en-US
+                  - text: 1.2K
+                - text: )
+            - text: ·
+            - generic [ref=e2786]:
+              - generic [ref=e2787]: Store nearby (
+              - button "15.2 mi" [ref=e2790]:
+                - generic [ref=e2791]: 15.2 mi
+              - generic [ref=e2792]: )
+            - text: ·
+            - generic [ref=e2793]: Free delivery over $49
+            - text: ·
+            - generic [ref=e2794]: 30-day returns
+      - generic [ref=e2796]:
+        - generic [ref=e2801]:
+          - heading "People also search for" [level=2] [ref=e2803]
+          - generic [ref=e2805]:
+            - generic [ref=e2806]:
+              - link "Blue shoes Nike" [ref=e2810] [cursor=pointer]:
+                - /url: /search?sca_esv=39f50cfd4d7ec138&q=Blue+shoes+Nike&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ1QJ6BAhQEAE
+                - generic [ref=e2811]:
+                  - generic [ref=e2816]: Blue shoes Nike
+                  - img [ref=e2820]
+              - link "Kids blue shoes" [ref=e2825] [cursor=pointer]:
+                - /url: /search?sca_esv=39f50cfd4d7ec138&q=Kids+blue+shoes&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ1QJ6BAhXEAE
+                - generic [ref=e2826]:
+                  - generic [ref=e2831]: Kids blue shoes
+                  - img [ref=e2835]
+              - link "Blue shoes Men" [ref=e2840] [cursor=pointer]:
+                - /url: /search?sca_esv=39f50cfd4d7ec138&q=Blue+shoes+Men&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ1QJ6BAhUEAE
+                - generic [ref=e2841]:
+                  - generic [ref=e2846]: Blue shoes Men
+                  - img [ref=e2850]
+              - link "Blue shoes jordans" [ref=e2855] [cursor=pointer]:
+                - /url: /search?sca_esv=39f50cfd4d7ec138&q=Blue+shoes+jordans&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ1QJ6BAhWEAE
+                - generic [ref=e2856]:
+                  - generic [ref=e2861]: Blue shoes jordans
+                  - img [ref=e2865]
+            - generic [ref=e2867]:
+              - link "Blue shoes ASICS" [ref=e2871] [cursor=pointer]:
+                - /url: /search?sca_esv=39f50cfd4d7ec138&q=Blue+shoes+ASICS&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ1QJ6BAhYEAE
+                - generic [ref=e2872]:
+                  - generic [ref=e2877]: Blue shoes ASICS
+                  - img [ref=e2881]
+              - link "Blue shoes light" [ref=e2886] [cursor=pointer]:
+                - /url: /search?sca_esv=39f50cfd4d7ec138&q=Blue+shoes+light&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ1QJ6BAhVEAE
+                - generic [ref=e2887]:
+                  - generic [ref=e2892]: Blue shoes light
+                  - img [ref=e2896]
+              - link "Blue shoes Sneakers" [ref=e2901] [cursor=pointer]:
+                - /url: /search?sca_esv=39f50cfd4d7ec138&q=Blue+shoes+Sneakers&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ1QJ6BAhTEAE
+                - generic [ref=e2902]:
+                  - generic [ref=e2907]: Blue shoes Sneakers
+                  - img [ref=e2911]
+              - link "Blue shoes designer" [ref=e2916] [cursor=pointer]:
+                - /url: /search?sca_esv=39f50cfd4d7ec138&q=Blue+shoes+designer&sa=X&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ1QJ6BAhSEAE
+                - generic [ref=e2917]:
+                  - generic [ref=e2922]: Blue shoes designer
+                  - img [ref=e2926]
+        - navigation [ref=e2928]:
+          - heading "Page Navigation" [level=1] [ref=e2929]
+          - text: "1"
+          - link "Page 2" [ref=e2932] [cursor=pointer]:
+            - /url: /search?q=blue+shoes&sca_esv=39f50cfd4d7ec138&ei=vzH6acWQLNjP1sQP1q7KyQg&start=10&sa=N&sstk=Af77f_fG8zmpwVQVwhccF654nmv4XnCrfxqU99tBcg6JCnh7e2kVfTjigYXQ6UYWixRHrZD4jHYJyzDu-mndqBiS3H0QWuvSuxmXMg&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ8tMDegQIRxAE
+            - text: "2"
+          - link "Page 3" [ref=e2934] [cursor=pointer]:
+            - /url: /search?q=blue+shoes&sca_esv=39f50cfd4d7ec138&ei=vzH6acWQLNjP1sQP1q7KyQg&start=20&sa=N&sstk=Af77f_fG8zmpwVQVwhccF654nmv4XnCrfxqU99tBcg6JCnh7e2kVfTjigYXQ6UYWixRHrZD4jHYJyzDu-mndqBiS3H0QWuvSuxmXMg&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ8tMDegQIRxAG
+            - text: "3"
+          - link "Page 4" [ref=e2936] [cursor=pointer]:
+            - /url: /search?q=blue+shoes&sca_esv=39f50cfd4d7ec138&ei=vzH6acWQLNjP1sQP1q7KyQg&start=30&sa=N&sstk=Af77f_fG8zmpwVQVwhccF654nmv4XnCrfxqU99tBcg6JCnh7e2kVfTjigYXQ6UYWixRHrZD4jHYJyzDu-mndqBiS3H0QWuvSuxmXMg&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ8tMDegQIRxAI
+            - text: "4"
+          - link "Page 5" [ref=e2938] [cursor=pointer]:
+            - /url: /search?q=blue+shoes&sca_esv=39f50cfd4d7ec138&ei=vzH6acWQLNjP1sQP1q7KyQg&start=40&sa=N&sstk=Af77f_fG8zmpwVQVwhccF654nmv4XnCrfxqU99tBcg6JCnh7e2kVfTjigYXQ6UYWixRHrZD4jHYJyzDu-mndqBiS3H0QWuvSuxmXMg&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ8tMDegQIRxAK
+            - text: "5"
+          - link "Page 6" [ref=e2940] [cursor=pointer]:
+            - /url: /search?q=blue+shoes&sca_esv=39f50cfd4d7ec138&ei=vzH6acWQLNjP1sQP1q7KyQg&start=50&sa=N&sstk=Af77f_fG8zmpwVQVwhccF654nmv4XnCrfxqU99tBcg6JCnh7e2kVfTjigYXQ6UYWixRHrZD4jHYJyzDu-mndqBiS3H0QWuvSuxmXMg&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ8tMDegQIRxAM
+            - text: "6"
+          - link "Page 7" [ref=e2942] [cursor=pointer]:
+            - /url: /search?q=blue+shoes&sca_esv=39f50cfd4d7ec138&ei=vzH6acWQLNjP1sQP1q7KyQg&start=60&sa=N&sstk=Af77f_fG8zmpwVQVwhccF654nmv4XnCrfxqU99tBcg6JCnh7e2kVfTjigYXQ6UYWixRHrZD4jHYJyzDu-mndqBiS3H0QWuvSuxmXMg&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ8tMDegQIRxAO
+            - text: "7"
+          - link "Page 8" [ref=e2944] [cursor=pointer]:
+            - /url: /search?q=blue+shoes&sca_esv=39f50cfd4d7ec138&ei=vzH6acWQLNjP1sQP1q7KyQg&start=70&sa=N&sstk=Af77f_fG8zmpwVQVwhccF654nmv4XnCrfxqU99tBcg6JCnh7e2kVfTjigYXQ6UYWixRHrZD4jHYJyzDu-mndqBiS3H0QWuvSuxmXMg&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ8tMDegQIRxAQ
+            - text: "8"
+          - link "Page 9" [ref=e2946] [cursor=pointer]:
+            - /url: /search?q=blue+shoes&sca_esv=39f50cfd4d7ec138&ei=vzH6acWQLNjP1sQP1q7KyQg&start=80&sa=N&sstk=Af77f_fG8zmpwVQVwhccF654nmv4XnCrfxqU99tBcg6JCnh7e2kVfTjigYXQ6UYWixRHrZD4jHYJyzDu-mndqBiS3H0QWuvSuxmXMg&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ8tMDegQIRxAS
+            - text: "9"
+          - link "Page 10" [ref=e2948] [cursor=pointer]:
+            - /url: /search?q=blue+shoes&sca_esv=39f50cfd4d7ec138&ei=vzH6acWQLNjP1sQP1q7KyQg&start=90&sa=N&sstk=Af77f_fG8zmpwVQVwhccF654nmv4XnCrfxqU99tBcg6JCnh7e2kVfTjigYXQ6UYWixRHrZD4jHYJyzDu-mndqBiS3H0QWuvSuxmXMg&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ8tMDegQIRxAU
+            - text: "10"
+          - heading "Next" [level=2] [ref=e2950]:
+            - link "Next" [ref=e2951] [cursor=pointer]:
+              - /url: /search?q=blue+shoes&sca_esv=39f50cfd4d7ec138&ei=vzH6acWQLNjP1sQP1q7KyQg&start=10&sa=N&sstk=Af77f_fG8zmpwVQVwhccF654nmv4XnCrfxqU99tBcg6JCnh7e2kVfTjigYXQ6UYWixRHrZD4jHYJyzDu-mndqBiS3H0QWuvSuxmXMg&ved=2ahUKEwiF7O7M3qKUAxXYp5UCHVaXMokQ8NMDegQIRxAW
+              - generic [ref=e2953]: Next
+      - navigation
+    - contentinfo [ref=e2954]:
+      - heading "Footer Links" [level=1] [ref=e2955]
+      - generic [ref=e2959]:
+        - generic [ref=e2963]:
+          - button "Constantia, New York - From your IP address" [ref=e2965] [cursor=pointer]:
+            - generic [ref=e2966]: Constantia, New York
+            - generic [ref=e2968]:
+              - text: "-"
+              - generic [ref=e2969]: From your IP address
+          - text: "-"
+          - button "Update location" [ref=e2971] [cursor=pointer]: Update location
+        - generic [ref=e2974]:
+          - link "Help" [ref=e2975] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1
+          - link "Send feedback" [ref=e2976] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=e2977] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en&fg=1
+          - link "Terms" [ref=e2978] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en&fg=1

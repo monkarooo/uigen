@@ -1,0 +1,836 @@
+data: {"type":"start"}
+
+data: {"type":"start-step"}
+
+data: {"type":"text-start","id":"0"}
+
+data: {"type":"text-delta","id":"0","delta":"I'll create a dashboard card component that"}
+
+data: {"type":"text-delta","id":"0","delta":" displays user statistics. Let me start by creating the main App.jsx file and then a reusable card component."}
+
+data: {"type":"text-end","id":"0"}
+
+data: {"type":"tool-input-start","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","toolName":"str_replace_editor"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"{\"command\": "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"\"create\""}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":", "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"\"path"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"\":"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":" \""}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"/App.jsx\""}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":", "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"\"file"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"_te"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"xt\": "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"\"import Sta"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"tCard fro"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"m '@/comp"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"onents"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"/StatCard';\\"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"n\\nexport"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":" de"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"fault fun"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"ct"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"ion App() {"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"\\n  "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"const"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":" userSta"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"ts = [\\n "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"   {\\n  "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"    la"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"bel: 'Total"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":" U"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"sers',\\n "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"     "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"value"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":": '12,584',\\"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"n    "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"  change"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":": '"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"+1"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"2.5%',\\"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"n    "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"  trend:"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":" 'up',\\n "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"     "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"ico"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"n: '👥"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"',\\n      "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"color: 'bl"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"ue'\\n    },\\"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"n    {\\n    "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"  lab"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"el: 'Reve"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"nue',\\n     "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":" value: '"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"$48,392"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"',\\n   "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"   chan"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"ge: '+"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"8."}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"2%',\\"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"n      "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"tr"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"end"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":": 'u"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"p'"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":",\\n "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"     icon: "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"'💰',\\n  "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"    color: '"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"green'\\n   "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":" },\\n "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"   {"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"\\n      la"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"bel: "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"'Engageme"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"nt',\\n    "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"  v"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"alue: '7"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"8.4%',\\n    "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"  ch"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"ange: '-2"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":".1"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"%',\\"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"n   "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"   trend: '"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"down',\\n   "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"  "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":" icon: '📊"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"',\\"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"n      colo"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"r: '"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"purple"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"'\\n    },\\n"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"    {\\n   "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"   label:"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":" 'Act"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"ive S"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"essi"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"on"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"s',"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"\\n     "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":" valu"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"e: '3,284"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"',\\n      ch"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"ange: '+15"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":".3%',\\"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"n      "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"tren"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"d: 'up',\\n"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"      "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"icon: '"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"🔄',\\n    "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"  color: 'o"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"range'\\n"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"    }\\n  ]"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":";\\n\\n "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":" ret"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"urn (\\"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"n    <div "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"className="}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"\\\"min-h-sc"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"reen bg-grad"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"ient-"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"to-"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"br from-"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"gra"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"y-50 t"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"o-g"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"ray-100 "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"p-8\\\">\\n "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"     <d"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"iv classNa"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"me=\\\"max-w"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"-7xl mx-"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"auto\\\">\\n "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"    "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"   <h"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"1 classNam"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"e=\\\"text-"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"4xl font-bo"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"ld"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":" text-gray-9"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"00 "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"mb-2\\\">Das"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"hboard</h1>"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"\\n  "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"      <p cla"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"ssName"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"=\\\""}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"tex"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"t-g"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"ray-600 m"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"b-8\\\">Welcom"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"e back"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"! Here's yo"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"ur performan"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"ce overview."}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"</p"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":">\\n "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"       \\n "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"    "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"   <d"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"iv classNam"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"e=\\\"grid "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"grid-col"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"s-1 md:gri"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"d-cols-2 l"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"g:grid-c"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"ols-4 ga"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"p-6\\\">"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"\\n      "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"  "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"  {user"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"Stats.map(("}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"stat, "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"in"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"dex) => (\\"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"n         "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"   <StatCar"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"d key={inde"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"x} {.."}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":".stat}"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":" />\\"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"n       "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"   ))}\\n"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"        </"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"div>\\n   "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"   </div>"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"\\n    "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"</"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":"div>\\n "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","inputTextDelta":" );\\n}\\n\"}"}
+
+data: {"type":"tool-input-available","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","toolName":"str_replace_editor","input":{"command":"create","path":"/App.jsx","file_text":"import StatCard from '@/components/StatCard';\n\nexport default function App() {\n  const userStats = [\n    {\n      label: 'Total Users',\n      value: '12,584',\n      change: '+12.5%',\n      trend: 'up',\n      icon: '👥',\n      color: 'blue'\n    },\n    {\n      label: 'Revenue',\n      value: '$48,392',\n      change: '+8.2%',\n      trend: 'up',\n      icon: '💰',\n      color: 'green'\n    },\n    {\n      label: 'Engagement',\n      value: '78.4%',\n      change: '-2.1%',\n      trend: 'down',\n      icon: '📊',\n      color: 'purple'\n    },\n    {\n      label: 'Active Sessions',\n      value: '3,284',\n      change: '+15.3%',\n      trend: 'up',\n      icon: '🔄',\n      color: 'orange'\n    }\n  ];\n\n  return (\n    <div className=\"min-h-screen bg-gradient-to-br from-gray-50 to-gray-100 p-8\">\n      <div className=\"max-w-7xl mx-auto\">\n        <h1 className=\"text-4xl font-bold text-gray-900 mb-2\">Dashboard</h1>\n        <p className=\"text-gray-600 mb-8\">Welcome back! Here's your performance overview.</p>\n        \n        <div className=\"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6\">\n          {userStats.map((stat, index) => (\n            <StatCard key={index} {...stat} />\n          ))}\n        </div>\n      </div>\n    </div>\n  );\n}\n"}}
+
+data: {"type":"tool-output-available","toolCallId":"toolu_019FNMPSBTkGNj4PGof8F11W","output":"File created: /App.jsx"}
+
+data: {"type":"finish-step"}
+
+data: {"type":"start-step"}
+
+data: {"type":"text-start","id":"0"}
+
+data: {"type":"text-delta","id":"0","delta":"Now"}
+
+data: {"type":"text-delta","id":"0","delta":" let me create the StatCard component:"}
+
+data: {"type":"text-end","id":"0"}
+
+data: {"type":"tool-input-start","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","toolName":"str_replace_editor"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"{\"command\": "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"\"cre"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"ate\""}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":", \"pa"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"th\": \"/co"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"mp"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"onents"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"/Stat"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"Ca"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"rd.jsx\""}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":", \"file"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"_tex"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"t\": "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"\"export def"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"aul"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"t "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"function Sta"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"tC"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"ard({ lab"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"el,"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":" valu"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"e, ch"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"ange, tr"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"end,"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":" ic"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"on, "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"co"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"lor ="}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":" 'b"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"lu"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"e' }) {"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"\\n"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"  const "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"colorCl"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"asse"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"s = {\\"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"n    blue"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":": 'bg"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"-blue-50 "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"border-b"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"lue"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"-200 t"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"ext-bl"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"ue-600',\\"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"n    "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"green:"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":" 'bg-g"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"reen-50 bord"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"er-green-"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"200 "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"te"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"xt-green-600"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"',\\n    p"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"urple: '"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"bg-"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"purpl"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"e-50 bo"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"rde"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"r-purple-"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"200 text"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"-purple-"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"600',\\n    "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"orang"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"e: 'bg-"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"ora"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"nge-50 borde"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"r-ora"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"nge-200"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":" text-ora"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"nge-600"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"',"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"\\n    red: '"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"bg-red"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"-50 bor"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"der-red-"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"20"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"0 text-r"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"ed-600'"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"\\n  };\\n\\n "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":" c"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"onst"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":" t"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"rendColo"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"rs "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"= {\\n    "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"up:"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":" 'text-"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"gre"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"en-600',\\"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"n    down"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":": 'text-r"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"ed-600'\\n  }"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":";\\n\\"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"n  cons"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"t bgCo"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"lor"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":" = colorClas"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"ses[colo"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"r] |"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"| "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"colorClasse"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"s.blue;\\n "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":" const t"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"rendC"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"olor"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":" = tren"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"dCo"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"lors["}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"tr"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"end] || tr"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"endColor"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"s.up;\\n "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":" const tr"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"endIcon = tr"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"end === 'up"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"' "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"? '↑' : '↓'"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":";\\"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"n\\n  "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"return (\\n "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"   <div c"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"lassName={`"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"${bgCol"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"or} border "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"rounded-"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"lg p-6 sh"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"adow-sm hove"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"r:shadow-m"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"d tran"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"sit"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"ion-shadow"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":" duration"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"-200`"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"}>\\n"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"      <div"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":" classN"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"ame=\\\""}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"flex"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":" it"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"ems-cen"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"ter j"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"ustif"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"y-between"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":" m"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"b-4\\\">\\n   "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"    "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":" <span"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":" classNam"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"e=\\\"te"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"xt-3xl"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"\\\">{ico"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"n}</spa"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"n>\\n    "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"    <span c"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"las"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"sName={`te"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"xt-sm"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":" font-semi"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"bol"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"d "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"${trendColor"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"}`}>\\n     "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"     {"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"trendIco"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"n} {chang"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"e}\\n     "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"   </span>"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"\\n      </di"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"v>"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"\\n      \\n"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"      <"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"p classNa"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"me=\\\"text"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"-gray-600 t"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"ext-sm font"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"-medium mb"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"-2\\"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"\">{la"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"bel}</"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"p>\\n "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"  "}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"   <p clas"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"sN"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"ame=\\\"t"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"ext-"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"3xl font"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"-bol"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"d text-gr"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"ay-9"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"00"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"\\\">{value}</"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"p>"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"\\n    </d"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":"iv>\\n  )"}
+
+data: {"type":"tool-input-delta","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","inputTextDelta":";\\n}\\n\"}"}
+
+data: {"type":"tool-input-available","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","toolName":"str_replace_editor","input":{"command":"create","path":"/components/StatCard.jsx","file_text":"export default function StatCard({ label, value, change, trend, icon, color = 'blue' }) {\n  const colorClasses = {\n    blue: 'bg-blue-50 border-blue-200 text-blue-600',\n    green: 'bg-green-50 border-green-200 text-green-600',\n    purple: 'bg-purple-50 border-purple-200 text-purple-600',\n    orange: 'bg-orange-50 border-orange-200 text-orange-600',\n    red: 'bg-red-50 border-red-200 text-red-600'\n  };\n\n  const trendColors = {\n    up: 'text-green-600',\n    down: 'text-red-600'\n  };\n\n  const bgColor = colorClasses[color] || colorClasses.blue;\n  const trendColor = trendColors[trend] || trendColors.up;\n  const trendIcon = trend === 'up' ? '↑' : '↓';\n\n  return (\n    <div className={`${bgColor} border rounded-lg p-6 shadow-sm hover:shadow-md transition-shadow duration-200`}>\n      <div className=\"flex items-center justify-between mb-4\">\n        <span className=\"text-3xl\">{icon}</span>\n        <span className={`text-sm font-semibold ${trendColor}`}>\n          {trendIcon} {change}\n        </span>\n      </div>\n      \n      <p className=\"text-gray-600 text-sm font-medium mb-2\">{label}</p>\n      <p className=\"text-3xl font-bold text-gray-900\">{value}</p>\n    </div>\n  );\n}\n"}}
+
+data: {"type":"tool-output-available","toolCallId":"toolu_01BBbXe3btaLcyTtVQUsVhkM","output":"File created: /components/StatCard.jsx"}
+
+data: {"type":"finish-step"}
+
+data: {"type":"start-step"}
+
+data: {"type":"text-start","id":"0"}
+
+data: {"type":"text-delta","id":"0","delta":"Perfect"}
+
+data: {"type":"text-delta","id":"0","delta":"! I've created a **dashboard card component** for displaying user statistics. The `"}
+
+data: {"type":"text-delta","id":"0","delta":"StatCard` component is reusable and accepts props for label, value, change percentage, trend direction, icon"}
+
+data: {"type":"text-delta","id":"0","delta":", and color theme. The main App displays four sample"}
+
+data: {"type":"text-delta","id":"0","delta":" stat cards in a responsive grid that adapts from 1 column on mobile to 4"}
+
+data: {"type":"text-delta","id":"0","delta":" columns on large screens. Each card features an emoji icon, the metric value"}
+
+data: {"type":"text-delta","id":"0","delta":", and a color-coded trend indicator (up/down) with smooth hover effects—"}
+
+data: {"type":"text-delta","id":"0","delta":"all styled with Tailwind CSS."}
+
+data: {"type":"text-end","id":"0"}
+
+data: {"type":"finish-step"}
+
+data: {"type":"finish","finishReason":"stop"}
+
+data: [DONE]
+
